@@ -1,11 +1,23 @@
 {
   "date": "2026-11-22",
-  "title": "AIP Morning Brief — Welcome to the show",
+  "title": "AIP Morning Brief — Trailer: what this show is",
   "show_notes": "**Trailer.** What The AIP Morning Brief covers: client capex signals, competitors, macro and SaaS benchmarks, scored by confidence with base, best and worst cases — and three things to raise with the CFO every morning.",
   "dialogue": [
-    {"speaker": "ANCHOR", "text": "Welcome to The AIP Morning Brief. Every morning, in under ten minutes, we cover the news that moves asset investment planning: utility rate cases, regulators, infrastructure funding, competitors, and the macro backdrop."},
-    {"speaker": "STRATEGIST", "text": "And I'm here to tell you what it actually means for the numbers. Every story gets a confidence rating, and the strong ones get a base case, a best case and a worst case."},
-    {"speaker": "ANCHOR", "text": "We finish every episode with three things worth raising with the CFO that day."},
-    {"speaker": "STRATEGIST", "text": "Short, sharp, and opinionated where the evidence earns it. See you tomorrow morning."}
+    {
+      "speaker": "ANCHOR",
+      "text": "Welcome to The AIP Morning Brief. Every morning, in under ten minutes, we cover the news that moves asset investment planning: utility rate cases, regulators, infrastructure funding, competitors, and the macro backdrop."
+    },
+    {
+      "speaker": "STRATEGIST",
+      "text": "And I'm here to tell you what it actually means for the numbers. Every story gets a confidence rating, and the strong ones get a base case, a best case and a worst case."
+    },
+    {
+      "speaker": "ANCHOR",
+      "text": "We finish every episode with three things worth raising with the CFO that day."
+    },
+    {
+      "speaker": "STRATEGIST",
+      "text": "Short, sharp, and opinionated where the evidence earns it. See you tomorrow morning."
+    }
   ]
 }
