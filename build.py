@@ -36,7 +36,7 @@ import numpy as np
 ROOT = Path(__file__).resolve().parent
 SITE = ROOT / "site"
 SAMPLE_RATE = 24000
-PAUSE_SECONDS = 0.35
+PAUSE_SECONDS = 0.22
 
 
 def load_config():
@@ -55,10 +55,101 @@ def fetch(url):
 
 # ---------- audio ----------
 
+GEMINI_URL = "https://generativelanguage.googleapis.com/v1beta/models/{model}:generateContent"
+
+
+def _chunk_dialogue(dialogue, max_words):
+    chunks, cur, words = [], [], 0
+    for turn in dialogue:
+        n = len(turn["text"].split())
+        if cur and words + n > max_words:
+            chunks.append(cur)
+            cur, words = [], 0
+        cur.append(turn)
+        words += n
+    if cur:
+        chunks.append(cur)
+    return chunks
+
+
+def _gemini_request(model, body, key):
+    req = urllib.request.Request(
+        GEMINI_URL.format(model=model),
+        data=json.dumps(body).encode(),
+        headers={"Content-Type": "application/json", "x-goog-api-key": key},
+    )
+    with urllib.request.urlopen(req, timeout=600) as r:
+        return json.loads(r.read())
+
+
+def _gemini_pcm(resp):
+    import base64
+    part = resp["candidates"][0]["content"]["parts"][0]["inlineData"]
+    audio = np.frombuffer(base64.b64decode(part["data"]), dtype="<i2").astype(np.float32) / 32768
+    m = re.search(r"rate=(\d+)", part.get("mimeType", ""))
+    rate = int(m.group(1)) if m else SAMPLE_RATE
+    if rate != SAMPLE_RATE:  # simple resample to our working rate
+        x_new = np.linspace(0, len(audio), int(len(audio) * SAMPLE_RATE / rate), endpoint=False)
+        audio = np.interp(x_new, np.arange(len(audio)), audio).astype(np.float32)
+    return audio
+
+
+def synthesize_gemini(dialogue, cfg):
+    """Expressive two-host audio via Gemini TTS. Returns None on any failure (caller falls back to Kokoro)."""
+    import time
+
+    key = os.environ.get("GEMINI_API_KEY")
+    g = cfg.get("gemini", {})
+    if not key or not g.get("enabled", True):
+        return None
+    names = g.get("speaker_names", {"ANCHOR": "Anchor", "STRATEGIST": "Strategist"})
+    voices = g.get("voices", {"ANCHOR": "Zephyr", "STRATEGIST": "Puck"})
+    speech_config = {"multiSpeakerVoiceConfig": {"speakerVoiceConfigs": [
+        {"speaker": names[s], "voiceConfig": {"prebuiltVoiceConfig": {"voiceName": voices[s]}}}
+        for s in ("ANCHOR", "STRATEGIST")
+    ]}}
+    pause = np.zeros(int(SAMPLE_RATE * 0.15), dtype=np.float32)
+    out = []
+    parts = _chunk_dialogue(dialogue, g.get("max_words_per_request", 450))
+    for i, part in enumerate(parts, 1):
+        lines = []
+        for turn in part:
+            text = re.sub(r"\[[^\]]*\]", "", turn["text"]).strip()
+            if text:
+                lines.append(f"{names.get(turn['speaker'].upper(), names['ANCHOR'])}: {text}")
+        body = {
+            "contents": [{"parts": [{"text": g["style"] + "\n\n" + "\n".join(lines)}]}],
+            "generationConfig": {"responseModalities": ["AUDIO"], "speechConfig": speech_config},
+        }
+        audio = None
+        for model in g.get("models", ["gemini-3.1-flash-tts-preview", "gemini-2.5-flash-preview-tts"]):
+            for attempt in range(2):
+                try:
+                    audio = _gemini_pcm(_gemini_request(model, body, key))
+                    print(f"  Gemini part {i}/{len(parts)} ok ({model}, {len(audio) / SAMPLE_RATE:.0f}s)", flush=True)
+                    break
+                except Exception as exc:  # noqa: BLE001 - any failure -> retry / next model
+                    detail = exc.read().decode()[:300] if hasattr(exc, "read") else str(exc)[:300]
+                    print(f"  Gemini part {i} {model} attempt {attempt + 1} failed: {detail}", flush=True)
+                    time.sleep(20)
+            if audio is not None:
+                break
+        if audio is None:
+            print("Gemini TTS unavailable; falling back to Kokoro for the whole episode.", flush=True)
+            return None
+        out += [audio, pause]
+    return np.concatenate(out)
+
+
 def synthesize(dialogue, cfg):
     """Return a mono float32 numpy array of the whole episode."""
     pause = np.zeros(int(SAMPLE_RATE * PAUSE_SECONDS), dtype=np.float32)
     chunks = []
+
+    if not os.environ.get("FAKE_TTS"):
+        audio = synthesize_gemini(dialogue, cfg)
+        if audio is not None:
+            return audio
 
     if os.environ.get("FAKE_TTS"):  # local testing without Kokoro
         for turn in dialogue:

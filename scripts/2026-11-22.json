@@ -1,23 +1,47 @@
 {
   "date": "2026-11-22",
-  "title": "AIP Morning Brief — Trailer: what this show is",
+  "title": "AIP Morning Brief — Trailer: meet Maya and Jordan",
   "show_notes": "**Trailer.** What The AIP Morning Brief covers: client capex signals, competitors, macro and SaaS benchmarks, scored by confidence with base, best and worst cases — and three things to raise with the CFO every morning.",
   "dialogue": [
     {
       "speaker": "ANCHOR",
-      "text": "Welcome to The AIP Morning Brief. Every morning, in under ten minutes, we cover the news that moves asset investment planning: utility rate cases, regulators, infrastructure funding, competitors, and the macro backdrop."
+      "text": "Morning! Welcome to The AIP Morning Brief. I'm Maya."
     },
     {
       "speaker": "STRATEGIST",
-      "text": "And I'm here to tell you what it actually means for the numbers. Every story gets a confidence rating, and the strong ones get a base case, a best case and a worst case."
+      "text": "And I'm Jordan. Grab a coffee, because there is a lot going on in infrastructure right now."
     },
     {
       "speaker": "ANCHOR",
-      "text": "We finish every episode with three things worth raising with the CFO that day."
+      "text": "Honestly, there's never a quiet week! So here's the deal. Every morning, in about ten minutes, we cover the news that moves asset investment planning. Utility rate cases, regulators, grid and water spending, competitors..."
     },
     {
       "speaker": "STRATEGIST",
-      "text": "Short, sharp, and opinionated where the evidence earns it. See you tomorrow morning."
+      "text": "...and the money side. Interest rates, SaaS valuations, the numbers that actually matter."
+    },
+    {
+      "speaker": "ANCHOR",
+      "text": "Right. And Jordan doesn't just read the headlines."
+    },
+    {
+      "speaker": "STRATEGIST",
+      "text": "No chance. I tell you what I think. Every story gets a confidence rating, and if it's a big one, you get the best case, the worst case, and where I think it really lands."
+    },
+    {
+      "speaker": "ANCHOR",
+      "text": "Opinionated, but only when the evidence earns it."
+    },
+    {
+      "speaker": "STRATEGIST",
+      "text": "Exactly. And we finish every single episode with three things worth raising with your CFO that day."
+    },
+    {
+      "speaker": "ANCHOR",
+      "text": "Short, sharp, and hopefully a bit of fun. See you tomorrow at six!"
+    },
+    {
+      "speaker": "STRATEGIST",
+      "text": "Don't be late!"
     }
   ]
 }
