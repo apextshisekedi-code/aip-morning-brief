@@ -1,0 +1,72 @@
+name: Publish episode
+
+on:
+  push:
+    branches: [main]
+    paths: ["scripts/*.json"]
+  workflow_dispatch:
+    inputs:
+      script:
+        description: "Script file to publish (blank = newest in scripts/)"
+        required: false
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: pip
+          cache-dependency-path: requirements.txt
+
+      - name: System packages
+        run: sudo apt-get update -qq && sudo apt-get install -y -qq espeak-ng ffmpeg fonts-dejavu-core
+
+      - name: Cache voice model
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/huggingface
+          key: kokoro-model-v1
+
+      - name: Python packages (CPU-only torch)
+        run: |
+          pip install torch --index-url https://download.pytorch.org/whl/cpu
+          pip install -r requirements.txt
+
+      - name: Pick script
+        id: pick
+        env:
+          INPUT_SCRIPT: ${{ github.event.inputs.script }}
+        run: |
+          if [ -n "$INPUT_SCRIPT" ]; then S="$INPUT_SCRIPT"; else S=$(ls scripts/*.json | sort | tail -1); fi
+          echo "Using $S"
+          echo "script=$S" >> "$GITHUB_OUTPUT"
+
+      - name: Cover art
+        run: python make_cover.py
+
+      - name: Build episode and site
+        run: python build.py "${{ steps.pick.outputs.script }}"
+
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: site
+      - id: deployment
+        uses: actions/deploy-pages@v4

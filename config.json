@@ -1,0 +1,15 @@
+{
+  "title": "The AIP Morning Brief",
+  "description": "A daily briefing on asset investment planning, infrastructure capex, utilities regulation and enterprise SaaS — with opinions, scenarios and what it means for the numbers.",
+  "author": "AIP Morning Brief",
+  "owner_email": "apextshisekedi@gmail.com",
+  "site_url": "https://apextshisekedi-code.github.io/aip-morning-brief",
+  "language": "en-gb",
+  "lang_code": "b",
+  "voices": {
+    "ANCHOR": "bf_emma",
+    "STRATEGIST": "bm_george"
+  },
+  "speed": 1.0,
+  "keep_episodes": 30
+}
