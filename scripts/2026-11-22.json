@@ -5,15 +5,15 @@
   "dialogue": [
     {
       "speaker": "ANCHOR",
-      "text": "Morning! Welcome to The AIP Morning Brief. I'm Maya."
+      "text": "Morning, and welcome to The AIP Morning Brief. I'm Maya."
     },
     {
       "speaker": "STRATEGIST",
-      "text": "And I'm Jordan. Grab a coffee, because there is a lot going on in infrastructure right now."
+      "text": "And I'm Jordan. Grab a coffee, there's a lot going on in infrastructure right now."
     },
     {
       "speaker": "ANCHOR",
-      "text": "Honestly, there's never a quiet week! So here's the deal. Every morning, in about ten minutes, we cover the news that moves asset investment planning. Utility rate cases, regulators, grid and water spending, competitors..."
+      "text": "There usually is. So, here's how it works. Every morning, in about ten minutes, we cover the news that moves asset investment planning. Utility rate cases, regulators, grid and water spending, competitors..."
     },
     {
       "speaker": "STRATEGIST",
@@ -21,11 +21,11 @@
     },
     {
       "speaker": "ANCHOR",
-      "text": "Right. And Jordan doesn't just read the headlines."
+      "text": "And Jordan doesn't just read the headlines."
     },
     {
       "speaker": "STRATEGIST",
-      "text": "No chance. I tell you what I think. Every story gets a confidence rating, and if it's a big one, you get the best case, the worst case, and where I think it really lands."
+      "text": "No, I'll tell you what I think. Every story gets a confidence rating, and for the big ones you'll get the best case, the worst case, and where I think it really lands."
     },
     {
       "speaker": "ANCHOR",
@@ -33,15 +33,15 @@
     },
     {
       "speaker": "STRATEGIST",
-      "text": "Exactly. And we finish every single episode with three things worth raising with your CFO that day."
+      "text": "Exactly. And we finish every episode with three things worth raising with your CFO that day."
     },
     {
       "speaker": "ANCHOR",
-      "text": "Short, sharp, and hopefully a bit of fun. See you tomorrow at six!"
+      "text": "Short, sharp, and hopefully useful. See you tomorrow at six."
     },
     {
       "speaker": "STRATEGIST",
-      "text": "Don't be late!"
+      "text": "See you then."
     }
   ]
 }
