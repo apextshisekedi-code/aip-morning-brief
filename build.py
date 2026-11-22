@@ -149,7 +149,9 @@ def synthesize(dialogue, cfg):
     if not os.environ.get("FAKE_TTS"):
         audio = synthesize_gemini(dialogue, cfg)
         if audio is not None:
+            print("::notice::Voice engine: Gemini TTS", flush=True)
             return audio
+        print("::notice::Voice engine: Kokoro (Gemini unavailable or no key)", flush=True)
 
     if os.environ.get("FAKE_TTS"):  # local testing without Kokoro
         for turn in dialogue:
