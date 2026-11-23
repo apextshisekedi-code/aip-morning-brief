@@ -1,0 +1,227 @@
+{
+ "date": "2026-11-23",
+ "title": "AIP Morning Brief — 23 Nov — Ofgem probes grid queue delays",
+ "show_notes": "# AIP Morning Brief — Monday 23 November 2026\n\n**Top line:** Ofgem has opened an urgent inquiry after admitting most projects in Britain's reformed grid-connection queue now face *later* dates — just as distribution networks finalise their 2028–33 (ED3) business plans for December. Delivery evidence, not just investment ambition, is becoming the currency regulators reward, and that is squarely where asset investment planning earns its keep.\n\n## Stories\n\n**1. Ofgem launches urgent inquiry into grid connection delays** · HIGH (R5 S4 T4 I3) · Metrics: pipeline timing, win rate, deal size\nOn 19 November Ofgem opened an urgent inquiry into protected and Phase 1 projects in the reformed GB connections queue, saying \"the majority of projects in the reformed queue are seeing delays.\" It is not an enforcement finding, but Ofgem will consult in December on the RIIO-3 connections incentive baseline and publish connection-outcome data in its February 2027 Infrastructure Progress Report — while the five DNOs submit ED3 plans (2028–33) in December. *Opinion:* networks now have to prove delivery and prioritisation, which strengthens the business case for portfolio-optimisation and value-based planning tools.\n- **Base:** UK transmission/distribution buyers keep evaluations live through Q1 2027, with deliverability and regulatory evidence features weighted more heavily.\n- **Best:** Incentive and reporting pressure pulls forward decisions on planning tools, lifting UK win rates and attach of analytics modules (illustrative).\n- **Worst:** Networks freeze discretionary spend while the inquiry runs, pushing some UK deals out one or two quarters.\nSources: [Ofgem](https://www.ofgem.gov.uk/news/grid-connections-delays-inquiry-phase-1-projects-drive-delivery-and-accountability) · [Planning Geek](https://www.planninggeek.co.uk/2026/grid-connection-delays/) · [GRID — ED3 methodology](https://www.grid-uk.com/news/ofgem-sets-rules-for-2028-to-2033-grid-investment-to-meet-growing-electricity-demandnbsp)\n\n**2. BoE hike plus sterling at a 2026 low: cost of capital and FX both moving** · HIGH (R5 S4 T4 I4) · Metrics: reported ARR/revenue (FX), opex, deal timing\nThe Bank of England raised Bank Rate 25bp to 4.00% on 5 November (8–1, Catherine Mann wanted 50bp) and now sees CPI peaking near 5% in Q2 2027; October CPI came in at 3.6%. GBP/USD broke below $1.31 last week, its 2026 low, down roughly 400 pips from early November. *Opinion:* higher rates raise utilities' financing costs and sharpen regulators' focus on capex efficiency; the weak pound flatters USD/CAD revenue reported in sterling but inflates dollar-denominated costs.\n- **Base:** Reported GBP revenue gets a modest FX tailwind; constant-currency growth unchanged; utility buyers ask for harder ROI cases.\n- **Best:** Rate pressure pushes utilities to optimise rather than defer capex, favouring planning software that defends allowed returns.\n- **Worst:** A further hike in December and affordability politics slow procurement approvals at UK customers.\nSources: [Mitrade/FXStreet BoE recap](https://www.mitrade.com/insights/news/live-news/article-6-2233832-20261106) · [Investment Week](https://www.investmentweek.co.uk/news/4538460/bank-england-hikes-rates-rise-2023) · [ITV — CPI 3.6%](https://www.itv.com/news/2026-11-18/uk-inflation-rises-to-36-and-britain-faces-another-squeeze-on-living-standard) · [Mitrade — GBP/USD](https://www.mitrade.com/insights/news/live-news/article-1-2266412-20261120)\n\n**3. Affordability squeeze: January price cap due by Wednesday; US regulators trimming returns** · MEDIUM (R3 S4 T5 I3) · Metrics: pipeline timing, pricing power, churn risk\nOfgem announces the January 2027 price cap on or before 25 November; supplier forecasts averaged by uSwitch point to a rise of around 28% from today's £1,723. In the US, Wisconsin's PSC approved roughly 7% for We Energies over 2027–28 (vs ~9% sought) and cut allowed return on equity to 9.5% from 9.8%. *Opinion:* the pattern is regulators allowing investment but squeezing returns and demanding justification — good for prioritisation tools, tougher on budgets.\n- **Base:** Investment plans stay intact but every line item needs defending; AIP demand holds, sales cycles lengthen modestly.\n- **Best:** \"Do more with the same allowance\" becomes the board-level message at utilities, accelerating AIP adoption.\n- **Worst:** Bill shock prompts political intervention that delays determinations and software budgets with them.\nSources: [uSwitch](https://www.uswitch.com/gas-electricity/news/energy-price-cap-january-2027-latest-predictions-and-news/) · [Wisconsin Watch](https://wisconsinwatch.org/2026/11/wisconsin-we-energies-customers-another-rate-hike-but-smaller-public-service-commission-regulators-utility/)\n\n**4. CrowdStrike in talks to buy Zscaler** · MEDIUM (R4 S3 T3 I2) · Metrics: valuation benchmarks, competitive landscape\nBloomberg reported on Friday that CrowdStrike (~$233bn market cap) is in talks to acquire Zscaler (~$32bn, down 13% this year); no terms, no comment, and no certainty of a deal. Zscaler jumped about 18% after hours, CrowdStrike fell over 8%. *Opinion:* with horizontal SaaS trading near 2x forward revenue, scaled platforms are buying growth cheaply — a template that could reach industrial software too.\n- **Base:** Reinforces \"platform beats point solution\" narrative in buyer conversations and board valuation discussions.\n- **Best:** Higher strategic premiums lift private software marks, supportive for sponsor-backed vendors.\n- **Worst:** Consolidation among larger vendors (EAM/ERP) creates bundled offers that pressure standalone pricing.\nSources: [Yahoo Finance/Bloomberg](https://finance.yahoo.com/technology/articles/crowdstrike-talks-buy-cybersecurity-firm-210511823.html) · [Cyber Security News](https://cybersecuritynews.com/crowdstrike-to-acquire-zscaler/)\n\n**5. One to watch: Canada extends grid tax credits; SAM rolls up utility GIS** · LOW (time-sensitivity low)\nCanada's 5 November budget extended clean-electricity credits to 2040 and widened them to large intraprovincial lines (~C$38.5bn cost over time, framed as C$50bn+ toward doubling the grid by 2050). Separately, New Mountain-backed SAM bought utility GIS firms SSP Innovations and 3-GIS (terms undisclosed) — a reminder that the utility data/GIS layer is consolidating.\nSources: [The Hub](https://thehub.ca/2026/11/07/ottawa-commits-50-billion-to-double-canadas-electricity-grid-by-2050/) · [Highways Today](https://highways.today/2026/11/06/sam-acquires-ssp-3gis/)\n\n## Macro & SaaS pulse\n- BoE Bank Rate 4.00% after November hike; next decision 17 December, markets price further tightening. [Mitrade](https://www.mitrade.com/insights/news/live-news/article-6-2233832-20261106)\n- UK CPI 3.6% in October (from 3.5%); BoE sees ~5% peak next spring. [ITV](https://www.itv.com/news/2026-11-18/uk-inflation-rises-to-36-and-britain-faces-another-squeeze-on-living-standard)\n- GBP/USD around $1.31, its weakest of 2026. [Mitrade](https://www.mitrade.com/insights/news/live-news/article-1-2266412-20261120)\n- Public SaaS: median forward EV/revenue ~1.9x horizontal, ~2.0x vertical, ~2.7x infrastructure. [Multiples.vc](https://multiples.vc/insights/software-saas-valuation-multiples)\n- Workday reports fiscal Q3 Tuesday after the close (consensus ~$2.69bn revenue, ~10.6% growth) — a read on enterprise software budgets and AI bookings. [Finviz](https://finviz.com/news/423401/workdays-promised-second-half-ai-bookings-surge-faces-its-first-real-test)\n\n## 3 things to raise with the CFO\n1. **UK pipeline timing vs. Ofgem scrutiny.** ED3 plans land in December and the connections inquiry is live. *Ask:* run a pipeline sensitivity that slips UK network opportunities one quarter, and agree whether to fund a targeted \"deliverability evidence\" campaign before Ofgem's December consultation.\n2. **FX in the forecast.** Sterling is at a 2026 low. *Ask:* refresh plan FX rates, report ARR at constant currency alongside reported, and flag the size of any FX tailwind so it isn't mistaken for underlying growth.\n3. **Inflation-linked pricing on renewals.** UK CPI 3.6% heading towards ~5%. *Ask:* deal desk to review escalator clauses and renewal uplift policy now, paired with ROI collateral, since customers are under the same affordability squeeze.\n\n## Sources\n- https://www.ofgem.gov.uk/news/grid-connections-delays-inquiry-phase-1-projects-drive-delivery-and-accountability\n- https://www.planninggeek.co.uk/2026/grid-connection-delays/\n- https://www.grid-uk.com/news/ofgem-sets-rules-for-2028-to-2033-grid-investment-to-meet-growing-electricity-demandnbsp\n- https://www.mitrade.com/insights/news/live-news/article-6-2233832-20261106\n- https://www.investmentweek.co.uk/news/4538460/bank-england-hikes-rates-rise-2023\n- https://www.itv.com/news/2026-11-18/uk-inflation-rises-to-36-and-britain-faces-another-squeeze-on-living-standard\n- https://www.mitrade.com/insights/news/live-news/article-1-2266412-20261120\n- https://www.uswitch.com/gas-electricity/news/energy-price-cap-january-2027-latest-predictions-and-news/\n- https://wisconsinwatch.org/2026/11/wisconsin-we-energies-customers-another-rate-hike-but-smaller-public-service-commission-regulators-utility/\n- https://finance.yahoo.com/technology/articles/crowdstrike-talks-buy-cybersecurity-firm-210511823.html\n- https://cybersecuritynews.com/crowdstrike-to-acquire-zscaler/\n- https://thehub.ca/2026/11/07/ottawa-commits-50-billion-to-double-canadas-electricity-grid-by-2050/\n- https://highways.today/2026/11/06/sam-acquires-ssp-3gis/\n- https://multiples.vc/insights/software-saas-valuation-multiples\n- https://finviz.com/news/423401/workdays-promised-second-half-ai-bookings-surge-faces-its-first-real-test\n",
+ "dialogue": [
+  {
+   "speaker": "ANCHOR",
+   "text": "Morning, and welcome to the AIP Morning Brief. I'm Maya."
+  },
+  {
+   "speaker": "STRATEGIST",
+   "text": "And I'm Jordan. Good to be back on a Monday."
+  },
+  {
+   "speaker": "ANCHOR",
+   "text": "Our top story: Britain's energy regulator has opened an urgent inquiry after admitting most projects in the reformed grid connection queue are now facing later dates, not earlier ones."
+  },
+  {
+   "speaker": "STRATEGIST",
+   "text": "Which lands right as the local networks finish their next five-year business plans. Timing is everything this week."
+  },
+  {
+   "speaker": "ANCHOR",
+   "text": "Let's start there, then. Jordan, what actually happened?"
+  },
+  {
+   "speaker": "STRATEGIST",
+   "text": "You tell it, I'll react."
+  },
+  {
+   "speaker": "ANCHOR",
+   "text": "Fair enough. Last Thursday Ofgem, the GB energy regulator, launched what it called an urgent inquiry into protected and Phase One projects in the connections queue. It said the majority of projects in the reformed queue are seeing delays. It's not an enforcement finding, there's no licence breach, but it's promising a consultation in December on the connections incentive under RIIO-3, the current transmission price control, and hard outcome data in February."
+  },
+  {
+   "speaker": "STRATEGIST",
+   "text": "Here's why that matters. The whole connections reform was sold as speeding things up. The regulator has now said, in public, that for most projects it's done the opposite. So the pressure shifts from how much are you investing to can you prove you're delivering it."
+  },
+  {
+   "speaker": "ANCHOR",
+   "text": "And the distribution networks?"
+  },
+  {
+   "speaker": "STRATEGIST",
+   "text": "That's the other half. The five distribution network operators submit their plans for twenty twenty-eight to twenty thirty-three, what's called ED3, in December. They're writing those plans under exactly this spotlight."
+  },
+  {
+   "speaker": "ANCHOR",
+   "text": "So a plan that says we'll spend more isn't enough anymore."
+  },
+  {
+   "speaker": "STRATEGIST",
+   "text": "No. It has to say what you'll spend it on first, why, and what risk you're accepting by leaving something else until later. That's a prioritisation argument, and regulators want to see the working."
+  },
+  {
+   "speaker": "ANCHOR",
+   "text": "So how confident are you on this one?"
+  },
+  {
+   "speaker": "STRATEGIST",
+   "text": "I'd put it at high confidence. It's straight from the regulator, it's specific, and the dates are fixed. The base case is that network buyers keep planning tool evaluations live into the first quarter, but they weight deliverability and regulatory evidence more heavily."
+  },
+  {
+   "speaker": "ANCHOR",
+   "text": "Best case?"
+  },
+  {
+   "speaker": "STRATEGIST",
+   "text": "Incentive pressure pulls decisions forward. If you can show a regulator why this project goes before that one, you're suddenly very useful."
+  },
+  {
+   "speaker": "ANCHOR",
+   "text": "Hang on, though. Couldn't an inquiry just make everyone freeze?"
+  },
+  {
+   "speaker": "STRATEGIST",
+   "text": "It could, and that's the worst case. Discretionary spend pauses while the inquiry runs, and some UK deals slip a quarter or two. I don't think that's where it lands, but I'd model it."
+  },
+  {
+   "speaker": "ANCHOR",
+   "text": "Story two is macro, but it bites. The Bank of England raised rates on the fifth of November, a quarter point to four per cent. Eight to one, with Catherine Mann wanting half a point. And the pound slipped below one point three one dollars last week, its weakest level this year."
+  },
+  {
+   "speaker": "STRATEGIST",
+   "text": "That's a big one, and it cuts two ways. Higher rates mean utilities pay more to finance their capital programmes, which makes regulators even fussier about efficiency. And the Bank now sees inflation peaking near five per cent next spring."
+  },
+  {
+   "speaker": "ANCHOR",
+   "text": "And the currency?"
+  },
+  {
+   "speaker": "STRATEGIST",
+   "text": "A weaker pound flatters any dollar or Canadian dollar revenue when you report in sterling. It also makes dollar costs more expensive. High confidence again, these are hard numbers."
+  },
+  {
+   "speaker": "ANCHOR",
+   "text": "Is there a cost of capital angle for the utilities themselves?"
+  },
+  {
+   "speaker": "STRATEGIST",
+   "text": "There is. Regulators set allowed returns partly off market rates, so a rising rate environment reopens arguments about what investors need to earn. That tends to make every determination a bit more contested, and a bit slower."
+  },
+  {
+   "speaker": "ANCHOR",
+   "text": "So it's good news for reported revenue."
+  },
+  {
+   "speaker": "STRATEGIST",
+   "text": "For reported, yes. For underlying, no change at all. That's the trap. You don't want a currency tailwind mistaken for growth in a board pack."
+  },
+  {
+   "speaker": "ANCHOR",
+   "text": "Where does it really land?"
+  },
+  {
+   "speaker": "STRATEGIST",
+   "text": "Base case, a modest translation tailwind and buyers asking for harder return-on-investment cases. Best case, rate pressure pushes utilities to optimise capex rather than defer it. Worst case, another hike on the seventeenth of December and affordability politics slow approvals."
+  },
+  {
+   "speaker": "ANCHOR",
+   "text": "Which takes us neatly to story three: affordability. Ofgem announces the January price cap on or before Wednesday. Supplier forecasts, averaged by uSwitch, point to a rise of around twenty-eight per cent."
+  },
+  {
+   "speaker": "STRATEGIST",
+   "text": "...which is a forecast, not a decision, so I'll be careful."
+  },
+  {
+   "speaker": "ANCHOR",
+   "text": "Right. And there's a US echo. In Wisconsin, regulators approved about seven per cent for We Energies over two years, against roughly nine requested, and trimmed the allowed return on equity to nine and a half per cent."
+  },
+  {
+   "speaker": "STRATEGIST",
+   "text": "I'd call this medium confidence. The Wisconsin decision is firm, the UK number isn't yet. But the pattern is consistent: regulators are letting investment through and squeezing the returns and the justification around it."
+  },
+  {
+   "speaker": "ANCHOR",
+   "text": "Is that good or bad for anyone in asset investment planning?"
+  },
+  {
+   "speaker": "STRATEGIST",
+   "text": "Mostly good. Well, a bit of both. Base case, plans stay intact but every line item has to be defended, so demand holds and sales cycles stretch a little. Best case, do more with the same allowance becomes the board message at utilities. Worst case, bill shock triggers political intervention and determinations slip, with software budgets behind them."
+  },
+  {
+   "speaker": "ANCHOR",
+   "text": "I'm not sure I'd call it mostly good. If bills jump by a quarter in January, I'd expect procurement teams to get very cautious, very quickly."
+  },
+  {
+   "speaker": "STRATEGIST",
+   "text": "Fair point. I'd say the demand is real but the paperwork gets heavier. Call it good for the category, slower for the calendar."
+  },
+  {
+   "speaker": "ANCHOR",
+   "text": "I'll take that. Story four is from outside our patch, but it's a valuation story. Bloomberg reported on Friday that CrowdStrike is in talks to buy Zscaler, worth about thirty-two billion dollars. No terms, no comment from either side, and no certainty of a deal. Zscaler jumped about eighteen per cent after hours."
+  },
+  {
+   "speaker": "STRATEGIST",
+   "text": "Medium confidence. It's a credible report, but it's talks. Why we care: horizontal software trades at roughly two times forward revenue right now. Scaled platforms are looking at that and thinking growth is cheap to buy."
+  },
+  {
+   "speaker": "ANCHOR",
+   "text": "Two times revenue. That would have sounded like a typo a few years ago."
+  },
+  {
+   "speaker": "STRATEGIST",
+   "text": "It would. Which is exactly why buyers with big balance sheets are shopping."
+  },
+  {
+   "speaker": "ANCHOR",
+   "text": "Could that spread to industrial software?"
+  },
+  {
+   "speaker": "STRATEGIST",
+   "text": "That's the question. Base case, it reinforces the platform beats point solution story in buyer conversations. Best case, strategic premiums lift private software valuations, which matters for sponsor-backed vendors. Worst case, the big enterprise asset management and ERP players bundle harder and pressure standalone pricing."
+  },
+  {
+   "speaker": "ANCHOR",
+   "text": "Quick pulse. UK inflation three point six per cent in October. Bank Rate four per cent, next decision the seventeenth of December. Sterling around one thirty-one."
+  },
+  {
+   "speaker": "STRATEGIST",
+   "text": "Public software multiples: roughly one point nine times forward revenue for horizontal, two times for vertical, two point seven for infrastructure. And Workday reports tomorrow night, a useful read on enterprise budgets."
+  },
+  {
+   "speaker": "ANCHOR",
+   "text": "One more: Canada's budget extended its clean electricity tax credits to twenty forty, now covering large lines within provinces. One to watch."
+  },
+  {
+   "speaker": "ANCHOR",
+   "text": "So, Jordan, three things to raise with the CFO."
+  },
+  {
+   "speaker": "STRATEGIST",
+   "text": "One. UK pipeline timing. With ED3 plans landing and the inquiry running, run a sensitivity that slips UK network opportunities by a quarter, and decide whether to fund a focused push on deliverability evidence before the December consultation."
+  },
+  {
+   "speaker": "ANCHOR",
+   "text": "So the ask is a scenario and a decision, not just a worry."
+  },
+  {
+   "speaker": "STRATEGIST",
+   "text": "Exactly. Two. Currency. Refresh plan FX rates, show annual recurring revenue at constant currency next to reported, and size the tailwind so nobody mistakes it for momentum."
+  },
+  {
+   "speaker": "ANCHOR",
+   "text": "And three?"
+  },
+  {
+   "speaker": "STRATEGIST",
+   "text": "Pricing. With inflation heading toward five per cent, get the deal desk to review escalator clauses and renewal uplift policy now, paired with solid return-on-investment material."
+  },
+  {
+   "speaker": "ANCHOR",
+   "text": "Because customers are feeling the same squeeze, so the uplift needs a story behind it."
+  },
+  {
+   "speaker": "STRATEGIST",
+   "text": "Precisely. Price with evidence, not just the index."
+  },
+  {
+   "speaker": "ANCHOR",
+   "text": "That's the brief for Monday. Thanks, Jordan."
+  },
+  {
+   "speaker": "STRATEGIST",
+   "text": "Thanks, Maya. Have a good week, everyone."
+  }
+ ]
+}
