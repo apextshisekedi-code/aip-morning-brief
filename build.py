@@ -8,8 +8,12 @@ Script JSON format (written each morning by the Claude scheduled task):
   "date": "2026-11-23",
   "title": "AIP Morning Brief — 23 Nov — <hook>",
   "show_notes": "Markdown show notes with source links",
-  "dialogue": [{"speaker": "ANCHOR", "text": "..."}, {"speaker": "STRATEGIST", "text": "..."}]
+  "guests": ["GUEST_REG"],   # optional: which recurring guests appear
+  "dialogue": [{"speaker": "ANCHOR", "text": "..."}, {"speaker": "STRATEGIST", "text": "..."},
+               {"speaker": "GUEST_REG", "text": "..."}]
 }
+Speaker keys: ANCHOR (Maya), STRATEGIST (Jordan), GUEST_REG (Priya),
+GUEST_MARKETS (Marcus), GUEST_TECH (Sofia) - names and voices live in config.json.
 
 The live GitHub Pages site is the store: each run downloads the current
 episodes.json and recent MP3s from it, adds the new episode, and rebuilds
@@ -58,15 +62,20 @@ def fetch(url):
 GEMINI_URL = "https://generativelanguage.googleapis.com/v1beta/models/{model}:generateContent"
 
 
-def _chunk_dialogue(dialogue, max_words):
-    chunks, cur, words = [], [], 0
+def _chunk_dialogue(dialogue, max_words, max_speakers=None):
+    """Split dialogue into chunks of at most max_words, and (optionally) at most
+    max_speakers distinct speakers per chunk (Gemini multi-speaker TTS allows two)."""
+    chunks, cur, words, speakers = [], [], 0, set()
     for turn in dialogue:
         n = len(turn["text"].split())
-        if cur and words + n > max_words:
+        spk = turn["speaker"].upper()
+        too_many = max_speakers and spk not in speakers and len(speakers) >= max_speakers
+        if cur and (words + n > max_words or too_many):
             chunks.append(cur)
-            cur, words = [], 0
+            cur, words, speakers = [], 0, set()
         cur.append(turn)
         words += n
+        speakers.add(spk)
     if cur:
         chunks.append(cur)
     return chunks
@@ -102,21 +111,34 @@ def synthesize_gemini(dialogue, cfg):
     g = cfg.get("gemini", {})
     if not key or not g.get("enabled", True):
         return None
-    names = g.get("speaker_names", {"ANCHOR": "Anchor", "STRATEGIST": "Strategist"})
+    names = dict(g.get("speaker_names", {"ANCHOR": "Anchor", "STRATEGIST": "Strategist"}))
     voices = g.get("voices", {"ANCHOR": "Zephyr", "STRATEGIST": "Puck"})
-    speech_config = {"multiSpeakerVoiceConfig": {"speakerVoiceConfigs": [
-        {"speaker": names[s], "voiceConfig": {"prebuiltVoiceConfig": {"voiceName": voices[s]}}}
-        for s in ("ANCHOR", "STRATEGIST")
-    ]}}
+
+    def voice_cfg(spk):
+        return {"prebuiltVoiceConfig": {"voiceName": voices.get(spk, voices["ANCHOR"])}}
+
     pause = np.zeros(int(SAMPLE_RATE * 0.15), dtype=np.float32)
     out = []
-    parts = _chunk_dialogue(dialogue, g.get("max_words_per_request", 450))
+    parts = _chunk_dialogue(dialogue, g.get("max_words_per_request", 450), max_speakers=2)
     for i, part in enumerate(parts, 1):
+        spks = []
+        for turn in part:
+            spk = turn["speaker"].upper()
+            spk = spk if spk in names else "ANCHOR"
+            turn["_spk"] = spk
+            if spk not in spks:
+                spks.append(spk)
         lines = []
         for turn in part:
             text = re.sub(r"\[[^\]]*\]", "", turn["text"]).strip()
             if text:
-                lines.append(f"{names.get(turn['speaker'].upper(), names['ANCHOR'])}: {text}")
+                lines.append(f"{names[turn['_spk']]}: {text}" if len(spks) > 1 else text)
+        if len(spks) > 1:
+            speech_config = {"multiSpeakerVoiceConfig": {"speakerVoiceConfigs": [
+                {"speaker": names[s], "voiceConfig": voice_cfg(s)} for s in spks
+            ]}}
+        else:
+            speech_config = {"voiceConfig": voice_cfg(spks[0])}
         body = {
             "contents": [{"parts": [{"text": g["style"] + "\n\n" + "\n".join(lines)}]}],
             "generationConfig": {"responseModalities": ["AUDIO"], "speechConfig": speech_config},
@@ -157,7 +179,7 @@ def synthesize(dialogue, cfg):
         for turn in dialogue:
             secs = max(1.0, len(turn["text"].split()) / 2.6)
             t = np.linspace(0, secs, int(SAMPLE_RATE * secs), endpoint=False)
-            freq = 220 if turn["speaker"] == "ANCHOR" else 330
+            freq = {"ANCHOR": 220, "STRATEGIST": 330}.get(turn["speaker"], 440)
             chunks += [(0.1 * np.sin(2 * np.pi * freq * t)).astype(np.float32), pause]
         return np.concatenate(chunks)
 

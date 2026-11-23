@@ -1,6 +1,6 @@
 {
   "title": "The AIP Morning Brief",
-  "description": "A daily briefing on asset investment planning, infrastructure capex, utilities regulation and enterprise SaaS — with opinions, scenarios and what it means for the numbers.",
+  "description": "A daily briefing on asset investment planning, infrastructure capex, utilities regulation and enterprise SaaS — with opinions, scenarios and what it means for the numbers, plus recurring specialist guests. Hosts and guests are AI-generated voices.",
   "author": "AIP Morning Brief",
   "owner_email": "apextshisekedi@gmail.com",
   "site_url": "https://apextshisekedi-code.github.io/aip-morning-brief",
@@ -8,7 +8,10 @@
   "lang_code": "b",
   "voices": {
     "ANCHOR": "bf_emma",
-    "STRATEGIST": "bm_george"
+    "STRATEGIST": "bm_george",
+    "GUEST_REG": "bf_isabella",
+    "GUEST_MARKETS": "bm_lewis",
+    "GUEST_TECH": "bf_alice"
   },
   "speed": 1.08,
   "keep_episodes": 30,
@@ -20,13 +23,19 @@
     ],
     "speaker_names": {
       "ANCHOR": "Maya",
-      "STRATEGIST": "Jordan"
+      "STRATEGIST": "Jordan",
+      "GUEST_REG": "Priya",
+      "GUEST_MARKETS": "Marcus",
+      "GUEST_TECH": "Sofia"
     },
     "voices": {
       "ANCHOR": "Zephyr",
-      "STRATEGIST": "Puck"
+      "STRATEGIST": "Puck",
+      "GUEST_REG": "Kore",
+      "GUEST_MARKETS": "Charon",
+      "GUEST_TECH": "Aoede"
     },
-    "max_words_per_request": 450,
-    "style": "Perform this as a calm, confident morning business podcast. Maya and Jordan are two sharp, friendly colleagues who know this industry well and enjoy discussing it over a morning coffee. Both speak with natural British accents. Tone: warm, relaxed and conversational, with genuine but understated interest — like a thoughtful BBC Radio 4 or Bloomberg morning chat, not a hyped-up show. Moderate, steady pace with natural pauses. Save extra enthusiasm for genuinely big moments, and use a more serious tone for risks. Natural, unscripted-sounding delivery, never shouty or over-excited."
+    "max_words_per_request": 550,
+    "style": "Perform this as a calm, confident morning business podcast. Maya and Jordan are two sharp, friendly colleagues who know this industry well and enjoy discussing it over a morning coffee. Both speak with natural British accents. Tone: warm, relaxed and conversational, with genuine but understated interest — like a thoughtful BBC Radio 4 or Bloomberg morning chat, not a hyped-up show. Moderate, steady pace with natural pauses. Save extra enthusiasm for genuinely big moments, and use a more serious tone for risks. Recurring guest specialists sometimes join: Priya (regulation and infrastructure policy), Marcus (markets, macro and SaaS valuation) and Sofia (enterprise software and AI); they sound like expert, articulate, measured studio guests with natural British accents. Natural, unscripted-sounding delivery, never shouty or over-excited."
   }
 }
