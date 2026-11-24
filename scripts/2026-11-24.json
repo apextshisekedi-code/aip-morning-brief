@@ -1,0 +1,443 @@
+{
+ "date": "2026-11-24",
+ "title": "AIP Morning Brief — 24 Nov — Price cap shock meets the grid investment cycle",
+ "guests": [
+  "GUEST_REG",
+  "GUEST_MARKETS"
+ ],
+ "show_notes": "# AIP Morning Brief — Tuesday 24 November 2026\n\nGuests: Priya (regulation specialist), Marcus (capital markets specialist)\n\n**Top line:** Ofgem sets the January–March price cap tomorrow (25 Nov), and Cornwall Insight expects a 26% jump to £2,166 — the highest since 2023 — landing just as distribution networks finalise ED3 business plans. With the Bank of England already hiking to 4% and the ECB likely to follow on 17 December, affordability and the cost of capital are now the two forces shaping how much grid capex regulators will wave through, and how hard they'll ask utilities to prove every pound.\n\n*A quieter 24 hours for primary news: today goes deeper on fewer stories.*\n\n## Stories\n\n**1. UK price cap set to jump 26% tomorrow — affordability meets the network investment cycle** · HIGH (R4 S4 T5 I3) · Metrics: pipeline timing, deal size, win rate\nOfgem announces the Jan–Mar 2027 cap on 25 November. Cornwall Insight forecasts £2,166 a year, up £443 (26%) from £1,723; the Bank of England's November report pencilled in about £2,150. The driver is wholesale energy after the Middle East conflict that began in March, not networks — wholesale prices have eased recently but too late for January. Government offsets include a £100 household payment, a temporary VAT cut on electricity to end-June 2027 (about £45 a year) and scrapping gas standing charges from the Budget. This lands while the five DNOs prepare ED3 (2028–33) plans for December and RIIO-3 (from April 2026) is in its first year.\n*Opinion:* even though networks aren't causing this rise, they're the part of the bill regulators and politicians can actually control. Expect sharper scrutiny of ED3 totals and AMP8 delivery, and more weight on evidence that each pound is the best-value pound. That favours value-based portfolio optimisation over \"more capex\" narratives — but can slow decisions while plans are reworked.\n- **Base:** UK network buyers keep AIP evaluations live, with business cases reframed around affordability and deliverability; timing broadly unchanged.\n- **Best:** Ofgem/government signal that ED3 will be stress-tested on value for money, pulling forward demand for optimisation and regulatory-evidence tooling (illustrative: modestly higher UK win rates in H1 2027).\n- **Worst:** political pressure prompts networks to trim or re-phase ED3 submissions and freeze discretionary software spend, slipping some UK deals one to two quarters.\n**Watch:** Ofgem's announcement 25 Nov; DNO ED3 submissions in December; Cornwall's April 2027 forecast (a \"further small rise\" possible).\nSources: [ITV, 18 Nov](https://www.itv.com/news/2026-11-18/winter-energy-bill-misery-on-way-as-price-cap-set-to-jump-by-26-in-january) · [City AM](https://www.cityam.com/households-set-for-443-increase-on-energy-bills/) · [ITV, 22 Nov](https://www.itv.com/news/2026-11-22/government-intervention-a-drop-in-the-ocean-ahead-of-energy-price-cap-rise)\n\n**2. Arizona approves 10% Tucson Electric rise — and an annual formula rate** · HIGH (R5 S3 T3 I3) · Metrics: pipeline timing, pricing power, deal size\nOn 17 November the Arizona Corporation Commission voted 4–1 for an approximately 10% net revenue increase for Tucson Electric Power (TEP had asked for 14%); typical residential bills rise just under $13 a month (about 9.4%) to roughly $150 from 1 December. More significant: it approved TEP's Annual Review and Adjustment Mechanism (ARAM), a formula rate with the first annual update due 1 September 2027. Nearly all intervenors objected, including the US Department of Defense; the Attorney General opposed both; Commissioner Márquez Peterson dissented on the formula. The ACC had already approved a formula approach for UNS Gas, and the APS decision is due in December. Separately, California's PUC had proposed trims of 21% to PG&E's 2020–22 wildfire/gas memo-account recovery and 19% to SDG&E's wildfire mitigation request on its 19 November agenda (outcomes not yet confirmed in our sources).\n*Opinion:* formula rates shorten regulatory lag and make capex recovery more predictable — good for steady utility investment. But the price is annual scrutiny: utilities must defend spending every year rather than every three or four. That shifts value toward repeatable, auditable investment justification.\n- **Base:** formula-rate utilities sustain capex programmes and treat annual-update evidence as an operating requirement.\n- **Best:** more US states (APS next) adopt formula mechanisms, raising appetite for planning tools that produce defensible annual filings.\n- **Worst:** consumer backlash (AG, intervenors) reverses or tightens formula mechanisms, and California-style disallowances make utilities cautious on discretionary spend.\n**Watch:** APS decision (December); TEP's first ARAM update (1 Sep 2027); CPUC final votes.\nSources: [ACC](https://azcc.gov/news/home/2026/11/18/acc-votes-on-tep-rate-case) · [KJZZ](https://www.kjzz.org/business/2026-11-18/corporation-commission-approves-rate-increase-for-tucson-electric-power-customers) · [Stoel Rives, 18 Nov](https://www.stoel.com/insights/reports/energy-regulatory-updates/november-18-2026)\n\n**3. Rates are going up again: BoE at 4%, ECB likely next, sterling at a 12-month low** · HIGH (R5 S4 T4 I3) · Metrics: cost, deal size, FX translation\nThe BoE raised Bank Rate to 4% from 3.75% on 4 November (8–1; Mann wanted 50bp), projecting CPI near 5% by mid-2027 on energy. October CPI came in at 3.6% (below 3.7% forecast) and wage growth slowed to 3.5%, trimming December-hike odds to about 80%. Euro-area inflation hit 4.0% in October (energy +21%); the ECB deposit rate is 2.50% and a hike on 17 December is widely expected. GBP/USD fell to just under 1.31, its lowest in a year. Fed funds 3.75–4.00%, meeting 9 December.\n*Opinion:* for utilities, higher rates push up allowed returns where cost of debt is indexed (as in RIIO), but also raise customer bills and financing pressure — reinforcing story 1. For SaaS, higher discount rates cap multiples and make CFOs prioritise cash efficiency.\n- **Base:** one more BoE and ECB hike priced in; utilities keep capex plans but scrutinise phasing; enterprise buyers lengthen approvals modestly.\n- **Best:** energy prices keep easing, hikes stop at one, and indexation lifts allowed returns without derailing capex.\n- **Worst:** a second wave of hikes in 2027 squeezes utility balance sheets and public-sector budgets, delaying discretionary software decisions.\n**Watch:** US core PCE (25 Nov); BoE Financial Stability Report (26 Nov); Fed 9 Dec; BoE and ECB 17 Dec.\nSources: [BoE MPS](https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2026/november-2026) · [TIN on ECB](https://www.tradingandinvestmentnews.co.uk/ecb-rate-hike-december/) · [FXStreet](https://fxstreet.com/news/the-british-pound-goes-into-pmi-week-paying-for-softer-inflation-and-slower-pay-202611202157)\n\n**4. Workday reports tonight — the bellwether for AI monetisation vs. seats** · MEDIUM (R4 S3 T4 I2) · Metrics: pricing power, NRR, valuation benchmarks\nWorkday reports fiscal Q3 after the US close today. Consensus: revenue about $2.69bn (+10.6%), non-GAAP EPS $2.74. Full-year subscription guidance $9.94–9.95bn, margin target 30.5%. The bull case is agentic AI (ARR approaching $500m earlier this year); the bear case is flat seat counts at existing customers and softer public-sector deals. Shares around $196, with an implied post-results range of roughly $181–213.\n*Opinion (caveated):* the question every enterprise SaaS CFO is asking — can AI agents offset seat-based stagnation — gets a public answer tonight. A miss on bookings would reinforce pressure to move from per-user to outcome or asset-based pricing.\n- **Base:** in-line results, modest AI progress; multiples hold.\n- **Best:** visible AI bookings acceleration supports premium multiples for vertical SaaS with clear outcome pricing.\n- **Worst:** weak seat expansion and public-sector softness reignite \"SaaSpocalypse\" fears, compressing comps and raising board questions on NRR.\n**Watch:** results today after US close; Salesforce in early December.\nSources: [Workday IR](https://newsroom.workday.com/2026-11-02-Workday-to-Announce-Fiscal-2027-Third-Quarter-Financial-Results-on-November-24,-2026) · [Earnings Whispers via Finviz](https://finviz.com/news/423401/workdays-promised-second-half-ai-bookings-surge-faces-its-first-real-test)\n\n**5. Bentley's read-across: utilities momentum, 110% NRR, and an AI pricing question** · MEDIUM (R4 S3 T2 I3) · Metrics: win rate, pricing, NRR benchmarks\nBentley's Q3 (5 Nov) showed ARR of $1.58bn, +13% constant currency (third straight acceleration), record 110% net retention, and raised ARR guidance to 12.5–13.5%. Management cited \"continued momentum in Public Works & Utilities\" and asset analytics driving about half the sequential improvement. Risks flagged by analysts: the IIJA expired in September, and AI pricing could pressure per-user licensing. Bentley declared its Q4 dividend on 20 Nov.\n*Opinion (caveated):* infrastructure software demand is holding up despite macro noise — a useful external benchmark. Bentley pushing into asset analytics moves it closer to the operate-and-maintain decisions where AIP lives.\n- **Base:** Bentley stays mainly design/engineering; limited head-to-head change.\n- **Best:** strong public-works demand lifts the whole category and supports pricing.\n- **Worst:** Bentley bundles asset analytics into existing enterprise agreements, pressuring competitive pricing in utility deals.\n**Watch:** Bentley Q4 results and 2027 guidance (February); any US infrastructure reauthorisation.\nSources: [InvestorsHub via Finviz](https://finviz.com/news/417165/bentley-systems-reports-122-revenue-growth-and-raises-annual-recurring-revenue-outlook) · [Earnings Whispers via Finviz](https://finviz.com/news/417901/bentley-systems-delivers-a-second-straight-arr-acceleration-and-a-guidance-raise-but-a-44-pre-report-rally-raises-the-bar)\n\n## Macro & SaaS pulse\n- **Vertical SaaS multiples recovered:** average EV/2026E revenue 6.0x at 30 Sept (from 4.7x), median about 4.2x; the median SaaS stock is still down about 11% year to date. [First Analysis](https://www.firstanalysis.com/research/vertical-saas-oct-2026/)\n- **Industrial software M&A at a record:** 123 deals in H1 2026 (+84%), 40% by PE, average 4.5x TEV/revenue; focused players trade at 5.7x vs 3.5x for diversified. [MP Corporate Finance](https://www.mp-corporatefinance.com/news/industrial-software-ma-2026/)\n- **Oil:** Brent has slipped back to the low-to-mid $90s on supply recovery and peace hopes, well below the ~$108 the BoE used in its November forecast — a potential downside surprise for 2027 inflation. [Saxo](https://www.home.saxo/en-gb/content/articles/commodities/oil-supply-recovers-but-no-war-no-peace-keeps-escalation-risks-elevated-12112026)\n- **FX:** GBP/USD just under 1.31 (12-month low); EUR supported by hike expectations. [FXStreet](https://fxstreet.com/news/the-british-pound-goes-into-pmi-week-paying-for-softer-inflation-and-slower-pay-202611202157)\n\n## 3 things to raise with the CFO\n1. **UK affordability scenario for ED3/AMP8.** Ask: do we have a downside case for UK pipeline timing if networks re-phase plans after tomorrow's price cap? Suggest tagging UK opportunities by regulatory milestone so slippage is visible early.\n2. **Formula-rate states as a segment.** Arizona joins the list of annual-review regimes. Suggest sales finance map US pipeline by regulatory mechanism (formula vs. multi-year vs. traditional) — annual evidence requirements may support a repeatable-value pitch and pricing.\n3. **FX and rates sensitivity in the plan.** With GBP/USD at a 12-month low and hikes in play, ask for an updated FX translation and discount-rate sensitivity on the 2027 plan, and check whether multi-year deals need FX or indexation clauses revisited.\n\n## Sources\n- [Ofgem price cap forecast — ITV](https://www.itv.com/news/2026-11-18/winter-energy-bill-misery-on-way-as-price-cap-set-to-jump-by-26-in-january)\n- [City AM — £443 increase](https://www.cityam.com/households-set-for-443-increase-on-energy-bills/)\n- [ITV — government measures](https://www.itv.com/news/2026-11-22/government-intervention-a-drop-in-the-ocean-ahead-of-energy-price-cap-rise)\n- [ACC — TEP rate case vote](https://azcc.gov/news/home/2026/11/18/acc-votes-on-tep-rate-case)\n- [KJZZ — TEP](https://www.kjzz.org/business/2026-11-18/corporation-commission-approves-rate-increase-for-tucson-electric-power-customers)\n- [Stoel Rives energy regulatory update](https://www.stoel.com/insights/reports/energy-regulatory-updates/november-18-2026)\n- [Bank of England — November MPS](https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2026/november-2026)\n- [ECB hike odds — TIN](https://www.tradingandinvestmentnews.co.uk/ecb-rate-hike-december/)\n- [FXStreet — sterling](https://fxstreet.com/news/the-british-pound-goes-into-pmi-week-paying-for-softer-inflation-and-slower-pay-202611202157)\n- [Workday IR](https://newsroom.workday.com/2026-11-02-Workday-to-Announce-Fiscal-2027-Third-Quarter-Financial-Results-on-November-24,-2026)\n- [Workday preview](https://finviz.com/news/423401/workdays-promised-second-half-ai-bookings-surge-faces-its-first-real-test)\n- [Bentley Q3](https://finviz.com/news/417165/bentley-systems-reports-122-revenue-growth-and-raises-annual-recurring-revenue-outlook)\n- [First Analysis vertical SaaS](https://www.firstanalysis.com/research/vertical-saas-oct-2026/)\n- [MP Corporate Finance](https://www.mp-corporatefinance.com/news/industrial-software-ma-2026/)\n\n*Hosts and guests are AI-generated characters.*\n",
+ "dialogue": [
+  {
+   "speaker": "ANCHOR",
+   "text": "Morning, and welcome to The AIP Morning Brief. It's Tuesday the twenty-fourth of November. I'm Maya."
+  },
+  {
+   "speaker": "STRATEGIST",
+   "text": "And I'm Jordan. Morning, Maya."
+  },
+  {
+   "speaker": "ANCHOR",
+   "text": "Tomorrow, Ofgem sets Britain's energy price cap for January, and the forecasts say it jumps about a quarter. That lands right as the grid companies finalise their next big investment plans."
+  },
+  {
+   "speaker": "STRATEGIST",
+   "text": "Which means affordability is about to become the loudest voice in the room on network spending."
+  },
+  {
+   "speaker": "ANCHOR",
+   "text": "We've got Priya, our regulation specialist, on that, and Marcus, our capital markets specialist, later on rates, sterling and tonight's Workday results. It's a fairly quiet news day, so we'll go deeper on fewer stories."
+  },
+  {
+   "speaker": "ANCHOR",
+   "text": "Let's start with the price cap. Ofgem, the energy regulator for Great Britain, announces the cap for January to March tomorrow. Cornwall Insight, the consultancy most people watch on this, forecasts a twenty-six per cent rise, to two thousand one hundred and sixty-six pounds a year for a typical household."
+  },
+  {
+   "speaker": "STRATEGIST",
+   "text": "That's up four hundred and forty-three pounds on the current level of one thousand seven hundred and twenty-three. The highest since twenty twenty-three."
+  },
+  {
+   "speaker": "ANCHOR",
+   "text": "And the Bank of England, in its November forecast, pencilled in something very similar, about two thousand one hundred and fifty. So this isn't a fringe estimate."
+  },
+  {
+   "speaker": "STRATEGIST",
+   "text": "No. And it's worth being clear on the cause, because it matters for our world. This is wholesale energy, driven by the Middle East conflict that started in March. It's not the networks."
+  },
+  {
+   "speaker": "ANCHOR",
+   "text": "Wholesale prices have actually eased in recent weeks, haven't they?"
+  },
+  {
+   "speaker": "STRATEGIST",
+   "text": "They have, on hopes of a resolution. But the cap looks backwards over a window, so the relief arrives too late for January."
+  },
+  {
+   "speaker": "ANCHOR",
+   "text": "And the government has tried to soften it. There's a one hundred pound household payment, a temporary cut to VAT on electricity until the end of June, worth about forty-five pounds a year, and the Budget scrapped gas standing charges."
+  },
+  {
+   "speaker": "STRATEGIST",
+   "text": "Helpful at the margin. One headline over the weekend called it a drop in the ocean, which is about right against a four hundred pound rise."
+  },
+  {
+   "speaker": "ANCHOR",
+   "text": "So joining us to unpack what this means for network investment is Priya, our regulation specialist. Morning, Priya."
+  },
+  {
+   "speaker": "GUEST_REG",
+   "text": "Morning, both. Good to be here."
+  },
+  {
+   "speaker": "ANCHOR",
+   "text": "Jordan's point is that networks didn't cause this. So why should anyone in asset investment planning care?"
+  },
+  {
+   "speaker": "GUEST_REG",
+   "text": "Because networks are the part of the bill that regulators and ministers can actually control. You can't legislate the gas price down. But you can lean on the network allowance, and the timing here is awkward."
+  },
+  {
+   "speaker": "ANCHOR",
+   "text": "Awkward how?"
+  },
+  {
+   "speaker": "GUEST_REG",
+   "text": "The five electricity distribution groups are about to submit their business plans for ED3, which is the price control running from twenty twenty-eight to twenty thirty-three. Those plans go in during December. So they'll be finalised in the same weeks that households hear their bills are going up by a quarter."
+  },
+  {
+   "speaker": "STRATEGIST",
+   "text": "And we talked yesterday about Ofgem's inquiry into connection delays. So the mood music is already about proving delivery."
+  },
+  {
+   "speaker": "GUEST_REG",
+   "text": "Exactly. Put those together and the regulator's question shifts from how much do you need, to show me this is the best-value pound. Every line of a plan gets asked, what happens if we defer this, and what does it do to bills?"
+  },
+  {
+   "speaker": "ANCHOR",
+   "text": "Is there a risk that just means less spending?"
+  },
+  {
+   "speaker": "GUEST_REG",
+   "text": "There's a risk of re-phasing, certainly. But remember the direction of travel. Demand for connections, electrification and resilience isn't going away. Ofgem approved roughly twenty-eight billion pounds of baseline investment in the RIIO-3 transmission and gas settlement that started in April. The pressure is on value and timing, not on whether the grid needs building."
+  },
+  {
+   "speaker": "STRATEGIST",
+   "text": "Here's where I'd add the commercial angle. A world of 'spend more' rewards engineering capacity. A world of 'spend smarter and prove it' rewards portfolio optimisation, risk-based prioritisation, and evidence you can hand a regulator. That's the core of what asset investment planning tools do."
+  },
+  {
+   "speaker": "GUEST_REG",
+   "text": "I'd push back slightly on that, Jordan."
+  },
+  {
+   "speaker": "STRATEGIST",
+   "text": "Go on."
+  },
+  {
+   "speaker": "GUEST_REG",
+   "text": "When utilities are under political pressure, the first instinct is often to freeze anything discretionary, and software can get caught in that. So the logic favours planning tools, but the procurement reflex can work against them for a quarter or two."
+  },
+  {
+   "speaker": "STRATEGIST",
+   "text": "Fair point. It's a timing risk, not a demand risk. I'd put the overall story at high confidence on direction, medium on timing."
+  },
+  {
+   "speaker": "ANCHOR",
+   "text": "Give us the scenarios."
+  },
+  {
+   "speaker": "STRATEGIST",
+   "text": "Base case, UK network buyers keep their planning evaluations going, but the business case gets reframed around affordability and deliverability. Timing roughly unchanged."
+  },
+  {
+   "speaker": "STRATEGIST",
+   "text": "Best case, Ofgem or government signal that ED3 plans will be stress-tested hard on value for money, and that pulls forward demand for optimisation and regulatory evidence tooling. Illustratively, that's a modest lift in UK win rates through the first half of next year."
+  },
+  {
+   "speaker": "GUEST_REG",
+   "text": "And worst case, the politics get loud, networks trim or re-phase their submissions, and discretionary spend freezes. Some deals slip one to two quarters."
+  },
+  {
+   "speaker": "ANCHOR",
+   "text": "And what are we watching?"
+  },
+  {
+   "speaker": "GUEST_REG",
+   "text": "Tomorrow's number, obviously, and how Ofgem talks about it, particularly whether it mentions network costs at all. Then the ED3 submissions in December. And Cornwall's early read on April, where they say a further small rise is possible."
+  },
+  {
+   "speaker": "ANCHOR",
+   "text": "Before you go, Priya, there's a related story from the United States that's very much in your territory."
+  },
+  {
+   "speaker": "GUEST_REG",
+   "text": "Arizona. Happy to stay for it."
+  },
+  {
+   "speaker": "ANCHOR",
+   "text": "So, on the seventeenth of November the Arizona Corporation Commission voted four to one to give Tucson Electric Power an increase of roughly ten per cent. The utility had asked for fourteen. Typical residential bills go up just under thirteen dollars a month, about nine point four per cent, to around a hundred and fifty dollars, from the first of December."
+  },
+  {
+   "speaker": "STRATEGIST",
+   "text": "The headline increase isn't the interesting bit, though."
+  },
+  {
+   "speaker": "GUEST_REG",
+   "text": "No, it's the formula rate. The commission approved what Tucson Electric calls an Annual Review and Adjustment Mechanism. In plain English, instead of a big rate case every few years, rates get updated annually against a formula. The first update is due by the first of September twenty twenty-seven."
+  },
+  {
+   "speaker": "ANCHOR",
+   "text": "And not everyone liked that."
+  },
+  {
+   "speaker": "GUEST_REG",
+   "text": "Almost every intervenor objected, including the US Department of Defense, which is a big customer there. The state Attorney General opposed both the increase and the formula. And the one dissenting commissioner, Lea Márquez Peterson, voted against mainly because of the formula."
+  },
+  {
+   "speaker": "STRATEGIST",
+   "text": "But the chairman's line was that this is not an automated process, and the commission can still step in."
+  },
+  {
+   "speaker": "GUEST_REG",
+   "text": "Right. And it's a trend. Arizona already approved a formula approach for UNS Gas earlier this year, and the much bigger APS rate case is due a decision in December."
+  },
+  {
+   "speaker": "ANCHOR",
+   "text": "So Jordan, mechanics. Why does a formula rate matter for capex?"
+  },
+  {
+   "speaker": "STRATEGIST",
+   "text": "Two things. First, it shortens regulatory lag, the gap between spending money and earning a return on it. That makes capex recovery more predictable, which supports steady investment programmes. Second, and people miss this, it turns the justification of spending into an annual job instead of an every-four-years job."
+  },
+  {
+   "speaker": "GUEST_REG",
+   "text": "Which is exactly why intervenors hate it. Their worry is less scrutiny. The commission's answer is that scrutiny becomes continuous."
+  },
+  {
+   "speaker": "STRATEGIST",
+   "text": "And continuous scrutiny needs repeatable, auditable investment cases. If you have to defend your portfolio every September, you want a system that produces that evidence routinely, not a consultant-built spreadsheet once a cycle."
+  },
+  {
+   "speaker": "ANCHOR",
+   "text": "Is there a counter-current, though? California seems to be heading the other way."
+  },
+  {
+   "speaker": "GUEST_REG",
+   "text": "It's a useful contrast. On the California commission's agenda last week were proposals to trim PG&E's wildfire and gas cost recovery for twenty twenty to twenty twenty-two by about twenty-one per cent, and San Diego Gas and Electric's wildfire mitigation request by about nineteen per cent. We haven't confirmed the final votes, so treat those as proposed. But the message is the same. Spend gets recovered when you can prove it was prudent."
+  },
+  {
+   "speaker": "STRATEGIST",
+   "text": "I'd put Arizona at high confidence. Base case, formula-rate utilities sustain capex and treat annual evidence as a standing requirement. Best case, more states, starting with APS, adopt formulas and the appetite for defensible planning tools grows. Worst case, consumer backlash tightens or reverses these mechanisms, and California-style disallowances make utilities cautious."
+  },
+  {
+   "speaker": "ANCHOR",
+   "text": "What's the date to watch?"
+  },
+  {
+   "speaker": "GUEST_REG",
+   "text": "The APS decision in December, and further out, Tucson Electric's first annual update next September."
+  },
+  {
+   "speaker": "ANCHOR",
+   "text": "Priya, thank you. Always clearer after talking to you."
+  },
+  {
+   "speaker": "GUEST_REG",
+   "text": "Thanks, Maya. Thanks, Jordan."
+  },
+  {
+   "speaker": "ANCHOR",
+   "text": "Now, the backdrop to all of this is that interest rates are going up again, which not long ago felt unthinkable. Joining us is Marcus, our capital markets specialist. Morning, Marcus."
+  },
+  {
+   "speaker": "GUEST_MARKETS",
+   "text": "Morning. Yes, the word hike is back in the vocabulary."
+  },
+  {
+   "speaker": "ANCHOR",
+   "text": "Remind us where we are."
+  },
+  {
+   "speaker": "GUEST_MARKETS",
+   "text": "The Bank of England raised Bank Rate to four per cent from three point seven five on the fourth of November. Eight votes to one, and the one dissenter wanted a half-point move. They're projecting inflation near five per cent by the middle of next year, almost entirely because of energy."
+  },
+  {
+   "speaker": "STRATEGIST",
+   "text": "Though last week's data softened it a bit."
+  },
+  {
+   "speaker": "GUEST_MARKETS",
+   "text": "It did. October inflation came in at three point six, a touch under forecast, and wage growth slowed to three point five. Markets trimmed the odds of another hike on the seventeenth of December to roughly eighty per cent, from ninety."
+  },
+  {
+   "speaker": "ANCHOR",
+   "text": "And Europe?"
+  },
+  {
+   "speaker": "GUEST_MARKETS",
+   "text": "Euro area inflation hit four per cent in October, a three-year high, with energy up twenty-one per cent. The European Central Bank's deposit rate is two and a half per cent, and a hike on the seventeenth of December is widely expected. Markets price two to three over the coming year."
+  },
+  {
+   "speaker": "ANCHOR",
+   "text": "And sterling's been weak."
+  },
+  {
+   "speaker": "GUEST_MARKETS",
+   "text": "The pound fell to just under one dollar thirty-one against the dollar last week, its lowest in a year, down in eight of nine sessions. The US Federal Reserve sits at three point seven five to four per cent and meets on the ninth of December."
+  },
+  {
+   "speaker": "STRATEGIST",
+   "text": "So let's connect it to utilities. Higher rates cut both ways."
+  },
+  {
+   "speaker": "GUEST_MARKETS",
+   "text": "They do. In regimes like Ofgem's RIIO, the allowed cost of debt is indexed to market yields, so higher rates feed through into allowed returns over time. That supports investment appetite. But financing gets more expensive, and higher returns ultimately land on customer bills, which brings us straight back to Priya's affordability point."
+  },
+  {
+   "speaker": "STRATEGIST",
+   "text": "So the utility's investment case improves on paper, while the political room to spend shrinks. That tension is going to define next year."
+  },
+  {
+   "speaker": "GUEST_MARKETS",
+   "text": "I'd frame it slightly differently. I don't think the political room shrinks evenly. Resilience and connections will be protected. It's the softer, longer-dated stuff that gets pushed out."
+  },
+  {
+   "speaker": "STRATEGIST",
+   "text": "That's fair, and it's another argument for being able to show which projects are which."
+  },
+  {
+   "speaker": "ANCHOR",
+   "text": "And for software companies?"
+  },
+  {
+   "speaker": "GUEST_MARKETS",
+   "text": "Higher discount rates put a lid on valuation multiples, and they make finance teams prioritise cash efficiency over growth at any price. And for anyone with costs in sterling and revenue in dollars, a weaker pound is a translation tailwind, though it can reverse quickly."
+  },
+  {
+   "speaker": "STRATEGIST",
+   "text": "I'd call this high confidence. Base case, one more hike each from the Bank of England and the European Central Bank, utilities keep capex plans but scrutinise phasing, and enterprise buyers lengthen approvals modestly. Best case, energy keeps easing, it's one and done, and indexation lifts allowed returns without derailing capex. Worst case, a second wave of hikes in twenty twenty-seven squeezes utility balance sheets and public budgets, and discretionary software decisions slip."
+  },
+  {
+   "speaker": "ANCHOR",
+   "text": "Marcus, stay with us, because tonight's big software result is right in your lane. Workday reports its third quarter after the US close today."
+  },
+  {
+   "speaker": "GUEST_MARKETS",
+   "text": "Consensus is revenue of about two point six nine billion dollars, up about ten and a half per cent, and earnings of two dollars seventy-four a share. Full-year subscription revenue guidance is nine point nine four to nine point nine five billion."
+  },
+  {
+   "speaker": "ANCHOR",
+   "text": "Why does a human resources software company matter to people in asset planning?"
+  },
+  {
+   "speaker": "STRATEGIST",
+   "text": "Because it's the cleanest public test of the question every enterprise software-as-a-service, or SaaS, finance team is wrestling with. Can AI agents offset stagnant seat counts?"
+  },
+  {
+   "speaker": "GUEST_MARKETS",
+   "text": "Workday said earlier this year its agentic AI annual recurring revenue was approaching half a billion dollars. That's the bull case. The bear case is that seat counts at existing customers are roughly flat, and public sector and healthcare deals may be soft."
+  },
+  {
+   "speaker": "STRATEGIST",
+   "text": "Public sector softness is the bit I'd watch for our sector, since plenty of infrastructure owners are public bodies."
+  },
+  {
+   "speaker": "GUEST_MARKETS",
+   "text": "And the stock's been volatile. Around a hundred and ninety-six dollars, with the market implying a post-results range of roughly one hundred and eighty-one to two hundred and thirteen."
+  },
+  {
+   "speaker": "STRATEGIST",
+   "text": "This one's medium confidence for us, because the read-across is indirect. Base case, in line, modest AI progress, multiples hold. Best case, visible AI bookings acceleration supports premium multiples for vertical SaaS with clear outcome-based pricing. Worst case, weak seat expansion reignites what the market has been calling the SaaSpocalypse, compressing comps and drawing board questions on net retention."
+  },
+  {
+   "speaker": "ANCHOR",
+   "text": "And for context on valuations?"
+  },
+  {
+   "speaker": "GUEST_MARKETS",
+   "text": "Vertical SaaS has recovered. According to First Analysis, average enterprise value to twenty twenty-six revenue was six times at the end of September, up from four point seven a quarter earlier, with the median around four point two. But the median SaaS stock is still down about eleven per cent this year."
+  },
+  {
+   "speaker": "ANCHOR",
+   "text": "Marcus, thank you."
+  },
+  {
+   "speaker": "GUEST_MARKETS",
+   "text": "Pleasure. Good luck with tomorrow's number."
+  },
+  {
+   "speaker": "ANCHOR",
+   "text": "One more story, a little older but useful. Bentley Systems, the infrastructure engineering software company, reported in early November, and it's a good benchmark for our corner of the market."
+  },
+  {
+   "speaker": "STRATEGIST",
+   "text": "Annual recurring revenue of one point five eight billion dollars, up thirteen per cent in constant currency. That's the third quarter in a row of acceleration. Net retention hit a record one hundred and ten per cent, and they raised their recurring revenue guidance to twelve and a half to thirteen and a half per cent."
+  },
+  {
+   "speaker": "ANCHOR",
+   "text": "What drove it?"
+  },
+  {
+   "speaker": "STRATEGIST",
+   "text": "Management pointed to continued momentum in public works and utilities, and asset analytics drove about half the sequential improvement. That last part is the interesting bit, because asset analytics moves Bentley closer to operate-and-maintain decisions, which is where investment planning lives."
+  },
+  {
+   "speaker": "ANCHOR",
+   "text": "Should anyone be worried?"
+  },
+  {
+   "speaker": "STRATEGIST",
+   "text": "Not worried. Watchful. Base case, Bentley stays mainly in design and engineering and the competitive picture barely moves. Best case, strong public-works demand lifts the whole category. Worst case, they bundle asset analytics into enterprise agreements and that pressures pricing in utility deals. Medium confidence."
+  },
+  {
+   "speaker": "ANCHOR",
+   "text": "And they flagged risks too."
+  },
+  {
+   "speaker": "STRATEGIST",
+   "text": "The US infrastructure bill, the IIJA, expired in September, and analysts note AI pricing could pressure per-user licensing. Bentley's own words were that engineering firms are benefiting from unprecedented investment in infrastructure for AI. We'll see their twenty twenty-seven guidance in February."
+  },
+  {
+   "speaker": "ANCHOR",
+   "text": "Quick pulse before we wrap. Jordan?"
+  },
+  {
+   "speaker": "STRATEGIST",
+   "text": "Industrial software deal-making hit a record in the first half, a hundred and twenty-three transactions, up eighty-four per cent, with private equity behind about forty per cent. Average valuations around four and a half times revenue, and focused industrial software players trade at a big premium to diversified ones."
+  },
+  {
+   "speaker": "ANCHOR",
+   "text": "Oil?"
+  },
+  {
+   "speaker": "STRATEGIST",
+   "text": "Brent has slipped back to the low-to-mid nineties on recovering supply and peace hopes. That's well below the hundred and eight dollars the Bank of England used in its November forecast, so there's a chance next year's inflation surprises on the downside."
+  },
+  {
+   "speaker": "ANCHOR",
+   "text": "Which would take some heat off rates. Then this week, US inflation data tomorrow, the Bank of England's Financial Stability Report on Thursday, and the US closed for Thanksgiving."
+  },
+  {
+   "speaker": "ANCHOR",
+   "text": "Right. Three things to raise with the CFO. Jordan, lead us off."
+  },
+  {
+   "speaker": "STRATEGIST",
+   "text": "One. Build a UK affordability scenario. Ask whether there's a downside case for UK pipeline timing if networks re-phase their plans after tomorrow's cap announcement. I'd tag UK opportunities by regulatory milestone so any slippage shows up early."
+  },
+  {
+   "speaker": "ANCHOR",
+   "text": "So it's less a forecast change and more an early-warning system."
+  },
+  {
+   "speaker": "STRATEGIST",
+   "text": "Exactly. Two. Treat formula-rate states as a segment. Arizona has just joined the list of annual-review regimes. Map the US pipeline by regulatory mechanism, formula versus multi-year versus traditional, because annual evidence requirements could support both a repeatable-value pitch and pricing."
+  },
+  {
+   "speaker": "ANCHOR",
+   "text": "And three?"
+  },
+  {
+   "speaker": "STRATEGIST",
+   "text": "FX and rates sensitivity in next year's plan. With sterling at a one-year low against the dollar and hikes in play, ask for an updated translation and discount-rate sensitivity, and check whether multi-year deals need their FX or indexation clauses revisited."
+  },
+  {
+   "speaker": "ANCHOR",
+   "text": "I'd sharpen that last one: pick two or three rate and currency scenarios now, so nobody's rebuilding the plan in January."
+  },
+  {
+   "speaker": "STRATEGIST",
+   "text": "Agreed. Pre-agree the scenarios, save the scramble."
+  },
+  {
+   "speaker": "ANCHOR",
+   "text": "That's the brief for Tuesday. Thanks to Priya and Marcus, and thanks, Jordan."
+  },
+  {
+   "speaker": "STRATEGIST",
+   "text": "Thanks, Maya. We'll have the price cap number for you tomorrow."
+  },
+  {
+   "speaker": "ANCHOR",
+   "text": "Have a good day, everyone."
+  }
+ ]
+}
