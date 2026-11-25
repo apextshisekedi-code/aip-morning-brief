@@ -1,0 +1,403 @@
+{
+ "date": "2026-11-25",
+ "title": "AIP Morning Brief — 25 Nov — Regulators say yes to capex, no to the padding",
+ "guests": [
+  "GUEST_REG",
+  "GUEST_TECH"
+ ],
+ "show_notes": "# AIP Morning Brief — Wednesday 25 November 2026\n\nGuests: Priya (regulation specialist), Sofia (enterprise software and AI analyst)\n\n**Top line:** US regulators spent the past week approving utility capex but cutting the revenue behind it: Illinois gave Peoples Gas $40.3M of a $144M ask and Illinois American Water $74M of $127M, both at ROEs below 9.7%. California's PUC still waved through about $2.2B for PG&E. Meanwhile markets now see a Fed hike on 9 December as near-certain (97%), so utilities face lower allowed returns just as their borrowing costs climb. That pushes them towards proving which projects come first, and that is the core job of AIP software.\n\n*A quiet 36 hours for competitor and IFS news, so today goes deeper on the regulatory and rates story.*\n\n## Stories\n\n**1. US regulators approve capex, trim revenue: Illinois and California set the \"prove it\" tone** · HIGH (R5 S4 T4 I4) · Metrics: pipeline timing, deal size, win rate\nOn 19 Nov the Illinois Commerce Commission (ICC) approved $40.3M of Peoples Gas's $144M request (originally $202M) at a 9.48% ROE against 10.1% sought. It kept the mandate to retire 1,000+ miles of iron mains by 2035 but criticised Peoples' \"unnecessarily narrow\" approach to replacement. North Shore Gas got about $1.9M of $8.7M. On 24 Nov the ICC gave Illinois American Water about $74M, 41% below its amended $127M ask, and cut the ROE to 9.67% from 9.84%. Also on 19 Nov, California's PUC approved two PG&E increases worth about $2.2B; a 3.7% SDG&E increase was pushed to a 3 December vote, and a PG&E wildfire-cost decision could come next month. Background: affordability is now the dominant regulatory politics. The UK price cap reset lands today, Gov.-elect Becerra takes office in California in January, and consumer groups are openly challenging approvals.\n*Opinion:* Regulators aren't killing capex. Illinois kept the pipe mandate, and California keeps approving. What they are killing is padding. Expect a lower-ROE, lower-allowance world in which utilities must show risk-based prioritisation and delivery evidence. That moves AIP from \"nice to have\" to \"how we defend the next filing\". The flip side is that squeezed O&M budgets can delay discretionary software purchases.\n- **Base:** US buyers keep evaluations live, but the business case shifts to regulatory defensibility. Cycles stay roughly flat, with heavier scrutiny on price.\n- **Best:** Utilities that were cut hard (Illinois gas is the example) pull forward planning tools ahead of their next filings, lifting US win rates. Illustrative: +1–2 qualified opportunities per quarter.\n- **Worst:** Revenue cuts hit O&M and IT budgets first, so new-logo deals slip one or two quarters and discounting pressure rises.\n- **What to watch:** CPUC SDG&E vote on 3 Dec; PG&E wildfire-cost decision (possibly December); ICC Safety Monitor report on Peoples' pipe retirement, March 2027.\n- Sources: [WTTW/Capitol News Illinois](https://news.wttw.com/2026/11/19/regulators-strike-103m-peoples-gas-rate-hike-request) · [The Center Square via Cities929](https://www.cities929.com/2026/11/24/illinois-quick-hits-state-approves-reduction-in-illinois-american-waters-rate-hike-request/) · [LA Times via Yahoo](https://www.yahoo.com/news/politics/articles/newsoms-utilities-commission-moves-pass-110000209.html)\n\n**2. Rates turn up everywhere: Fed hike \"near-certain\", BoE odds 82%, RBA on a hiking run** · HIGH (R5 S5 T4 I3) · Metrics: cost, deal size, pricing power, FX\nCME FedWatch shows 97% odds of a 25bp Fed hike on 8–9 Dec (to 4.00–4.25%) and 66% odds of another in January. NY Fed's Williams said on 23 Nov that the Fed must \"take actions over time\". Today's October PCE (core expected 3.2% y/y) is the next test. In the UK, swaps price 82% for a 25bp BoE hike on 17 Dec after November's move to 4%, with October CPI at 3.6%. Australia's October CPI came in hot after five RBA hikes this year. GBP/USD rebounded to about 1.311 from a 19-month low of 1.3011 on Monday.\n*Opinion:* Allowed ROEs of 9.5–9.9% look thin when US two-year yields are around 4.66%. The spread between allowed return and cost of debt is narrowing, which pushes utilities towards fewer, better-justified projects and pushes regulators to keep scrutiny high. For a SaaS vendor billing in GBP, USD, CAD and AUD, a weak pound flatters reported USD-denominated ARR, while customer cost of capital weighs on new commitments.\n- **Base:** One more hike from both the Fed and the BoE, then a hold. Utility capex plans hold, but more of the conversation turns to cost per outcome.\n- **Best:** A soft PCE print caps the cycle at one hike, and utility financing stays manageable.\n- **Worst:** Back-to-back hikes push utility equity issuance costs up, and some capex gets deferred into 2028+, lengthening enterprise sales cycles.\n- **What to watch:** US PCE and Q3 GDP today (13:30 UK); US jobs report 4 Dec; Fed 9 Dec; BoE and BoJ 17 Dec.\n- Sources: [Reuters via WIFC](https://wifc.com/2026/11/24/dollar-takes-breather-ahead-of-us-data-on-fed-path-aussie-jumps-on-cpi/) · [Trading & Investment News](https://www.tradingandinvestmentnews.co.uk/december-fed-hike-williams/) · [TradingNEWS](https://www.tradingnews.com/news/gbp-usd-rebounds-to-13113-from-19-month-low-clearing-13150-opens-13250-usd-target) · [Benigno, Central Bank Commentary](https://gianlucabenigno.substack.com/p/central-bank-commentary-november)\n\n**3. PNM files for a ~19% residential increase, with grid modernisation and SaaS capitalisation in play** · MEDIUM (R4 S2 T3 I3) · Metrics: pipeline timing, deal size, pricing model\nOn 24 Nov PNM (New Mexico) filed its 2027 rate review. It seeks about $286M in added base revenue ($172.2M net of lower fuel and riders), roughly +19% or about $22.50 a month for the average residential bill. That includes about $87M for system hardening, $90M for renewables and storage and $56M for grid modernisation. It asks for a 9.9% ROE, up from 9.45%, effective October 2027, with an 18% discount for low-income households. Separately, PNM's grid-modernisation filings ask the regulator to treat SaaS costs as capital (a similar request was denied without prejudice in an earlier docket). All this sits alongside the pending $11.5B Blackstone/TXNM acquisition review.\n*Opinion:* The SaaS-as-capital question matters more than the headline. Under traditional accounting, cloud software is an operating cost that a utility can't earn a return on, while on-premise licences sit in rate base. Each regulator that allows SaaS to be capitalised removes a structural bias against subscription software.\n- **Base:** The rate case is litigated through 2027, and the SaaS treatment stays case-by-case.\n- **Best:** A favourable ruling becomes a citable precedent, so more US utilities can rate-base cloud AIP, supporting larger multi-year subscriptions.\n- **Worst:** Rejection reinforces the opex bias, and utilities keep favouring on-premise or capitalisable implementation spend, which pressures SaaS deal structures.\n- **What to watch:** NMPRC procedural schedule; Blackstone/TXNM hearing in January; any NARUC/state moves on cloud-computing cost treatment.\n- Sources: [Santa Fe New Mexican](https://www.santafenewmexican.com/news/local_news/pnm-requests-new-19-rate-hike-months-after-last-increase-took-effect/article_f64bc333-b376-440c-91af-fc587b9d5071.html) · [News USA Today / NM Political Report](https://news-usa.today/pnm-files-for-13-rate-hike-low-income-discounts-data-center-tariff/) · [PNM grid modernisation filing summary](https://www.pnm.com/documents/d/pnm.com/2-executive-summary-3) · [Albuquerque Journal](https://www.abqjournal.com/business/txnm-blackstone-extend-115-billion-sale-deadline-after-regulatory-setback/3084994)\n\n**4. Competitor benchmark check: Bentley growing ARR 13% at 110% NRR after exiting Maximo services; Hexagon at a five-year growth high** · MEDIUM (R5 S3 T2 I3) · Metrics: win rate, pricing power, NRR benchmark\nNo fresh competitor news in the last 36 hours, so this is a benchmark reset. Bentley's Q3: ARR $1.58B, +13% constant currency; LTM net retention 110% (from 109%); operating margin 29.1%; ARR growth guidance raised to 12.5–13.5%. Its sale of Cohesive (an IBM Maximo services partner) to Naviam closed on 13 October, with Bentley taking a minority stake and a board seat. Hexagon's Q3 organic growth was 13%, a five-year high, but Infrastructure & Geospatial grew only 4%.\n*Opinion:* Bentley's exit from Maximo services and minority stake in Naviam signal that it wants to be the engineering-data layer, not an EAM integrator. Expect it to partner rather than compete head-on in AIP. Its 110% NRR is a useful public yardstick for infrastructure software retention.\n- **Base:** No change in competitive intensity. Bentley and Hexagon keep pushing digital-twin and AI narratives into utility capital planning.\n- **Best:** Naviam's consolidation of Maximo services creates partnership routes for AIP alongside Maximo deployments.\n- **Worst:** A better-funded Naviam/Bentley ecosystem bundles planning capabilities into Maximo programmes, squeezing standalone AIP deal size.\n- **What to watch:** Bentley Q4 results and 2027 guidance (February); Hexagon Q4 (late January) and Octave spin-off updates.\n- Sources: [Bentley Q3 release via Finviz](https://finviz.com/news/416770/bentley-systems-announces-third-quarter-2026-results) · [Schnitger Corp](https://schnitgercorp.com/2026/09/09/bentley-cashes-out-of-cohesive-into-naviam/) · [Hexagon Q3 transcript, Investing.com](https://www.investing.com/news/transcripts/earnings-call-transcript-hexagon-posts-fiveyear-growth-high-in-q3-2026-93CH-4968491)\n\n## Macro & SaaS pulse\n- **UK price cap (Jan–Mar 2027)** is announced by Ofgem this morning. Cornwall Insight expected about £2,166 (+26%). Expect affordability to dominate ED3 commentary. [IBTimes/Cornwall](https://www.ibtimes.co.uk/great-britain-energy-bills-rise-january-2027-forecast-1833134)\n- **Public SaaS median EV/revenue: 4.5x** (week to 20 Nov; interquartile range 2.8–6.8x; >30% growers 12.6x). [Livmo](https://livmo.com/saas-valuation-multiples/)\n- **Take-private and AI M&A continue:** TPG and Corpay completed the ~$6B BILL take-private; Palo Alto Networks agreed to buy Applied Compute (~$4.5B, all-stock). [SaaSRise](https://www.saasrise.com/blog/this-week-in-saas-ai-november-17---23-2026)\n- **FX:** GBP/USD ~1.311, EUR/USD ~1.096, AUD/USD ~0.666; the dollar index eased to ~103.9. [Reuters via WIFC](https://wifc.com/2026/11/24/dollar-takes-breather-ahead-of-us-data-on-fed-path-aussie-jumps-on-cpi/)\n- **US utility capex keeps rising on load growth:** CenterPoint's 10-year plan is now $70.7B (+$4B), with 14 GW of new demand expected by 2030. [Utility Dive](https://www.utilitydive.com/news/centerpoint-expands-10-year-capital-plan-4b/872850/)\n\n## 3 things to raise with the CFO\n1. **\"Prove it\" regulation is now a selling point.** Illinois cut gas and water asks by 41–72% while keeping the capex mandates. *Ask:* reweight US pipeline scoring towards utilities with rate cases filed or recently cut, and test whether the business-case collateral leads with regulatory defensibility.\n2. **Rate-hike scenario for FY plan.** The Fed (9 Dec) and BoE (17 Dec) look likely to hike. *Ask:* add a sensitivity for one to two quarters of US new-logo slippage, plus an FX line showing how GBP at 1.30 vs 1.35 moves reported ARR.\n3. **SaaS capitalisation as a deal lever.** Utilities can't earn a return on cloud opex unless regulators allow capitalisation. *Ask:* have deal desk track which states allow SaaS capitalisation, and model whether contract structures that separate capitalisable implementation spend would support larger multi-year deals.\n\n## Sources\n- https://news.wttw.com/2026/11/19/regulators-strike-103m-peoples-gas-rate-hike-request\n- https://www.cities929.com/2026/11/24/illinois-quick-hits-state-approves-reduction-in-illinois-american-waters-rate-hike-request/\n- https://www.yahoo.com/news/politics/articles/newsoms-utilities-commission-moves-pass-110000209.html\n- https://www.santafenewmexican.com/news/local_news/pnm-requests-new-19-rate-hike-months-after-last-increase-took-effect/article_f64bc333-b376-440c-91af-fc587b9d5071.html\n- https://news-usa.today/pnm-files-for-13-rate-hike-low-income-discounts-data-center-tariff/\n- https://www.pnm.com/documents/d/pnm.com/2-executive-summary-3\n- https://www.abqjournal.com/business/txnm-blackstone-extend-115-billion-sale-deadline-after-regulatory-setback/3084994\n- https://wifc.com/2026/11/24/dollar-takes-breather-ahead-of-us-data-on-fed-path-aussie-jumps-on-cpi/\n- https://www.tradingandinvestmentnews.co.uk/december-fed-hike-williams/\n- https://www.tradingnews.com/news/gbp-usd-rebounds-to-13113-from-19-month-low-clearing-13150-opens-13250-usd-target\n- https://gianlucabenigno.substack.com/p/central-bank-commentary-november\n- https://finviz.com/news/416770/bentley-systems-announces-third-quarter-2026-results\n- https://schnitgercorp.com/2026/09/09/bentley-cashes-out-of-cohesive-into-naviam/\n- https://www.investing.com/news/transcripts/earnings-call-transcript-hexagon-posts-fiveyear-growth-high-in-q3-2026-93CH-4968491\n- https://livmo.com/saas-valuation-multiples/\n- https://www.saasrise.com/blog/this-week-in-saas-ai-november-17---23-2026\n- https://www.utilitydive.com/news/centerpoint-expands-10-year-capital-plan-4b/872850/\n- https://www.ibtimes.co.uk/great-britain-energy-bills-rise-january-2027-forecast-1833134\n\nHosts and guests are AI-generated characters.\n",
+ "dialogue": [
+  {
+   "speaker": "ANCHOR",
+   "text": "Morning, and welcome to the AIP Morning Brief. It's Wednesday the twenty-fifth of November, I'm Maya."
+  },
+  {
+   "speaker": "STRATEGIST",
+   "text": "And I'm Jordan. Coffee's poured, and the headline is a pattern rather than a single story."
+  },
+  {
+   "speaker": "ANCHOR",
+   "text": "It is. Across America this week, regulators kept saying yes to utility investment but no to the revenue utilities asked for. And markets now think the Federal Reserve will raise rates in a fortnight."
+  },
+  {
+   "speaker": "STRATEGIST",
+   "text": "Lower allowed returns and higher borrowing costs at the same time. That's the squeeze we'll unpack."
+  },
+  {
+   "speaker": "ANCHOR",
+   "text": "Joining us later are Priya, our regulation specialist, and Sofia, our enterprise software and AI analyst. Competitor and IFS news has been quiet for the last day and a half, so we're going deeper on fewer stories."
+  },
+  {
+   "speaker": "ANCHOR",
+   "text": "Let's start in Illinois. On the nineteenth, the Illinois Commerce Commission ruled on Peoples Gas, the Chicago gas utility. Peoples had asked for a hundred and forty-four million dollars of extra revenue, down from an original two hundred and two million. It got forty point three million."
+  },
+  {
+   "speaker": "STRATEGIST",
+   "text": "So under a third of what it asked for."
+  },
+  {
+   "speaker": "ANCHOR",
+   "text": "Under a third. The return on equity, the profit the regulator lets them earn on invested capital, was set at nine point four eight per cent. They wanted ten point one."
+  },
+  {
+   "speaker": "STRATEGIST",
+   "text": "And then yesterday, Illinois American Water."
+  },
+  {
+   "speaker": "ANCHOR",
+   "text": "Right. About seventy-four million dollars approved, against an amended request of a hundred and twenty-seven million. That's roughly forty-one per cent less. And the commission actually cut the return on equity, from nine point eight four to nine point six seven per cent."
+  },
+  {
+   "speaker": "STRATEGIST",
+   "text": "A cut, not just a smaller rise. That's the bit I'd underline."
+  },
+  {
+   "speaker": "ANCHOR",
+   "text": "Meanwhile in California, the California Public Utilities Commission approved two rate increases for Pacific Gas and Electric on the nineteenth, worth about two point two billion dollars. A three point seven per cent increase for San Diego Gas and Electric was delayed to a vote on the third of December."
+  },
+  {
+   "speaker": "STRATEGIST",
+   "text": "So the picture isn't simply that regulators are getting tough. California's still approving big numbers. Illinois is trimming hard. The common thread is the politics of affordability."
+  },
+  {
+   "speaker": "ANCHOR",
+   "text": "To help us read the regulatory tea leaves, joining us is Priya, our regulation specialist. Morning, Priya."
+  },
+  {
+   "speaker": "GUEST_REG",
+   "text": "Morning, both. Glad to be here."
+  },
+  {
+   "speaker": "ANCHOR",
+   "text": "Priya, is Illinois an outlier, or a sign of where things are going?"
+  },
+  {
+   "speaker": "GUEST_REG",
+   "text": "Illinois has been the toughest large state on gas for a couple of years, so partly it's a known quantity. But look at what the commission didn't do. It kept the mandate for Peoples to retire more than a thousand miles of old iron gas mains by twenty thirty-five. It just said Peoples had used an \"unnecessarily narrow\" definition of what counts as replacement."
+  },
+  {
+   "speaker": "STRATEGIST",
+   "text": "So the message is: do the work, but show us you're doing the right work."
+  },
+  {
+   "speaker": "GUEST_REG",
+   "text": "Exactly. Regulators aren't cancelling programmes. They're challenging how utilities prioritise within them. There's also an independent safety monitor reporting on the pipe retirement programme in March next year, so the scrutiny is ongoing, not a one-off ruling."
+  },
+  {
+   "speaker": "ANCHOR",
+   "text": "And the return on equity? Nine point four eight for gas, nine point six seven for water. Is that low by historical standards?"
+  },
+  {
+   "speaker": "GUEST_REG",
+   "text": "It's in the normal band for US utilities, high nines. The direction is what matters. Utilities asked for increases, and one of them got a cut, while government bond yields have been rising. The gap between what a utility can earn and what it costs to borrow is narrowing."
+  },
+  {
+   "speaker": "STRATEGIST",
+   "text": "That's where I'd push the story on, Priya. When the allowed return gets squeezed, every pound or dollar of capex has to clear a higher bar. Utilities can't just ask for more. They have to rank projects and defend the ranking in public."
+  },
+  {
+   "speaker": "GUEST_REG",
+   "text": "That's right. And the evidence regulators want is increasingly about risk. Which mains have the highest leak or failure risk, what happens if you defer them, what does the customer get per dollar. That's a planning question as much as an engineering one."
+  },
+  {
+   "speaker": "ANCHOR",
+   "text": "Which, for anyone in asset investment planning, sounds rather familiar."
+  },
+  {
+   "speaker": "STRATEGIST",
+   "text": "It's the whole job description. My view, and I'd call this high confidence, is that prove-it regulation is becoming the main reason to buy planning software. It's less about efficiency and more about how you defend your next filing."
+  },
+  {
+   "speaker": "GUEST_REG",
+   "text": "I'd add one caution, though. When a utility gets a third of what it asked for, something gives. Peoples itself said the order cuts twenty-five million dollars of day-to-day safety work. Operating budgets get hit first, and software purchases often sit in those budgets."
+  },
+  {
+   "speaker": "STRATEGIST",
+   "text": "Fair point. So let me put it as three scenarios. Base case: evaluations stay live, but the business case shifts from efficiency to regulatory defensibility, and sales cycles stay roughly flat with more price scrutiny."
+  },
+  {
+   "speaker": "ANCHOR",
+   "text": "Best case?"
+  },
+  {
+   "speaker": "STRATEGIST",
+   "text": "Utilities that just got cut hard, Illinois gas being the textbook example, bring planning tools forward ahead of their next filing. Purely illustrative, but that could mean one or two more qualified opportunities a quarter in the US."
+  },
+  {
+   "speaker": "ANCHOR",
+   "text": "And the worst?"
+  },
+  {
+   "speaker": "STRATEGIST",
+   "text": "Revenue cuts squeeze operating and IT budgets, new-logo deals slip a quarter or two, and discounting pressure goes up."
+  },
+  {
+   "speaker": "GUEST_REG",
+   "text": "I'd lean a little more towards that worst case than you, Jordan, at least for the next six months. Budget-holders often freeze first and rethink later."
+  },
+  {
+   "speaker": "STRATEGIST",
+   "text": "I'll take that. Timing risk is real. But the direction of travel helps planning tools, even if the near-term cash is lumpier."
+  },
+  {
+   "speaker": "ANCHOR",
+   "text": "What should people watch in California, Priya?"
+  },
+  {
+   "speaker": "GUEST_REG",
+   "text": "Three things. The San Diego vote on the third of December. A proposed decision on Pacific Gas and Electric's wildfire costs, which could be finalised as early as next month. And a new governor-elect, Xavier Becerra, takes office in January. One consumer group, Consumer Watchdog, called the latest approval \"shameful\", so the political temperature is rising."
+  },
+  {
+   "speaker": "ANCHOR",
+   "text": "Which brings us to New Mexico, where there's a fresh filing. Priya, stay with us for this one."
+  },
+  {
+   "speaker": "ANCHOR",
+   "text": "Yesterday PNM, New Mexico's largest electric utility, filed its twenty twenty-seven rate review. It's asking for about two hundred and eighty-six million dollars of extra base revenue. Net of lower fuel costs, that's around a hundred and seventy-two million."
+  },
+  {
+   "speaker": "STRATEGIST",
+   "text": "And the bill impact?"
+  },
+  {
+   "speaker": "ANCHOR",
+   "text": "Local reporting puts the average residential increase at about nineteen per cent, roughly twenty-two dollars fifty a month. Inside that is about eighty-seven million for system hardening, ninety million for renewables and storage, and fifty-six million for grid modernisation. They want the return on equity raised from nine point four five to nine point nine per cent, effective October twenty twenty-seven."
+  },
+  {
+   "speaker": "GUEST_REG",
+   "text": "And it comes only months after the last increase finished phasing in, with an eighteen per cent discount proposed for low-income households. It's also tangled up with the pending eleven point five billion dollar sale of PNM's parent to Blackstone, which has its own hearing in January."
+  },
+  {
+   "speaker": "STRATEGIST",
+   "text": "After what we just heard from Illinois, asking for nine point nine per cent is brave."
+  },
+  {
+   "speaker": "GUEST_REG",
+   "text": "It's an opening position. Nobody expects to get the full ask. But the hardening money is interesting. That's wildfire and storm resilience, which regulators across the American West are prioritising."
+  },
+  {
+   "speaker": "ANCHOR",
+   "text": "There's another detail here that caught Sofia's eye, so let's bring her in. Joining us is Sofia, our enterprise software and AI analyst. Morning, Sofia."
+  },
+  {
+   "speaker": "GUEST_TECH",
+   "text": "Morning. And thanks, Priya, for setting it up nicely."
+  },
+  {
+   "speaker": "ANCHOR",
+   "text": "Sofia, what's the detail?"
+  },
+  {
+   "speaker": "GUEST_TECH",
+   "text": "In its grid modernisation filings, PNM has asked the regulator to treat software-as-a-service costs, cloud subscriptions, as capital rather than as an operating expense. A similar request was turned down, though without prejudice, in an earlier case. So it's coming back."
+  },
+  {
+   "speaker": "STRATEGIST",
+   "text": "For people who don't live in utility accounting, this is the hidden lever in the whole cloud software market."
+  },
+  {
+   "speaker": "GUEST_TECH",
+   "text": "It really is. Here's the mechanism. A regulated utility earns its return on its rate base, the capital it has invested. If it buys an on-premise licence, that's capital, so it earns a return. If it buys the same capability as a cloud subscription, traditionally that's an operating cost, passed through to customers at zero profit."
+  },
+  {
+   "speaker": "ANCHOR",
+   "text": "So the utility makes money on the old model and nothing on the new one."
+  },
+  {
+   "speaker": "GUEST_TECH",
+   "text": "That's the bias. It doesn't stop utilities buying cloud software, but it tilts the business case, especially when finance teams are under pressure, like this week."
+  },
+  {
+   "speaker": "STRATEGIST",
+   "text": "And that's why a ruling in New Mexico matters beyond New Mexico. If a regulator accepts the argument, it becomes a precedent other utilities can cite."
+  },
+  {
+   "speaker": "GUEST_REG",
+   "text": "I'd just temper that slightly. Regulators move state by state. A win in one place gets cited, but it doesn't bind anyone else, and accounting standards bodies have been circling this question for years."
+  },
+  {
+   "speaker": "GUEST_TECH",
+   "text": "Agreed, Priya. It's case by case for now. But the direction is towards accepting cloud costs, and every favourable decision makes the next one easier."
+  },
+  {
+   "speaker": "ANCHOR",
+   "text": "Confidence, Jordan?"
+  },
+  {
+   "speaker": "STRATEGIST",
+   "text": "Medium. The facts of the filing are clear, but the outcome is a year away. Base case: litigated through twenty twenty-seven, with treatment staying case by case. Best case: a favourable ruling becomes precedent and supports larger, longer subscription deals. Worst case: rejection reinforces the opex bias, and utilities lean towards structures where implementation spend can be capitalised."
+  },
+  {
+   "speaker": "GUEST_TECH",
+   "text": "Which is actually a deal desk question as much as a regulatory one. How you split implementation services from subscription can change how attractive the deal looks to a utility finance team."
+  },
+  {
+   "speaker": "ANCHOR",
+   "text": "Sofia, while we have you, the competitor front. It's been quiet, but are there benchmarks worth resetting?"
+  },
+  {
+   "speaker": "GUEST_TECH",
+   "text": "Two. Bentley Systems reported in early November. Annual recurring revenue of about one point five eight billion dollars, growing thirteen per cent in constant currency. Net revenue retention, the growth from existing customers after churn, was a hundred and ten per cent, up from a hundred and nine. And they nudged up their growth guidance to between twelve and a half and thirteen and a half per cent."
+  },
+  {
+   "speaker": "STRATEGIST",
+   "text": "A hundred and ten per cent net retention is a good public yardstick for infrastructure software. Solid rather than spectacular."
+  },
+  {
+   "speaker": "GUEST_TECH",
+   "text": "And the more strategic move was the sale of Cohesive, an IBM Maximo services partner, to a firm called Naviam, which closed in mid-October. Bentley took a minority stake and a board seat rather than a cash exit."
+  },
+  {
+   "speaker": "ANCHOR",
+   "text": "What does that tell you?"
+  },
+  {
+   "speaker": "GUEST_TECH",
+   "text": "That Bentley wants to be the engineering data and digital twin layer, not a systems integrator for asset management. It'll partner around Maximo deployments rather than compete head-on in investment planning."
+  },
+  {
+   "speaker": "STRATEGIST",
+   "text": "Here's where I'd disagree a bit, Sofia. A bigger, better-funded Maximo services firm with Bentley on its board could bundle planning capability into large Maximo programmes. That's a deal-size risk for standalone planning vendors."
+  },
+  {
+   "speaker": "GUEST_TECH",
+   "text": "Possible. But in my experience, services consolidators want best-of-breed partners to round out their offer. They make money on delivery, not on building planning software."
+  },
+  {
+   "speaker": "STRATEGIST",
+   "text": "We'll see. I'd call it medium confidence either way."
+  },
+  {
+   "speaker": "ANCHOR",
+   "text": "And Hexagon?"
+  },
+  {
+   "speaker": "GUEST_TECH",
+   "text": "Hexagon's third quarter showed organic growth of thirteen per cent, a five-year high. But it was driven by autonomy and manufacturing. Infrastructure and geospatial grew just four per cent. Watch the Octave software spin-off updates with their fourth-quarter results in late January."
+  },
+  {
+   "speaker": "ANCHOR",
+   "text": "Sofia, Priya, thank you both."
+  },
+  {
+   "speaker": "GUEST_TECH",
+   "text": "Thanks, Maya."
+  },
+  {
+   "speaker": "GUEST_REG",
+   "text": "Cheers, both."
+  },
+  {
+   "speaker": "ANCHOR",
+   "text": "Now, the rates story, which ties all of this together. Jordan, markets now see a Federal Reserve hike as almost certain."
+  },
+  {
+   "speaker": "STRATEGIST",
+   "text": "The CME FedWatch tool shows ninety-seven per cent odds of a quarter-point hike on the ninth of December, taking the range to four to four and a quarter per cent. Markets also put two-in-three odds on another in January. The New York Fed's John Williams said on Monday the Fed must take actions over time to get inflation back to two per cent."
+  },
+  {
+   "speaker": "ANCHOR",
+   "text": "And the UK?"
+  },
+  {
+   "speaker": "STRATEGIST",
+   "text": "Swaps price about an eighty-two per cent chance of a quarter-point Bank of England rise on the seventeenth of December, after November's hike to four per cent. UK inflation was three point six per cent in October. And in Australia, October inflation came in hotter than expected, after the Reserve Bank had already raised rates five times this year."
+  },
+  {
+   "speaker": "ANCHOR",
+   "text": "So everyone's tightening. What does that do to utilities?"
+  },
+  {
+   "speaker": "STRATEGIST",
+   "text": "Remember those allowed returns, nine and a half to nine point nine per cent. US two-year Treasury yields are around four point six six per cent. As borrowing costs rise and allowed returns stay flat or fall, the cushion shrinks. Utilities issue more equity, which is pricier, or they slow down the less urgent projects."
+  },
+  {
+   "speaker": "ANCHOR",
+   "text": "Hang on, though. Utilities have huge capital plans because of data centre demand. CenterPoint in Texas just raised its ten-year plan to seventy point seven billion dollars. That's not slowing down."
+  },
+  {
+   "speaker": "STRATEGIST",
+   "text": "That's the counterweight, and it's real. Load growth capex is close to non-discretionary. What gets squeezed is everything around it: replacement programmes, discretionary upgrades and, yes, operating budgets. Which makes prioritisation more valuable, not less."
+  },
+  {
+   "speaker": "ANCHOR",
+   "text": "And currency?"
+  },
+  {
+   "speaker": "STRATEGIST",
+   "text": "Sterling bounced to about one thirty-one against the dollar yesterday, after a nineteen-month low of one thirty point one on Monday. For any SaaS business reporting in one currency and billing in several, that swing moves the reported numbers without changing a single contract."
+  },
+  {
+   "speaker": "ANCHOR",
+   "text": "Confidence and scenarios?"
+  },
+  {
+   "speaker": "STRATEGIST",
+   "text": "High confidence on the direction. Base case: one more hike each from the Fed and the Bank, then a pause, and capex plans hold but with more cost-per-outcome questions. Best: soft inflation data caps it at one hike. Worst: back-to-back hikes push up utilities' financing costs and push some capex into twenty twenty-eight and beyond."
+  },
+  {
+   "speaker": "ANCHOR",
+   "text": "And today's trigger is the US inflation data, the October personal consumption expenditures index, at half past one UK time, with the jobs report on the fourth of December."
+  },
+  {
+   "speaker": "ANCHOR",
+   "text": "Quick pulse before the CFO segment. Ofgem announces the January price cap this morning. Forecasters had pencilled in around twenty-six per cent, to roughly two thousand one hundred and sixty-six pounds. We covered that yesterday, so watch the number and the affordability commentary around network costs."
+  },
+  {
+   "speaker": "STRATEGIST",
+   "text": "On software valuations, the median public SaaS company trades at around four and a half times trailing revenue. Companies growing faster than thirty per cent get about twelve and a half times. Growth is still being rewarded heavily."
+  },
+  {
+   "speaker": "ANCHOR",
+   "text": "And deals keep coming. TPG and Corpay completed the roughly six billion dollar take-private of BILL, and Palo Alto Networks agreed to buy Applied Compute for about four and a half billion in stock."
+  },
+  {
+   "speaker": "STRATEGIST",
+   "text": "Private equity still likes software with sticky revenue. That's the same logic that underpins most of this sector's valuations."
+  },
+  {
+   "speaker": "ANCHOR",
+   "text": "Right, Jordan. Three things to raise with the CFO."
+  },
+  {
+   "speaker": "STRATEGIST",
+   "text": "One. Prove-it regulation is a selling point. Illinois cut gas and water asks by between forty and seventy per cent, but kept the capital mandates. The ask: reweight pipeline scoring towards utilities with rate cases recently filed or recently cut, and check that business-case material leads with regulatory defensibility, not just efficiency."
+  },
+  {
+   "speaker": "ANCHOR",
+   "text": "I'd sharpen that. Don't only track who's filing. Track who just lost. That's where the pain is freshest."
+  },
+  {
+   "speaker": "STRATEGIST",
+   "text": "Good refinement. Two. Rates. Both the Fed and the Bank look set to hike in December. The ask: add a sensitivity to the plan for one to two quarters of US new-logo slippage, and an FX line showing what sterling at one thirty versus one thirty-five does to reported recurring revenue."
+  },
+  {
+   "speaker": "ANCHOR",
+   "text": "And keep it as a range, not a single point. The CFO will want to see the spread."
+  },
+  {
+   "speaker": "STRATEGIST",
+   "text": "Three. Software capitalisation as a deal lever. Utilities usually can't earn a return on cloud subscriptions unless their regulator allows them to be capitalised. The ask: have the deal desk track which states allow it, and test whether contract structures that separate capitalisable implementation work would support larger multi-year deals."
+  },
+  {
+   "speaker": "ANCHOR",
+   "text": "That one feels like it could quietly change win rates if it spreads."
+  },
+  {
+   "speaker": "STRATEGIST",
+   "text": "It could. It's a slow burn, but it's worth getting ahead of."
+  },
+  {
+   "speaker": "ANCHOR",
+   "text": "That's the brief for Wednesday. Thanks to Priya and Sofia, and thanks for listening."
+  },
+  {
+   "speaker": "STRATEGIST",
+   "text": "Have a good day, and keep an eye on that price cap number at seven."
+  },
+  {
+   "speaker": "ANCHOR",
+   "text": "See you tomorrow."
+  }
+ ]
+}
