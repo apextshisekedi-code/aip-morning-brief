@@ -1,0 +1,402 @@
+{
+ "date": "2026-11-26",
+ "title": "AIP Morning Brief — 26 Nov — The price cap bites, and the market moves the bar",
+ "guests": [
+  "GUEST_MARKETS"
+ ],
+ "show_notes": "# AIP Morning Brief — Thursday 26 November 2026\n\nGuests: Marcus (capital markets specialist)\n\n**Top line:** Ofgem has confirmed the January–March price cap at £2,166 a year, up 26% (£443), driven almost entirely by wholesale gas, not networks. That pushes UK inflation higher into 2027 just as the Bank of England is mid-way through a hiking cycle, so expect the affordability argument against network spending to get louder, and a tougher fight over every pound of capex in ED3 business plans.\n\n*US Thanksgiving makes this a quiet day for primary news, so today goes deeper on fewer stories.*\n\n## Stories\n\n**1. Ofgem confirms a 26% price cap rise: wholesale shock, network capex in the crossfire** · HIGH (R5 S4 T5 I4 = 4.5) · Metrics: pipeline timing, deal size, win rate\nOn 25 Nov Ofgem set the 1 Jan–31 Mar 2027 cap at £2,166 a year for a typical dual-fuel Direct Debit household, up from £1,723. Electricity unit rates rise from 26.32p to 32.69p/kWh (+24%) and gas from 7.97p to 10.96p/kWh (+38%); standing charges are flat. Wholesale costs are now 56% of the cap (from 47%), with the wholesale allowance up about 50%, which Ofgem links to the Middle East conflict. Government support: VAT removed from electricity under the cap until 30 Jun 2027 and £100 for about 20 million households from January (MoneySavingExpert estimates this covers under two-thirds of the rise). The April cap is due by 23 Feb 2027; analysts quoted by MSE expect it to be about 2.6% higher again. The government has also asked Ofgem to remove gas standing charges in 2027 or soon after.\n*Why it matters (opinion):* Network charges did not cause this rise, but they are the part of the bill that politicians and regulators can actually control. With bills at their highest since 2023 and the Bank of England expecting inflation near 5% in Q2 2027, the five distribution network operators (DNOs) will be submitting ED3 (2028–33) plans into a hostile affordability climate. We expect Ofgem to approve volume (connections, load growth) but push hard on unit costs and demand evidence of prioritisation. That favours tools that show why each project ranks where it does. It also means removing gas standing charges will have to recover fixed network costs somewhere else, which keeps gas distribution investment under the microscope.\n- **Base:** UK network buyers keep AIP projects on track but procurement asks more questions about ROI and cost-to-serve; sales cycles stretch by one to two months (illustrative).\n- **Best:** \"Prove every pound\" scrutiny becomes an explicit plan-quality requirement, lifting win rates and attach of value-framework / optimisation modules.\n- **Worst:** Political pressure leads to deferred or trimmed discretionary IT/opex in 2027 budgets, pushing some UK deals into FY28.\n*What to watch:* ED3 business plan submissions (December); BoE's mid-December decision; Ofgem's April cap by 23 Feb 2027; any Ofgem detail on gas standing-charge removal.\nSources: [Voltgrid News](https://voltgridnews.com/story/ofgem-lifts-uk-price-cap-26-to-2-166-a-year-from-jan-1) · [LocalEnergyPrices](https://localenergyprices.co.uk/guides/january-2027-price-cap-energy-prices-rise) · [Reuters via Daily Sabah — UK CPI](https://www.dailysabah.com/business/economy/uk-inflation-hits-1-year-high-but-rate-hike-bets-ease)\n\n**2. Workday beats, raises, and still falls 7%: the market's new bar for enterprise SaaS** · HIGH (R5 S3 T4 I3 = 3.75) · Metrics: NRR/GRR benchmarks, pricing power, valuation\nWorkday's fiscal Q3 (to 31 Oct, reported 24 Nov): revenue $2.705bn (+11.2%), subscription $2.532bn (+12.8%), 12-month backlog (cRPO) $9.216bn (+12.3%) but total backlog only +6.1%. Non-GAAP operating margin 31.4% (from 28.5%); $51m restructuring. Gross revenue retention 97%. AI products delivered nearly $150m of new annual contract value, more than three times a year earlier, and AI SKU ARR passed $750m (+130%). About 30% of customers now license an AI product, up from 12%. FY27 subscription guidance raised to $9.958bn (+13%), but Q4 guide is +10% and management flagged that early renewals flattered backlog and will not repeat; FY28 framed at about 11% growth and a 33%+ margin. Shares closed up 1.8% at $179.23, then fell 7.4% after hours to $166.01.\n*Why it matters (opinion):* This is the template investors now apply: margin expansion and AI monetisation are table stakes; what they punish is decelerating growth and backlog quality. Note how AI is being monetised — premium SKUs and \"Flex Credits\" consumption alongside core subscriptions, with the CEO calling it \"early days of the AI consumption model\". For any vertical SaaS board pack, the useful comps are GRR in the high 90s, AI as a separately disclosed ARR line, and a credible margin path without more restructuring.\n- **Base:** Benchmarks tighten: boards expect GRR ≥95%, a visible AI revenue line, and rule-of-40 discipline; no direct pipeline impact.\n- **Best:** Workday's AI ACV data gives a public precedent for charging separately for AI capability, supporting premium AI pricing in AIP.\n- **Worst:** Continued de-rating of mid-growth SaaS lowers private-market multiples, raising the bar for any sponsor-owned software's growth plan.\n*What to watch:* Q4 results (late Feb 2027); whether peers (Salesforce early Dec) show the same backlog deceleration.\nSources: [Workday 8-K Ex. 99.1](https://www.sec.gov/Archives/edgar/data/0001327811/000132781126000057/wday-10312026x991.htm) · [Investing.com call transcript](https://ca.investing.com/news/stock-market-news/earnings-call-transcript-workday-tops-q3-2026-estimates-but-shares-fall-93CH-4979486)\n\n**3. Oncor signals a ~20% bigger capex plan: the US load-growth super-cycle keeps going** · MEDIUM (R4 S3 T2 I4 = 3.25) · Metrics: pipeline size, deal size\nSempra said after Q3 (5 Nov) it expects Oncor's capital plan, currently $47.5bn for 2026–30 (up from $36bn two years ago), to be about 20% larger when the 2027–31 update lands in February. Oncor's CEO said that figure excludes several transmission projects. Data centres are a key driver, but Oncor also has 19 GW of requests from non-data-centre customers and government entities, more than 55% of its record Q3 peak, which it does not expect all to materialise. Pinnacle West's $10.4bn four-year plan is also expected to rise early next year.\n*Why it matters (opinion):* Plans growing by tens of billions on uncertain load forecasts are the clearest use case for scenario-based investment planning: which projects go first if only half the queue shows up? Contrast with Illinois (yesterday's brief): Texas says yes to growth while other states trim returns. A wider gap between states means more dispersion in US utility buying.\n- **Base:** Large US IOUs keep expanding planning scope; AIP demand tied to load-growth scenarios stays strong into 2027.\n- **Best:** Regulators require probability-weighted load scenarios in filings, making AIP a compliance tool.\n- **Worst:** Data-centre demand disappoints, plans are cut in 2027–28, and capex-planning budgets follow.\n*What to watch:* Oncor/Sempra 2027–31 plan (February 2027); Texas regulatory posture after the elections.\nSources: [T&D World](https://www.tdworld.com/utility-business/news/55418035/oncor-executives-prep-for-20-pop-in-spending-plans)\n\n**4. BrightAI raises $97m: \"physical AI\" moves up the asset stack** · MEDIUM (R4 S2 T2 I3 = 2.75) · Metrics: competitive positioning, win rate (longer term)\nBrightAI raised $97m (18 Nov) led by Smith Point Capital, with GE Vernova (also a customer), Cobalt, Marlinspike and Zero Infinity joining; total raised $184m. Its Stateful platform combines sensors, edge computing, AI models, drones and technician tools across power, water and heavy industry, with partners including Osmose Utilities Services. It claims more than 50,000 locations and hundreds of thousands of monitored assets, and plans European and Asian expansion. No valuation or revenue disclosed.\n*Why it matters (opinion):* Not an AIP competitor today: it generates condition data and maintenance guidance. But condition data is the raw input to risk-based investment planning, and well-funded players who own the data layer tend to move up into \"what should we replace and when\". That is a partnership opportunity today and a possible competitive threat in a few years.\n- **Base:** Complementary; better asset-condition data improves AIP risk models.\n- **Best:** Integrations with sensor-data platforms become a differentiator in competitive bids.\n- **Worst:** Data-layer players bundle simple investment prioritisation, compressing the low end of AIP pricing.\n*What to watch:* European launch partners; any move into capital-planning features.\nSources: [T&D World](https://www.tdworld.com/utility-business/news/55419892/brightai-raises-97-million-to-expand-ai-technology-for-infrastructure-monitoring) · [Fortune](https://fortune.com/2026/11/18/brightai-alex-hawkinson-physical-ai-unicorn-roman-infrastructure-inspections/)\n\n**5. One to watch: AER reopens Energy Queensland determination over spreadsheet error** · LOW (R5 S1 T2 I1 = 2.25)\nThe Australian Energy Regulator revoked and replaced Energex and Ergon Energy's 2025–30 determinations because formulas were missing from an ancillary-services pricing model, so prices did not pick up final labour and inflation updates. Prices were understated about 3%; 2025-26 under-recoveries were about A$380k (Energex) and A$195k (Ergon), to be recovered from 2027-28. Small money, but a regulator formally calling a missing formula a \"material miscalculation\" is a neat case for governed planning models over spreadsheets.\nSource: [AER decision](https://www.aer.gov.au/system/files/2026-11/AER%20-%20Revocation%20and%20substitution%20of%20Energex%20and%20Ergon%20Energy%202025-30%20distribution%20determination_2.pdf)\n\n## Macro & SaaS pulse\n- **UK:** CPI 3.6% in October (one-year high, below the BoE's 3.7% forecast); the Bank hiked in November for the first time in three years and markets price about 80% odds of another hike in December, with the BoE seeing inflation near 5% in Q2 2027. [Reuters/Daily Sabah](https://www.dailysabah.com/business/economy/uk-inflation-hits-1-year-high-but-rate-hike-bets-ease)\n- **US:** Futures price over 90% odds of a 25bp Fed hike on 9 December and three hikes by July 2027. [Trading Economics](https://tradingeconomics.com/united-states/implied-rates/news/602003)\n- **FX:** Sterling fell to about $1.30 on 24 Nov, its weakest since April 2025, on Fed tightening bets; it was $1.322 in mid-November. Weak sterling flatters USD revenue reported in pounds, but raises the cost of USD-priced cloud and tools. [Trading Economics](https://tradingeconomics.com/united-kingdom/currency/news/601113)\n- **Eurozone:** The ECB is widely expected to hike on 17 December.\n- **SaaS:** Workday's 7% after-hours drop despite a beat and raise shows the market is pricing growth durability, not margins. [Investing.com](https://ca.investing.com/news/stock-market-news/earnings-call-transcript-workday-tops-q3-2026-estimates-but-shares-fall-93CH-4979486)\n\n## 3 things to raise with the CFO\n1. **The UK affordability squeeze is now confirmed, not forecast.** Ask: should UK pipeline timing assumptions for H1 2027 add a one-to-two-month slippage sensitivity, and should sales messaging lead on cost-to-serve savings and regulatory defensibility rather than capability?\n2. **Use Workday as a benchmark for the board pack.** GRR 97%, AI as a separately reported ARR line, AI products at 30% customer penetration. Ask: do we report retention and AI attach in a way that holds up next to these public comps, and should AI capability be priced as a separate SKU or consumption credit?\n3. **Rates and FX are moving together.** Fed (9 Dec), ECB (17 Dec) and BoE (mid-Dec) all lean toward hikes, with sterling near $1.30. Ask: refresh the FX assumptions in the FY plan and re-run the utility cost-of-capital sensitivity, since higher borrowing costs plus lower allowed returns push clients toward stricter prioritisation.\n\n## Sources\n- [Voltgrid News — Ofgem lifts price cap 26% to £2,166](https://voltgridnews.com/story/ofgem-lifts-uk-price-cap-26-to-2-166-a-year-from-jan-1)\n- [LocalEnergyPrices — January 2027 price cap](https://localenergyprices.co.uk/guides/january-2027-price-cap-energy-prices-rise)\n- [Workday Q3 FY27 8-K exhibit](https://www.sec.gov/Archives/edgar/data/0001327811/000132781126000057/wday-10312026x991.htm)\n- [Investing.com — Workday earnings call transcript](https://ca.investing.com/news/stock-market-news/earnings-call-transcript-workday-tops-q3-2026-estimates-but-shares-fall-93CH-4979486)\n- [T&D World — Oncor spending plans](https://www.tdworld.com/utility-business/news/55418035/oncor-executives-prep-for-20-pop-in-spending-plans)\n- [T&D World — BrightAI raises $97m](https://www.tdworld.com/utility-business/news/55419892/brightai-raises-97-million-to-expand-ai-technology-for-infrastructure-monitoring)\n- [Fortune — BrightAI](https://fortune.com/2026/11/18/brightai-alex-hawkinson-physical-ai-unicorn-roman-infrastructure-inspections/)\n- [AER — Energex and Ergon revocation and substitution](https://www.aer.gov.au/system/files/2026-11/AER%20-%20Revocation%20and%20substitution%20of%20Energex%20and%20Ergon%20Energy%202025-30%20distribution%20determination_2.pdf)\n- [Reuters via Daily Sabah — UK inflation](https://www.dailysabah.com/business/economy/uk-inflation-hits-1-year-high-but-rate-hike-bets-ease)\n- [ITV — UK inflation rises to 3.6%](https://www.itv.com/news/2026-11-18/uk-inflation-rises-to-36-and-britain-faces-another-squeeze-on-living-standard)\n- [Trading Economics — US implied rates](https://tradingeconomics.com/united-states/implied-rates/news/602003)\n- [Trading Economics — GBP](https://tradingeconomics.com/united-kingdom/currency/news/601113)\n\n*Hosts and guests are AI-generated characters.*",
+ "dialogue": [
+  {
+   "speaker": "ANCHOR",
+   "text": "Morning, and welcome to the AIP Morning Brief. I'm Maya."
+  },
+  {
+   "speaker": "STRATEGIST",
+   "text": "And I'm Jordan. Morning, everyone."
+  },
+  {
+   "speaker": "ANCHOR",
+   "text": "Today's top story: it's official. Ofgem has confirmed the energy price cap will rise twenty-six percent in January, to two thousand one hundred and sixty-six pounds a year. The cause is wholesale gas, but the pressure is going to fall on network spending."
+  },
+  {
+   "speaker": "STRATEGIST",
+   "text": "And there's a software angle too. Workday beat expectations, raised guidance, and still dropped seven percent after hours."
+  },
+  {
+   "speaker": "ANCHOR",
+   "text": "Joining us for both of those is Marcus, our capital markets specialist. It's Thanksgiving in the US, so it's a quieter news day, and we'll go deeper on fewer stories."
+  },
+  {
+   "speaker": "ANCHOR",
+   "text": "Let's start with the numbers. Ofgem published the January to March cap yesterday. A typical dual-fuel household on Direct Debit goes from one thousand seven hundred and twenty-three pounds a year to two thousand one hundred and sixty-six. That's up four hundred and forty-three pounds, or twenty-six percent."
+  },
+  {
+   "speaker": "STRATEGIST",
+   "text": "That's a big one. It's the highest level since twenty twenty-three."
+  },
+  {
+   "speaker": "ANCHOR",
+   "text": "Underneath, the electricity unit rate goes from about twenty-six point three pence per kilowatt hour to thirty-two point seven. Gas goes from just under eight pence to almost eleven pence, which is up thirty-eight percent. Standing charges are basically flat."
+  },
+  {
+   "speaker": "STRATEGIST",
+   "text": "Which tells you where it's coming from. Standing charges are where a lot of the network cost sits, and they didn't move. This is wholesale."
+  },
+  {
+   "speaker": "ANCHOR",
+   "text": "Right. Wholesale costs are now fifty-six percent of the cap, up from forty-seven. Ofgem links that to the Middle East conflict that started in March. The government is cushioning it: VAT is off electricity under the cap until the end of June, and about twenty million households get a hundred pounds from January."
+  },
+  {
+   "speaker": "STRATEGIST",
+   "text": "Which, by one consumer group's estimate, covers less than two-thirds of the increase over the winter quarter."
+  },
+  {
+   "speaker": "ANCHOR",
+   "text": "So Jordan, if networks didn't cause this, why should anyone in asset investment planning care?"
+  },
+  {
+   "speaker": "STRATEGIST",
+   "text": "Because network charges are the part of the bill that politicians and regulators can actually control. You can't regulate the price of gas in Qatar. You can regulate how much a distribution network spends on new cables. So when bills spike for reasons nobody controls, scrutiny lands on what they can."
+  },
+  {
+   "speaker": "ANCHOR",
+   "text": "And the timing is awkward."
+  },
+  {
+   "speaker": "STRATEGIST",
+   "text": "Very. The five distribution network operators are about to submit their ED3 business plans. That's the electricity distribution price control from twenty twenty-eight to twenty thirty-three. Those plans go into a regulator's in-tray at exactly the moment bills are at a three-year high."
+  },
+  {
+   "speaker": "ANCHOR",
+   "text": "Let's bring in Marcus. Morning, Marcus."
+  },
+  {
+   "speaker": "GUEST_MARKETS",
+   "text": "Morning, both. Thanks for having me."
+  },
+  {
+   "speaker": "ANCHOR",
+   "text": "Marcus, you look at this through the rates lens. What does a twenty-six percent cap rise do to the bigger picture?"
+  },
+  {
+   "speaker": "GUEST_MARKETS",
+   "text": "It feeds straight into inflation. UK inflation was three point six percent in October, a one-year high, and the Bank of England already expects it to get close to five percent in the second quarter of next year. This cap rise is part of why. And the Bank raised rates this month for the first time in three years."
+  },
+  {
+   "speaker": "STRATEGIST",
+   "text": "And markets think there's more to come."
+  },
+  {
+   "speaker": "GUEST_MARKETS",
+   "text": "About eighty percent odds of another quarter-point hike in December, and three or four more by the end of twenty twenty-seven. For a regulated network that's a double hit. Their borrowing costs go up, and the regulator is under political pressure to keep allowed returns and allowances down because bills are already painful."
+  },
+  {
+   "speaker": "ANCHOR",
+   "text": "Hang on, though. Don't allowed returns usually follow interest rates up? That's the whole point of indexing the cost of debt."
+  },
+  {
+   "speaker": "GUEST_MARKETS",
+   "text": "Fair point, and mechanically yes, the cost of debt allowance is indexed. But there's a lag, and the cost of equity is a judgement call. In an affordability crisis, regulators tend to make that call on the cautious side. So the gap between what investors want and what the regulator allows gets wider for a while."
+  },
+  {
+   "speaker": "STRATEGIST",
+   "text": "Which is exactly what we saw in Illinois last week: approve the capex, trim the return. I think Ofgem does a British version of that. Approve the volume, because connections and electrification have to happen, but push really hard on unit costs."
+  },
+  {
+   "speaker": "GUEST_MARKETS",
+   "text": "I'd agree on the direction. I'd be a little more cautious on how hard. Ofgem has said clearly that it wants investment to support growth. Cutting ED3 too hard would undercut the government's own clean power goals."
+  },
+  {
+   "speaker": "STRATEGIST",
+   "text": "Sure, but no regulator gets punished for cost discipline. They get punished for bills."
+  },
+  {
+   "speaker": "GUEST_MARKETS",
+   "text": "That's true in the short run. I just think the political story has changed. Grid capacity is now framed as an economic growth issue, not just a bills issue."
+  },
+  {
+   "speaker": "ANCHOR",
+   "text": "So where does that leave the planning software market?"
+  },
+  {
+   "speaker": "STRATEGIST",
+   "text": "Here's why it matters. If the message is \"we'll fund it, but prove every pound\", the companies that can show why each project ranks where it does, with risk, value and cost-to-serve, are in a much stronger position. That's what investment planning tools are for. I'd put this story at high confidence on the direction."
+  },
+  {
+   "speaker": "ANCHOR",
+   "text": "Give us the scenarios."
+  },
+  {
+   "speaker": "STRATEGIST",
+   "text": "Base case: UK network buyers keep their planning projects going, but procurement asks harder questions about ROI, and sales cycles stretch by a month or two. That's illustrative. Best case: plan quality and prioritisation become an explicit Ofgem expectation in ED3, which helps win rates and the uptake of value-framework and optimisation modules. Worst case: political pressure leads to deferred discretionary IT spend in twenty twenty-seven budgets, and some UK deals slip a year."
+  },
+  {
+   "speaker": "GUEST_MARKETS",
+   "text": "I'd add one thing on gas. The government has asked Ofgem to remove gas standing charges in twenty twenty-seven or soon after. Those fixed network costs don't go away. They have to be recovered somewhere else, probably through unit rates. That keeps gas distribution spending in the spotlight too."
+  },
+  {
+   "speaker": "ANCHOR",
+   "text": "What should people watch?"
+  },
+  {
+   "speaker": "STRATEGIST",
+   "text": "The ED3 business plans in December, the Bank of England's decision in mid-December, and the April cap, which Ofgem has to publish by the twenty-third of February. Analysts expect that one to be slightly higher again, around two to three percent."
+  },
+  {
+   "speaker": "ANCHOR",
+   "text": "So no relief until the summer, at the earliest."
+  },
+  {
+   "speaker": "GUEST_MARKETS",
+   "text": "That's the market forecast, yes. Falls are expected in July and October, but a lot depends on gas storage and the weather this winter."
+  },
+  {
+   "speaker": "ANCHOR",
+   "text": "Marcus, stay with us, because our second story is right in your area. Workday reported its fiscal third quarter on Tuesday evening, US time."
+  },
+  {
+   "speaker": "GUEST_MARKETS",
+   "text": "Happy to."
+  },
+  {
+   "speaker": "ANCHOR",
+   "text": "Headline numbers: revenue two point seven billion dollars, up eleven percent. Subscription revenue two point five three billion, up almost thirteen. Non-GAAP operating margin thirty-one point four percent, up from twenty-eight and a half."
+  },
+  {
+   "speaker": "STRATEGIST",
+   "text": "And the AI numbers were genuinely strong. AI products brought in nearly a hundred and fifty million dollars of new annual contract value, more than three times last year. AI product annual recurring revenue is now over seven hundred and fifty million, up a hundred and thirty percent."
+  },
+  {
+   "speaker": "ANCHOR",
+   "text": "They raised full-year guidance. And the shares fell seven percent after hours. Marcus, explain that."
+  },
+  {
+   "speaker": "GUEST_MARKETS",
+   "text": "Two things. First, the fourth-quarter guide is ten percent subscription growth, so the deceleration is visible. Second, backlog quality. The twelve-month backlog, current remaining performance obligations, grew a healthy twelve percent. But total backlog grew only six percent, and management said early renewals boosted the quarter and won't repeat."
+  },
+  {
+   "speaker": "STRATEGIST",
+   "text": "So investors are looking past this quarter to the shape of the next two years."
+  },
+  {
+   "speaker": "GUEST_MARKETS",
+   "text": "Exactly. They framed next year at about eleven percent growth and a margin of at least thirty-three percent. That's a perfectly good business. But the market currently pays for growth durability, not margin expansion. Margin is now table stakes."
+  },
+  {
+   "speaker": "ANCHOR",
+   "text": "Is that a Workday problem or a sector problem?"
+  },
+  {
+   "speaker": "GUEST_MARKETS",
+   "text": "Mostly sector. Mid-growth enterprise software has been de-rated all year. When a quality name beats and still drops, that's the market telling you the bar has moved."
+  },
+  {
+   "speaker": "STRATEGIST",
+   "text": "I'd push back slightly. Some of it is Workday specifically. Human resources software is seat-based, and seats are exactly what AI threatens. If customers need fewer people, they need fewer licences. So investors are discounting the core even as the AI line grows."
+  },
+  {
+   "speaker": "GUEST_MARKETS",
+   "text": "That's fair for the long term. I'd still say most of yesterday's move was the guide and the backlog, not seats."
+  },
+  {
+   "speaker": "ANCHOR",
+   "text": "Jordan, what's the useful lesson for an asset investment planning business?"
+  },
+  {
+   "speaker": "STRATEGIST",
+   "text": "Three benchmarks. Gross revenue retention was ninety-seven percent. That's the bar for mission-critical software. AI is reported as its own recurring revenue line, which gives investors something to track. And about thirty percent of customers now license at least one AI product, up from twelve percent a year ago."
+  },
+  {
+   "speaker": "ANCHOR",
+   "text": "And the pricing model?"
+  },
+  {
+   "speaker": "STRATEGIST",
+   "text": "That's the interesting part. Workday sells AI two ways: premium subscription tiers, and a consumption model called Flex Credits. The chief executive said they're still in the early days of the AI consumption model. Asset planning isn't seat-heavy, it's usually priced on asset base or modules, so the seat risk is lower. But the question of whether you charge separately for AI is very live."
+  },
+  {
+   "speaker": "GUEST_MARKETS",
+   "text": "And from a valuation angle, a separately disclosed AI line is worth something. It gives investors a growth story beyond the core."
+  },
+  {
+   "speaker": "ANCHOR",
+   "text": "Confidence and scenarios?"
+  },
+  {
+   "speaker": "STRATEGIST",
+   "text": "High confidence on the data. Base case: benchmarks get stricter, and boards expect retention in the high nineties, a visible AI line and discipline on the rule of forty. No direct pipeline impact. Best case: Workday's AI contract value gives a public precedent for charging separately for AI, which supports premium AI pricing in our space. Worst case: further de-rating of mid-growth software lowers private-market multiples and raises the growth bar for any sponsor-owned software company."
+  },
+  {
+   "speaker": "ANCHOR",
+   "text": "What's next?"
+  },
+  {
+   "speaker": "GUEST_MARKETS",
+   "text": "Salesforce reports in early December, which will show whether backlog deceleration is broad. And Workday's fourth quarter lands in late February."
+  },
+  {
+   "speaker": "ANCHOR",
+   "text": "Marcus, thank you. Always good to have you."
+  },
+  {
+   "speaker": "GUEST_MARKETS",
+   "text": "Thanks, Maya. Thanks, Jordan."
+  },
+  {
+   "speaker": "ANCHOR",
+   "text": "Third story, from Texas. Sempra, which owns eighty percent of Oncor, the big Texas transmission and distribution utility, said it expects Oncor's capital plan to be about twenty percent bigger when the new five-year plan comes out in February."
+  },
+  {
+   "speaker": "STRATEGIST",
+   "text": "From what base?"
+  },
+  {
+   "speaker": "ANCHOR",
+   "text": "Forty-seven and a half billion dollars for twenty twenty-six to twenty thirty. Two years ago it was thirty-six billion. Oncor's chief executive said the twenty percent doesn't include several transmission projects."
+  },
+  {
+   "speaker": "STRATEGIST",
+   "text": "So potentially well above fifty-five billion. Data centres again?"
+  },
+  {
+   "speaker": "ANCHOR",
+   "text": "Partly. But here's the detail I found interesting. Oncor has nineteen gigawatts of requests just from non-data-centre customers and government bodies. That's more than fifty-five percent of its record summer peak. And management says openly that not all of it will happen."
+  },
+  {
+   "speaker": "STRATEGIST",
+   "text": "That's the whole case for investment planning in one sentence. You have a queue that's bigger than half your system, and you know only some of it is real. Which substations do you build first? Which ones can wait for evidence? That's scenario planning, not a spreadsheet."
+  },
+  {
+   "speaker": "ANCHOR",
+   "text": "How does it compare with what we covered yesterday in Illinois?"
+  },
+  {
+   "speaker": "STRATEGIST",
+   "text": "It's the opposite end. Texas says yes to growth; Illinois trims returns. I think we'll see more variation between US states, which means more variation in how utilities buy. Growth states buy for scale and speed; constrained states buy for prioritisation and justification."
+  },
+  {
+   "speaker": "ANCHOR",
+   "text": "Confidence?"
+  },
+  {
+   "speaker": "STRATEGIST",
+   "text": "Medium. The plan isn't published yet, and Texas politics could shift after the elections. Base case: large US utilities keep widening their planning scope, and demand linked to load-growth scenarios stays strong into twenty twenty-seven. Best case: regulators start asking for probability-weighted load scenarios in filings. Worst case: data-centre demand disappoints, plans get cut in twenty twenty-eight, and planning budgets follow. Watch the February plan."
+  },
+  {
+   "speaker": "ANCHOR",
+   "text": "Fourth, a funding round. BrightAI, a California company, raised ninety-seven million dollars last week. It was led by Smith Point Capital, and GE Vernova joined as both investor and customer. Total funding is now a hundred and eighty-four million."
+  },
+  {
+   "speaker": "STRATEGIST",
+   "text": "What do they actually do?"
+  },
+  {
+   "speaker": "ANCHOR",
+   "text": "They call it physical AI. Sensors on poles, pipelines and compressors, edge computing, drones and inspection robots, plus AI tools for field technicians. They work across power, water and heavy industry, with partners like Osmose, which does utility pole inspection. They claim more than fifty thousand locations."
+  },
+  {
+   "speaker": "STRATEGIST",
+   "text": "So the data layer. Not an investment planning competitor today."
+  },
+  {
+   "speaker": "ANCHOR",
+   "text": "Should anyone worry?"
+  },
+  {
+   "speaker": "STRATEGIST",
+   "text": "Not yet, and I'd call this medium confidence. Condition data is the raw material for risk-based investment planning. Better data makes planning models better, so today it's a partnership story. The longer-term risk is that whoever owns the data starts offering a simple \"replace this next\" list. That squeezes the low end of the market."
+  },
+  {
+   "speaker": "ANCHOR",
+   "text": "A bit like how inspection vendors drift into analytics."
+  },
+  {
+   "speaker": "STRATEGIST",
+   "text": "Exactly. They're expanding into Europe and Asia, so watch for European launch partners and any move toward capital-planning features."
+  },
+  {
+   "speaker": "ANCHOR",
+   "text": "A quick one to watch from Australia. The Australian Energy Regulator has revoked and replaced the twenty twenty-five to twenty thirty determinations for Energex and Ergon Energy in Queensland."
+  },
+  {
+   "speaker": "STRATEGIST",
+   "text": "Why?"
+  },
+  {
+   "speaker": "ANCHOR",
+   "text": "Formulas were missing from a pricing spreadsheet for ancillary services, so prices never picked up the final labour and inflation updates. Prices were about three percent too low. The under-recovery is small, about three hundred and eighty thousand Australian dollars for Energex last year."
+  },
+  {
+   "speaker": "STRATEGIST",
+   "text": "Small money, but I love that a regulator formally called a missing formula a material miscalculation. If you ever need an example of why planning models need governance and audit trails, there it is. Low confidence on any commercial impact. It's just a good story."
+  },
+  {
+   "speaker": "ANCHOR",
+   "text": "Now the macro and SaaS pulse. Rates first."
+  },
+  {
+   "speaker": "STRATEGIST",
+   "text": "Everyone's leaning the same way. In the US, futures price more than ninety percent odds of a quarter-point Fed hike on the ninth of December. The European Central Bank is widely expected to hike on the seventeenth. And the Bank of England is around eighty percent for December."
+  },
+  {
+   "speaker": "ANCHOR",
+   "text": "And currencies?"
+  },
+  {
+   "speaker": "STRATEGIST",
+   "text": "Sterling fell to about a dollar thirty on Tuesday, its weakest since April last year, because the market expects the Fed to tighten harder. For any UK-based software company with dollar revenue, that flatters reported revenue in pounds. But dollar-priced cloud costs get more expensive."
+  },
+  {
+   "speaker": "ANCHOR",
+   "text": "And software stocks?"
+  },
+  {
+   "speaker": "STRATEGIST",
+   "text": "Workday is the signal. A beat and a raise wasn't enough. The market is paying for growth durability and clean backlog, and that feeds through to private valuations with a lag."
+  },
+  {
+   "speaker": "ANCHOR",
+   "text": "Which brings us to three things to raise with the CFO. Jordan."
+  },
+  {
+   "speaker": "STRATEGIST",
+   "text": "One. The UK affordability squeeze is now confirmed, not forecast. The ask: should the plan include a one-to-two-month slippage sensitivity on UK pipeline timing for the first half of next year, and should sales messaging lead with cost-to-serve savings and regulatory defensibility?"
+  },
+  {
+   "speaker": "ANCHOR",
+   "text": "So defend the timing before it moves, not after."
+  },
+  {
+   "speaker": "STRATEGIST",
+   "text": "Right. Two. Use Workday as a benchmark in the board pack. Retention of ninety-seven percent, AI reported as its own recurring revenue line, and AI products at thirty percent customer penetration. The ask: do our retention and AI attach metrics hold up next to public comps, and should AI capability be priced as a separate tier or consumption credit?"
+  },
+  {
+   "speaker": "ANCHOR",
+   "text": "I'd sharpen that. The pricing question is the one that needs a decision. The benchmarking is just homework."
+  },
+  {
+   "speaker": "STRATEGIST",
+   "text": "Fair. Lead with pricing. Three. Rates and FX are moving together. Fed, ECB and Bank of England all lean towards hikes, with sterling near a dollar thirty. The ask: refresh the FX assumptions in the plan and re-run the client cost-of-capital sensitivity, because higher borrowing costs and tighter allowed returns push utilities towards stricter prioritisation."
+  },
+  {
+   "speaker": "ANCHOR",
+   "text": "Which, conveniently, is the job this whole industry exists to do."
+  },
+  {
+   "speaker": "STRATEGIST",
+   "text": "Every cloud, Maya."
+  },
+  {
+   "speaker": "ANCHOR",
+   "text": "That's the brief for Thursday. Thanks to Marcus for joining us, and thanks, Jordan."
+  },
+  {
+   "speaker": "STRATEGIST",
+   "text": "Thanks, Maya. Have a good day, everyone."
+  },
+  {
+   "speaker": "ANCHOR",
+   "text": "See you tomorrow."
+  }
+ ]
+}
