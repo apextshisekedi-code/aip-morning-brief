@@ -1,0 +1,371 @@
+{
+ "date": "2026-11-27",
+ "title": "AIP Morning Brief — 27 Nov — When the grid build-out becomes the risk",
+ "guests": [
+  "GUEST_REG",
+  "GUEST_TECH"
+ ],
+ "show_notes": "# AIP Morning Brief — Friday 27 November 2026\n\nGuests: Priya (regulation specialist), Sofia (enterprise software and AI analyst)\n\n**Top line:** Britain's grid operator issued its third electricity margin warning of the week on Thursday, and blamed it partly on network constraints created by the transmission owners' own maintenance and reinforcement work. In the US, a Thanksgiving storm cut power to more than 900,000 customers and forced a water utility serving 1.9 million people into an essential-use-only request, its second power-driven crisis in two months. On both sides of the Atlantic, the build-out itself is now a reliability risk, and that makes sequencing and prioritising capital work a board-level issue for utilities.\n\n*A quieter 36 hours for competitor and IFS news (US Thanksgiving), so today goes deeper on the infrastructure stories.*\n\n## Stories\n\n**1. UK grid: third margin warning in a week, and the upgrade programme is part of the problem** · HIGH (R4 S4 T5 I3 = 4.0) · Metrics: pipeline timing, win rate, deal size\nOn Thursday 26 Nov the National Energy System Operator (NESO) issued electricity margin notices (EMNs) for 8am–noon and noon–8pm, its third alert this week. Aggregator reports put the afternoon shortfall at more than 2.7GW (single-sourced, treat as approximate), with wind about 2.5GW below forecast and cold weather lifting demand. NESO called the notice \"routine and precautionary\" with no risk to supplies. It blamed \"significant constraints on the network caused by maintenance and reinforcement work by transmission owners\", which cut north–south transfer capacity, so Scottish wind was paid to switch off and replaced further south. A tracker put Thursday's balancing actions above £6m, and the Telegraph reports wasted-wind costs above £2bn so far in 2026. Background: the National Audit Office (NAO) warned in September that constraint costs, £1.9bn in 2025-26, could reach £7.8bn by 2030 without faster delivery. Of 80 projects NESO called necessary for Clean Power 2030, 64 are under way, mostly at an early stage. On-time connection offers fell from 64% (2019-20) to 16% (2023-24).\n\n*Why it matters (opinion):* this is a new argument for portfolio planning. Building the grid takes circuits out of service, and those outages are now visibly costing consumers money in a week when the price cap rose 26%. Expect Ofgem and NESO to push transmission and distribution owners on outage coordination, delivery assurance and evidence that work is sequenced to minimise system cost. That turns asset investment planning (AIP) from \"which projects\" into \"which projects, in what order, with what outage windows\". Winners: owners who can show optimised plans. Losers: anyone whose ED3 business plan (due December) can't show it.\n- **Base:** strengthens the delivery-assurance case in UK TO/DNO conversations; no immediate change to pipeline timing.\n- **Best:** Ofgem formalises outage-optimisation and delivery reporting in RIIO-3 reopeners or ED3 guidance, pulling UK portfolio-planning demand forward by a few quarters (illustrative).\n- **Worst:** affordability politics turn into blanket scrutiny that slows approvals and procurement, lengthening UK sales cycles.\n**What to watch:** more EMNs in December and January, the tightest months in NESO's Winter Outlook; ED3 business plans in December; any Ofgem or NESO response on outage planning.\nSources: [Telegraph via Yahoo](https://www.yahoo.com/news/world/articles/grid-operator-issues-third-warning-114146002.html) · [IndexBox](https://www.indexbox.io/blog/uk-power-system-margin-tightens-as-cold-snap-persists/) · [NAO](https://nao.org.uk/press-releases/delays-to-electricity-grid-upgrades-risk-higher-bills/)\n\n**2. US Thanksgiving storm: 900,000+ outages, and a water utility's power problem strikes twice** · HIGH (R4 S3 T5 I3 = 3.75) · Metrics: pipeline timing, win rate, churn risk (low)\nOn 26 Nov a coastal storm left more than 900,000 customers without power by evening (PowerOutage.us): Pennsylvania over 200,000, Maryland over 172,000, Virginia over 150,000, Missouri over 100,000. Gusts reached 74mph in West Virginia and New Jersey declared a statewide emergency. At 2:30pm WSSC Water asked all 1.9 million customers in Montgomery and Prince George's counties to use water for essentials only, citing intermittent power disruptions. Its Potomac plant had power but unstable production. The Patuxent plant was out for planned maintenance and also hit by storm power problems. The water stayed safe, with no boil notice. Background: the Potomac plant, which supplies about 75% of WSSC's water, lost power on 29 Sep and triggered the same request. WSSC's CEO told the county council the plant's power systems are aged and fragile, with too little redundancy. An assessment found 10 electrical projects costing about $155M, three of them priority projects worth about $130M. Only $4.5M is budgeted this year, with $6M proposed for FY2028. The base rate proposal is 7%, against 11.7% recommended in a draft cost-of-service study.\n\n*Why it matters (opinion):* two lessons. First, interdependency: water risk is often power risk, which cross-asset risk models should capture. Second, maintenance timing: a planned outage at one plant coincided with a storm at the other. Councils and regulators will now ask utilities to show their resilience investment is ranked by risk and fits what customers can afford. That is the AIP pitch in one sentence. Second-order: expect US storm-cost recovery filings and more state commission scrutiny of resilience plans in early 2027.\n- **Base:** resilience and redundancy climb US water and power capex priorities over 12–24 months; supportive, but no near-term pipeline change.\n- **Best:** post-event reviews explicitly demand risk-quantified, cross-asset prioritisation, improving win rates where that is the evaluation criterion (illustrative).\n- **Worst:** storm-recovery costs and affordability fights (7% vs 11.7%) squeeze discretionary software budgets and push deals right.\n**What to watch:** WSSC's FY2028 budget and rate decision; utility storm-cost filings; any Maryland review of the repeat outage.\nSources: [National Pulse](https://thenationalpulse.com/2026/11/26/powerful-thanksgiving-storm-unleashes-floods-leaves-900000-without-power/) · [GSM Global – WSSC](https://gsmglobalnews.com/article/d20261126-gap1435-wsscwater1.html) · [WJLA – $155M upgrades](https://wjla.com/news/local/wssc-water-potomac-filtration-plant-outage-bills-rate-increase-montgomery-county-prince-georges-maryland-electrical-upgrades-155-million-customer-affordability) · [Fox 5 DC](https://www.fox5dc.com/news/wssc-water-plant-outage-under-review-montgomery-county-council) · [WaterWorld](https://www.waterworld.com/water-utility-management/news/55409037/wssc-water-asks-19-million-customers-to-conserve-amid-plant-power-issue)\n\n**3. Thames Water back in court today to push 2027 debt to 2028** · HIGH (R5 S3 T4 I3 = 3.75) · Metrics: pipeline timing (UK water), churn risk (sector)\nThe High Court convening hearing is today (27 Nov) for two linked Part 26A restructuring plans. They would extend all senior secured debt due in 2027 (super senior, Class A and B) to March 2028, and stretch the \"stable platform period\" that expires 22 March 2027. Creditors holding more than £12bn have signed up. Timetable: accession deadline 11 Dec, creditor meetings 17 Dec, sanction hearing 13 Jan 2027, effective around the week of 1 Feb 2027. Separately, creditors approved a £2.4bn super senior upsize, with a first tranche of up to £600m, extending liquidity into autumn 2027 (9fin). Thames says the extension supports its \"record AMP8 capital investment programme\". The board, Ofwat and other regulators have made no decision on the London & Valley Water (L&VW) creditor recapitalisation, and 9fin reports a revised deal could reach Ofwat as early as December.\n\n*Why it matters (opinion):* this buys time, not a fix. It keeps AMP8 delivery going, but a company in a court-supervised holding pattern is not one that makes bold new commitments. The sector-wide effect matters more: every month Thames stays unresolved keeps UK water financing costs and investor caution higher.\n- **Base:** extension sanctioned in January; AMP8 continues cautiously; non-essential procurement stays slow until recapitalisation.\n- **Best:** a recapitalisation agreed in 2027 brings equity and a reset business plan that needs rigorous investment prioritisation.\n- **Worst:** talks fail and special administration follows, freezing discretionary spend and lifting sector financing costs.\n**What to watch:** today's hearing outcome; 17 Dec creditor vote; any revised L&VW proposal to Ofwat.\nSources: [Thames Water announcement](https://www.thameswater.co.uk/news/2026/nov/rp15-tsa-and-psl-announcement) · [9fin](https://www.9fin.com/insights/thames-water-extend-2027-debt-recap)\n\n**4. Octave (ex-Hexagon EAM) six months on: growth guide cut, Russell entry next** · MEDIUM (R3 S3 T3 I3 = 3.0) · Metrics: win rate, pricing power\nOctave Intelligence, spun out of Hexagon in May 2026 and listed in New York (OCTV) and Stockholm, owns Octave Attune EAM (formerly HxGN EAM / Infor EAM). An analysis of its filings published 24 Nov (Every Spin-Off newsletter, secondary) says 2026 organic growth guidance was cut to 0.5–2% from 3–4%. It puts ARR at about $1.17bn in September (guidance $1.185–1.205bn) and gross revenue retention at about 97%. It also reports a $625m payment to Hexagon at separation funded partly by about $524m of term loans, and material weaknesses in internal controls. FTSE Russell's preliminary list adds Octave to the Russell indices after the close on 11 Dec. On AI, IDC rates Attune a Leader in AI-enabled EAM; its generative assistant Aria launched in late 2024 and agentic features are promised for 2026.\n\n*Why it matters (opinion, medium confidence):* a big EAM incumbent with sticky customers (97% GRR) but little growth, new debt and controls remediation is a distracted competitor. That can help in head-to-head evaluations. But under pressure to show growth, it could also discount or bundle planning into EAM renewals.\n- **Base:** strong installed base, limited appetite for aggressive pricing or big R&D bets; little near-term change.\n- **Best:** distraction opens win-rate opportunities where AIP and EAM are evaluated together (illustrative).\n- **Worst:** Octave bundles or discounts investment-planning features into EAM deals, pressuring price.\n**What to watch:** Russell inclusion 11 Dec; Q4 results early 2027; agentic AI release.\nSources: [Hexagon IR – Octave separation](https://investors.hexagon.com/share-information/octave-separation) · [Every Spin-Off #11](https://everyspinofff.substack.com/p/every-spin-off-11-octave-intelligence) · [Octave – IDC MarketScape](https://www.octave.com/newsroom/press-releases/2026/octave-named-leader-in-idc-marketscape)\n\n**5. Bank of England flags AI-linked fragility; software multiples keep paying for growth** · HIGH (R4 S4 T3 I3 = 3.5) · Metrics: cost of capital, valuation, pricing power\nThe Financial Stability Report (26 Nov) kept the countercyclical buffer at 2%. It warned that AI-related interconnections raise the risk of several vulnerabilities crystallising at once. It notes hyperscaler bond issuance set to exceed $305bn in 2026 (about 8% of global investment-grade issuance), and says AI-linked equities fell sharply after the US midterms while valuations remain \"stretched on some measures\". The UK 10-year gilt yield is up about 40bp since July, mainly on expected policy rates. Meritech's latest pulse (25 Nov): median software ARR multiple 4.3x (from 4.5x), median net dollar retention stable at 107–109%, and companies growing faster at a similar Rule of 40 trade at 7.3x versus 4.1x.\n\n*Why it matters (opinion):* higher discount rates plus AI nervousness keep multiples compressed. What still gets paid for is growth and retention. For PE-owned software, that means owners will want growth that pays back quickly and NRR above the public median.\n- **Base:** multiples stay compressed into 2027; growth and NRR remain the valuation levers.\n- **Best:** AI volatility rotates investors toward mission-critical vertical software with durable retention.\n- **Worst:** an AI-credit wobble tightens financing, pushing owners to favour cash over growth investment.\n**What to watch:** Fed (9 Dec) and ECB (17 Dec) decisions; next Meritech pulse.\nSources: [BoE FSR Nov 2026](https://www.bankofengland.co.uk/financial-stability-report/2026/november-2026) · [Meritech Software Pulse](https://meritech.substack.com/p/meritech-software-pulse-23-november) · [Multiples.vc](https://multiples.vc/insights/software-saas-valuation-multiples)\n\n## Macro & SaaS pulse\n- **Fed:** markets price about a 96% chance of a 25bp hike at the December meeting after a hotter-than-expected October core PCE print ([Investing.com](https://www.investing.com/news/forex-news/asia-fx-won-muted-after-bok-hikes-rates-dollar-steady-5052015), [FinScans](https://finscans.com/news/2026/11/26/usd-gains-face-resistance-as-markets-price-96-chance-of)).\n- **FX:** the dollar index sits just below its 2026 highs; GBP/USD about 1.31, EUR/USD about 1.096, AUD/USD about 0.665, USD/JPY near 159 ([Investing.com](https://www.investing.com/news/forex-news/asia-fx-won-muted-after-bok-hikes-rates-dollar-steady-5052015)).\n- **Europe:** euro-area inflation is at 4.0%, double the ECB target, with a December hike widely expected ([Eurostat](https://ec.europa.eu/eurostat/web/products-euro-indicators/w/2-18112026-ap)).\n- **Energy:** Brent about $92 a barrel versus $75 in July, per the BoE ([FSR](https://www.bankofengland.co.uk/financial-stability-report/2026/november-2026)).\n- **SaaS:** vertical SaaS trades at a median 2.0x EV/NTM revenue, horizontal at 1.9x ([Multiples.vc](https://multiples.vc/insights/software-saas-valuation-multiples)).\n\n## 3 things to raise with the CFO\n1. **The \"build-out risk\" narrative is now public. Use it.** UK constraint costs (£1.9bn last year, potentially £7.8bn by 2030) and this week's margin warnings tie grid reliability to how well capital work is sequenced. *Ask:* agree that UK pipeline reviews tag opportunities where outage and delivery optimisation is a buying driver, and fund some targeted marketing around ED3 plans in December.\n2. **Resilience spend is rising, and so is affordability pressure.** WSSC's $155M electrical need against a 7% vs 11.7% rate debate is the US pattern in miniature. *Ask:* model a scenario where US water and municipal deals slip one to two quarters on budget squeeze, against an upside where resilience mandates speed them up; check the forecast isn't assuming only the upside.\n3. **Benchmark the board story against what markets pay for.** Public software is paid for growth and NRR (median NDR 107–109%), not margin alone, and a large EAM rival is guiding to roughly flat growth. *Ask:* frame the next board pack's ARR bridge around NRR versus public medians, and confirm deal desk guardrails if competitors start bundling planning features into EAM renewals.\n\n## Sources\n- https://www.yahoo.com/news/world/articles/grid-operator-issues-third-warning-114146002.html\n- https://www.indexbox.io/blog/uk-power-system-margin-tightens-as-cold-snap-persists/\n- https://nao.org.uk/press-releases/delays-to-electricity-grid-upgrades-risk-higher-bills/\n- https://thenationalpulse.com/2026/11/26/powerful-thanksgiving-storm-unleashes-floods-leaves-900000-without-power/\n- https://gsmglobalnews.com/article/d20261126-gap1435-wsscwater1.html\n- https://wjla.com/news/local/wssc-water-potomac-filtration-plant-outage-bills-rate-increase-montgomery-county-prince-georges-maryland-electrical-upgrades-155-million-customer-affordability\n- https://www.fox5dc.com/news/wssc-water-plant-outage-under-review-montgomery-county-council\n- https://www.waterworld.com/water-utility-management/news/55409037/wssc-water-asks-19-million-customers-to-conserve-amid-plant-power-issue\n- https://www.thameswater.co.uk/news/2026/nov/rp15-tsa-and-psl-announcement\n- https://www.9fin.com/insights/thames-water-extend-2027-debt-recap\n- https://investors.hexagon.com/share-information/octave-separation\n- https://everyspinofff.substack.com/p/every-spin-off-11-octave-intelligence\n- https://www.octave.com/newsroom/press-releases/2026/octave-named-leader-in-idc-marketscape\n- https://www.bankofengland.co.uk/financial-stability-report/2026/november-2026\n- https://meritech.substack.com/p/meritech-software-pulse-23-november\n- https://multiples.vc/insights/software-saas-valuation-multiples\n- https://www.investing.com/news/forex-news/asia-fx-won-muted-after-bok-hikes-rates-dollar-steady-5052015\n- https://finscans.com/news/2026/11/26/usd-gains-face-resistance-as-markets-price-96-chance-of\n- https://ec.europa.eu/eurostat/web/products-euro-indicators/w/2-18112026-ap\n\nHosts and guests are AI-generated characters.\n",
+ "dialogue": [
+  {
+   "speaker": "ANCHOR",
+   "text": "Morning, and welcome to the AIP Morning Brief for Friday the twenty-seventh of November. I'm Maya."
+  },
+  {
+   "speaker": "STRATEGIST",
+   "text": "And I'm Jordan. Morning, Maya."
+  },
+  {
+   "speaker": "ANCHOR",
+   "text": "Here's the hook. Britain's grid operator issued its third power margin warning of the week yesterday, and part of the reason was the grid upgrade work itself. Meanwhile a Thanksgiving storm in the US knocked out power to more than nine hundred thousand customers and left a water utility asking almost two million people to use water for essentials only."
+  },
+  {
+   "speaker": "STRATEGIST",
+   "text": "So the theme today is that building the network is now a reliability risk in its own right. Which makes the order you do the work in a very big deal."
+  },
+  {
+   "speaker": "ANCHOR",
+   "text": "We'll also cover Thames Water, which is back in court this morning, a check-in on Octave, the old Hexagon asset management business, and what the Bank of England thinks about AI and markets. Our guests are Priya, our regulation specialist, and later Sofia, our enterprise software analyst."
+  },
+  {
+   "speaker": "ANCHOR",
+   "text": "Let's start in Britain. Yesterday the National Energy System Operator, known as NESO, issued what's called an electricity margin notice. That's a signal to the market that the spare capacity cushion is thinner than it would like, and it was the third this week. There were two windows, eight in the morning to midday, then midday to eight in the evening."
+  },
+  {
+   "speaker": "STRATEGIST",
+   "text": "And NESO was quick to say it's routine and precautionary, with no risk to supplies and nothing customers need to do. That's fair."
+  },
+  {
+   "speaker": "ANCHOR",
+   "text": "But the reason it gave is the interesting bit. Joining us to unpack it is Priya, our regulation specialist. Morning, Priya."
+  },
+  {
+   "speaker": "GUEST_REG",
+   "text": "Morning, both. So yes, part of it is the obvious stuff. It's cold, demand is up, and wind came in about two and a half gigawatts below forecast early on Thursday. Aggregator reports put the afternoon shortfall at more than two point seven gigawatts, though that figure comes from one underlying source, so I'd treat it as approximate."
+  },
+  {
+   "speaker": "ANCHOR",
+   "text": "And the less obvious stuff?"
+  },
+  {
+   "speaker": "GUEST_REG",
+   "text": "NESO pointed to significant constraints on the network caused by maintenance and reinforcement work by the transmission owners. In plain terms, circuits are out of service so they can be upgraded. That cuts how much power can flow from north to south. So you've got wind in Scotland that can't get to where the demand is. NESO pays it to switch off and buys replacement power, mostly gas, further south."
+  },
+  {
+   "speaker": "STRATEGIST",
+   "text": "Which is the irony. The work that's meant to fix the bottleneck is making the bottleneck worse while it happens."
+  },
+  {
+   "speaker": "GUEST_REG",
+   "text": "Exactly, and it isn't cheap. One tracker put Thursday's balancing actions at more than six million pounds. The Telegraph reports the cost of wasted wind has passed two billion pounds so far this year."
+  },
+  {
+   "speaker": "ANCHOR",
+   "text": "Give us the background, Priya. How did we get here?"
+  },
+  {
+   "speaker": "GUEST_REG",
+   "text": "In September the National Audit Office looked at the transmission upgrade programme, which is roughly seventy billion pounds of investment. It found constraint costs, those switch-off and switch-on payments, were one point nine billion pounds in twenty twenty-five to twenty-six, and could reach seven point eight billion by twenty thirty without concerted action. Of the eighty projects NESO said were needed for the Clean Power twenty thirty target, sixty-four are under way, but most are at an early stage."
+  },
+  {
+   "speaker": "STRATEGIST",
+   "text": "Here's why that matters. Until now the grid investment story in Britain has mostly been about how much and which projects. This week shows a third question, which is in what order, and with what outage windows. Every circuit you take out for reinforcement has a system cost, and in a cold, still week that cost turns up on the balancing bill."
+  },
+  {
+   "speaker": "ANCHOR",
+   "text": "So who pushes on that?"
+  },
+  {
+   "speaker": "STRATEGIST",
+   "text": "Ofgem and NESO, I'd expect. This lands in the same week the price cap went up twenty-six percent. The affordability politics are brutal right now. So I'd expect much more pressure on the transmission and distribution companies to show they're coordinating outages and sequencing work to keep system costs down. That's squarely an asset investment planning problem."
+  },
+  {
+   "speaker": "GUEST_REG",
+   "text": "I'd add a note of caution, Jordan. Outage planning sits partly with NESO's own operational teams and partly with the transmission owners' delivery teams. It's not automatically a capital planning decision. So the regulator might respond with operational rules rather than anything that changes how companies plan their investment."
+  },
+  {
+   "speaker": "STRATEGIST",
+   "text": "Fair point. But the two are joined. If your outage plan can't flex, your investment sequence has to. I'd still put this at high confidence as a direction of travel."
+  },
+  {
+   "speaker": "ANCHOR",
+   "text": "Scenarios, then."
+  },
+  {
+   "speaker": "STRATEGIST",
+   "text": "Base case, it strengthens the delivery-assurance argument in conversations with UK network companies, but no immediate change to pipeline timing. Best case, Ofgem formalises outage optimisation and delivery reporting in its reopeners or in the guidance for ED3, the next electricity distribution price control, and that pulls UK demand forward by a few quarters. That's illustrative. Worst case, affordability anger turns into blanket scrutiny that slows approvals and procurement, and sales cycles stretch."
+  },
+  {
+   "speaker": "ANCHOR",
+   "text": "Priya, what are you watching?"
+  },
+  {
+   "speaker": "GUEST_REG",
+   "text": "Three things. More margin notices in December and January, which NESO's winter outlook flagged as the tightest months. The ED3 business plans landing in December. And whether Ofgem says anything specific about outage planning, because that would tell us whether this becomes a rule or stays a headline."
+  },
+  {
+   "speaker": "ANCHOR",
+   "text": "Stay with us, Priya, because the US story has a very similar shape. On Thanksgiving Day a powerful coastal storm swept up the East Coast. By the evening more than nine hundred thousand homes and businesses were without power, according to outage trackers. Pennsylvania was worst hit with more than two hundred thousand, then Maryland, Virginia and Missouri."
+  },
+  {
+   "speaker": "STRATEGIST",
+   "text": "Gusts of seventy-four miles an hour in West Virginia, and New Jersey declared a statewide emergency."
+  },
+  {
+   "speaker": "ANCHOR",
+   "text": "But the detail that caught our eye was water. At half past two on Thursday afternoon, WSSC Water, which serves Montgomery and Prince George's counties in Maryland, asked all one point nine million of its customers to use water for essentials only."
+  },
+  {
+   "speaker": "GUEST_REG",
+   "text": "And the reason was power, not flooding or contamination. WSSC cited intermittent power disruptions at its two big filtration plants. The Potomac plant had power and was producing enough to meet demand, but production kept being interrupted. The Patuxent plant was already out of service for planned maintenance and was hit by storm-related power problems too. The water was safe, and there was no need to boil it."
+  },
+  {
+   "speaker": "ANCHOR",
+   "text": "And this has happened before, hasn't it?"
+  },
+  {
+   "speaker": "GUEST_REG",
+   "text": "Two months ago. On the twenty-ninth of September the Potomac plant, which supplies around three quarters of WSSC's water, lost power and triggered the same request. In October the utility's chief executive told the county council the plant's power systems are as old as the plant itself, fragile, and lack redundancy. An assessment found ten electrical projects worth about a hundred and fifty-five million dollars, with three priority projects making up about a hundred and thirty million."
+  },
+  {
+   "speaker": "STRATEGIST",
+   "text": "Hang on, and how much is actually funded?"
+  },
+  {
+   "speaker": "GUEST_REG",
+   "text": "Four and a half million dollars budgeted this year, and six million proposed for fiscal twenty twenty-eight. On rates, the base proposal is a seven percent increase, but a draft cost-of-service study recommends eleven point seven."
+  },
+  {
+   "speaker": "STRATEGIST",
+   "text": "That's the whole US story in one example. A known resilience gap worth well over a hundred million dollars, a few million funded, and an argument about whether customers can stand seven percent or nearly twelve."
+  },
+  {
+   "speaker": "ANCHOR",
+   "text": "So what's the takeaway for anyone in asset investment planning?"
+  },
+  {
+   "speaker": "STRATEGIST",
+   "text": "Two lessons. First, interdependency. A water plant's biggest risk was the power feeding it. If your risk model treats the water assets on their own, you miss that. Second, timing. A planned maintenance outage at one plant met a storm at the other. Again, it's about sequencing. And when the money is that tight against the need, you have to show your ranking is defensible. That's exactly what councils and regulators will ask for."
+  },
+  {
+   "speaker": "GUEST_REG",
+   "text": "I'd push back gently on how fast that turns into buying. US water utilities are often municipal or quasi-public. They budget on annual cycles with political sign-off, and storm recovery costs come first. Resilience goes up the list, but software budgets can get squeezed in the same breath."
+  },
+  {
+   "speaker": "STRATEGIST",
+   "text": "Agreed, and that's my worst case. Base case, resilience and redundancy climb the capex priority list at US water and power utilities over the next twelve to twenty-four months, which is supportive but doesn't change the near-term pipeline. Best case, post-storm reviews explicitly demand risk-quantified prioritisation across asset types, which helps win rates where that's what buyers judge on. Illustrative. Worst case, recovery costs and affordability fights push discretionary software deals to the right. High confidence on the direction, medium on the timing."
+  },
+  {
+   "speaker": "ANCHOR",
+   "text": "And what to watch?"
+  },
+  {
+   "speaker": "GUEST_REG",
+   "text": "WSSC's fiscal twenty twenty-eight budget and rate decision. Storm cost recovery filings from the affected power utilities, which usually come a few months after the event. And any state-level review of why the same plant was hit twice in two months."
+  },
+  {
+   "speaker": "ANCHOR",
+   "text": "Priya, thank you. Great to have you."
+  },
+  {
+   "speaker": "GUEST_REG",
+   "text": "Pleasure. Stay warm."
+  },
+  {
+   "speaker": "ANCHOR",
+   "text": "Next, Thames Water, briefly, because it's back in the High Court this morning. Today is the convening hearing for two linked restructuring plans. They'd push all of Thames's senior secured debt that falls due in twenty twenty-seven out to March twenty twenty-eight."
+  },
+  {
+   "speaker": "STRATEGIST",
+   "text": "And they'd extend what's called the stable platform period, which currently runs out on the twenty-second of March. Creditors holding more than twelve billion pounds of debt have signed up, so the vote looks well supported."
+  },
+  {
+   "speaker": "ANCHOR",
+   "text": "What's the timetable?"
+  },
+  {
+   "speaker": "STRATEGIST",
+   "text": "Creditors have until the eleventh of December to join, creditor meetings on the seventeenth, a sanction hearing on the thirteenth of January, and the deal takes effect around the start of February. Separately, creditors have approved a two point four billion pound increase in super senior funding, with a first tranche of up to six hundred million, which reportedly takes liquidity into autumn twenty twenty-seven."
+  },
+  {
+   "speaker": "ANCHOR",
+   "text": "And the bigger rescue?"
+  },
+  {
+   "speaker": "STRATEGIST",
+   "text": "Still unresolved. Thames says its board, Ofwat and other regulators have made no decision on the London and Valley Water creditor proposal. Reports suggest a revised deal could reach Ofwat as early as next month."
+  },
+  {
+   "speaker": "ANCHOR",
+   "text": "So, your take."
+  },
+  {
+   "speaker": "STRATEGIST",
+   "text": "High confidence in the facts, and my view is simple. This buys time, not a fix. Thames says the extension supports what it calls its record capital programme for this five-year period, and that's true. But a company in a court-supervised holding pattern doesn't make bold new commitments. The bigger effect is sector-wide. While Thames is unresolved, investors stay cautious and financing costs for English water stay higher."
+  },
+  {
+   "speaker": "ANCHOR",
+   "text": "Base, best, worst?"
+  },
+  {
+   "speaker": "STRATEGIST",
+   "text": "Base case, the extension is sanctioned in January, the capital programme carries on cautiously, and any non-essential procurement stays slow until there's a recapitalisation. Best case, a recapitalisation lands in twenty twenty-seven with new equity and a reset business plan, which needs rigorous investment prioritisation. Worst case, talks fail and it goes into special administration, which freezes discretionary spending and lifts the sector's cost of capital. Watch today's hearing and the creditor vote on the seventeenth of December."
+  },
+  {
+   "speaker": "ANCHOR",
+   "text": "Now to competitors. Octave is the business Hexagon spun out in May, and it owns the enterprise asset management product many listeners will know as Infor EAM, now called Octave Attune. Joining us to talk about it is Sofia, our enterprise software and AI analyst. Morning, Sofia."
+  },
+  {
+   "speaker": "GUEST_TECH",
+   "text": "Morning, Maya. Morning, Jordan."
+  },
+  {
+   "speaker": "ANCHOR",
+   "text": "Why are we talking about Octave today?"
+  },
+  {
+   "speaker": "GUEST_TECH",
+   "text": "Two reasons. First, a detailed analysis of its filings came out this week from a newsletter that tracks spin-offs. That's a secondary source, so treat the figures with some care. Second, it's about to join the Russell indices after the market closes on the eleventh of December, which brings a new set of investors."
+  },
+  {
+   "speaker": "STRATEGIST",
+   "text": "So what does the analysis say?"
+  },
+  {
+   "speaker": "GUEST_TECH",
+   "text": "The headline is growth. According to that analysis, Octave cut its twenty twenty-six organic growth guidance to between half a percent and two percent, down from three to four percent back in March. Annual recurring revenue was about one point one seven billion dollars in September, against guidance of roughly one point one nine to one point two billion for the year. And gross revenue retention is about ninety-seven percent, which is very sticky."
+  },
+  {
+   "speaker": "ANCHOR",
+   "text": "So a big, loyal customer base that isn't growing much."
+  },
+  {
+   "speaker": "GUEST_TECH",
+   "text": "Pretty much. And there are a couple of extra weights. At separation Octave paid Hexagon six hundred and twenty-five million dollars, partly funded with roughly five hundred and twenty-four million of term loans. The analysis also reports that Octave disclosed material weaknesses in its internal controls, which it'll be spending time and money fixing."
+  },
+  {
+   "speaker": "ANCHOR",
+   "text": "What about the product? Everyone's talking about AI."
+  },
+  {
+   "speaker": "GUEST_TECH",
+   "text": "IDC rates Attune a leader in AI-enabled enterprise asset management, which is a real endorsement. Its generative AI assistant, called Aria, first shipped in late twenty twenty-four, and agentic features, meaning AI that takes multi-step actions, are promised for twenty twenty-six. So the product is credible. What's in question is how much the company can invest behind it."
+  },
+  {
+   "speaker": "STRATEGIST",
+   "text": "Here's my take, medium confidence because of the source. A large incumbent with ninety-seven percent retention, almost no growth, new debt and a controls clean-up is a distracted competitor. That tends to show up as slower roadmaps and less flexible deal teams."
+  },
+  {
+   "speaker": "GUEST_TECH",
+   "text": "I'd disagree a little, Jordan. A low-growth incumbent under public-market pressure often does the opposite. It gets aggressive. The easiest growth lever is selling more to the installed base, and one way to do that is to bundle planning or investment features into renewals at a token price."
+  },
+  {
+   "speaker": "STRATEGIST",
+   "text": "That's fair, and it's my worst case. So, base case, Octave stays a strong incumbent with little appetite for big pricing moves or R&D bets, and not much changes near term. Best case, its distraction opens up win-rate opportunities where asset investment planning and asset management are evaluated together. That's illustrative. Worst case, it bundles or discounts planning features into its asset management deals and that pressures price."
+  },
+  {
+   "speaker": "ANCHOR",
+   "text": "Sofia, what are you watching?"
+  },
+  {
+   "speaker": "GUEST_TECH",
+   "text": "The Russell inclusion on the eleventh of December, its fourth-quarter results early next year, and whether the agentic AI features actually ship. If they slip, that tells you where the money's going."
+  },
+  {
+   "speaker": "ANCHOR",
+   "text": "Sofia, thank you."
+  },
+  {
+   "speaker": "GUEST_TECH",
+   "text": "Thanks for having me."
+  },
+  {
+   "speaker": "ANCHOR",
+   "text": "Last story. The Bank of England published its Financial Stability Report yesterday. It kept the countercyclical capital buffer at its neutral two percent, but the tone on AI was notably more cautious."
+  },
+  {
+   "speaker": "STRATEGIST",
+   "text": "The Bank said AI-related links across the system raise the chance that several vulnerabilities crystallise at once. It noted that bond issuance by the big cloud companies is set to top three hundred and five billion dollars this year, about eight percent of global investment-grade issuance. And it said AI-linked shares fell sharply after the US midterms, while valuations still look stretched on some measures."
+  },
+  {
+   "speaker": "ANCHOR",
+   "text": "And rates?"
+  },
+  {
+   "speaker": "STRATEGIST",
+   "text": "The UK ten-year gilt yield is up about forty basis points since July, mainly because markets expect higher policy rates. That flows straight into discount rates, so into software valuations."
+  },
+  {
+   "speaker": "ANCHOR",
+   "text": "Which brings us to the software numbers."
+  },
+  {
+   "speaker": "STRATEGIST",
+   "text": "Meritech's latest pulse shows the median public software company on about four point three times annual recurring revenue, down from four point five. Median net dollar retention has settled at a hundred and seven to a hundred and nine percent. And the line I'd underline is that companies growing faster at a similar Rule of Forty score trade at about seven point three times, against four point one for slower, more cash-generative peers. Growth is still what gets paid for."
+  },
+  {
+   "speaker": "ANCHOR",
+   "text": "Confidence and scenarios?"
+  },
+  {
+   "speaker": "STRATEGIST",
+   "text": "High confidence. Base case, multiples stay compressed into twenty twenty-seven, and growth plus retention stay the levers that move valuation. Best case, AI volatility pushes investors toward mission-critical vertical software with durable retention, which is good company to be in. Worst case, a wobble in AI-linked credit tightens financing across the board, and private equity owners favour cash over growth investment. Watch the Fed on the ninth of December and the European Central Bank on the seventeenth."
+  },
+  {
+   "speaker": "ANCHOR",
+   "text": "Quick pulse, then. Jordan?"
+  },
+  {
+   "speaker": "STRATEGIST",
+   "text": "Markets put about a ninety-six percent chance on a quarter-point Fed hike in December after a hotter-than-expected October core inflation reading from the personal consumption expenditures index. The dollar is just below its highs for the year. Sterling's around one dollar thirty-one, the euro about one dollar nine and a half cents."
+  },
+  {
+   "speaker": "ANCHOR",
+   "text": "Europe?"
+  },
+  {
+   "speaker": "STRATEGIST",
+   "text": "Euro-area inflation is at four percent, double the target, so a December hike from the European Central Bank is widely expected. Brent crude is around ninety-two dollars a barrel, up from seventy-five in July."
+  },
+  {
+   "speaker": "ANCHOR",
+   "text": "Right, three things to raise with the CFO. Jordan, go."
+  },
+  {
+   "speaker": "STRATEGIST",
+   "text": "One. The build-out risk story is now public, so use it. British constraint costs were one point nine billion pounds last year and could reach seven point eight billion by twenty thirty, and this week's margin warnings tie grid reliability to how well capital work is sequenced. The ask is to tag UK pipeline opportunities where outage and delivery optimisation is a buying driver, and to fund some targeted marketing around the ED3 business plans in December."
+  },
+  {
+   "speaker": "ANCHOR",
+   "text": "So it's not a new forecast, it's a better-labelled pipeline."
+  },
+  {
+   "speaker": "STRATEGIST",
+   "text": "Exactly. Two. Resilience spend is rising, but so is affordability pressure. The WSSC example, a hundred and fifty-five million dollar need against a seven versus twelve percent rate fight, is the US pattern in miniature. The ask is to model a scenario where US water and municipal deals slip one or two quarters on budget pressure, alongside the upside where resilience mandates speed them up, and check the forecast isn't quietly assuming only the upside."
+  },
+  {
+   "speaker": "ANCHOR",
+   "text": "And three?"
+  },
+  {
+   "speaker": "STRATEGIST",
+   "text": "Three. Benchmark the board story against what markets actually pay for, which is growth and net retention, with a public median of around a hundred and seven to a hundred and nine percent. And with a large asset management rival guiding to roughly flat growth, confirm deal desk guardrails in case competitors start bundling planning features into renewals."
+  },
+  {
+   "speaker": "ANCHOR",
+   "text": "I'd sharpen that last one: decide the walk-away point before the first bundled offer turns up, not during the deal."
+  },
+  {
+   "speaker": "STRATEGIST",
+   "text": "Couldn't have put it better myself. Well, I could, but not before coffee."
+  },
+  {
+   "speaker": "ANCHOR",
+   "text": "That's the brief for Friday. Thanks to Priya and Sofia, and thanks to you for listening. Have a good weekend, and we'll be back on Monday."
+  },
+  {
+   "speaker": "STRATEGIST",
+   "text": "Take care, everyone."
+  }
+ ]
+}
