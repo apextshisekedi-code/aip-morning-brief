@@ -1,0 +1,395 @@
+{
+ "date": "2026-11-28",
+ "title": "AIP Morning Brief — 28 Nov — The rates squeeze reaches the capital plan",
+ "guests": [
+  "GUEST_MARKETS",
+  "GUEST_TECH"
+ ],
+ "show_notes": "# AIP Morning Brief — Saturday 28 November 2026\n\nGuests: Marcus (capital markets specialist), Sofia (enterprise software and AI analyst)\n\n**Top line:** Markets now price a near-certain Federal Reserve hike on 8–9 December (CME FedWatch 97.4%) and roughly an 80% chance the Bank of England follows on 17 December, with US 10-year yields at 4.94%. Utilities face a widening gap between what their debt costs today and the returns regulators last allowed, so expect sharper capital prioritisation and some slippage in discretionary spend, including software, into 2027.\n\n*A quiet post-Thanksgiving 36 hours for primary regulatory and competitor news, so today goes deeper on fewer stories.*\n\n## Stories\n\n**1. Rates squeeze: Fed hike near-certain, BoE's Greene says the Bank is \"behind the curve\"** · HIGH (R5 S4 T5 I4 = 4.5) · Metrics: pipeline timing, deal size, cost (FX)\nFriday's shortened US session closed with CME FedWatch at 97.4% for a 25bp Fed hike at the 8–9 December meeting; the 10-year Treasury yield rose 9bp to 4.94%. In the UK, MPC member Megan Greene said on 24 Nov the Bank is \"a little bit behind the curve\" and backed further tightening \"unless there's a miraculous turnaround\" in the data or the Middle East war; markets priced about an 80% chance of a quarter-point hike on 17 December, after November's first hike in three years. The BoE's November market participants survey (fielded in October, before the hike) had a median 10-year gilt yield of 5.25% for end-December. GBP/USD has been trading around 1.30–1.31, with the dollar (DXY 104.04) supported by Fed bets. Brent settled at $95.44.\n*Why it matters (opinion):* Regulated utilities recover capital costs through allowed returns that are reset only at rate cases or price controls, so rising rates widen the gap between their actual cost of debt and their allowed return. The usual response is to protect mandated and safety-critical capex and squeeze discretionary items, which can include new software programmes. The same squeeze also strengthens the case for tools that show regulators and boards which projects come first. Higher discount rates also compress long-duration SaaS valuations and push investors towards cash-flow efficiency.\n- **Base:** Some new-logo deals that need fresh capital approval slip by a quarter; renewals and expansions tied to rate-case filings hold.\n- **Best:** Utilities with 2027 filings buy optimisation software sooner to defend capex plans under tighter scrutiny; win rates improve where AIP is pitched as a cost-of-capital tool.\n- **Worst:** Procurement freezes at a handful of investor-owned utilities push several large deals into FY27 H2 and increase discounting pressure (illustrative).\n*What to watch:* Fed decision 9 Dec; BoE 17 Dec; UK gilt 10-year relative to 5.25%; US rate-case ROE awards in December.\nSources: [CappNotes close 27 Nov](https://cappnotes.substack.com/p/closing-look-friday-november-27-2026) · [Investing.com/Yahoo on Greene](https://finance.yahoo.com/economy/policy/articles/bank-england-greene-says-uk-141720581.html) · [Bloomberg](https://www.bloomberg.com/news/articles/2026-11-24/boe-behind-the-curve-unless-war-miraculously-ends-greene-says-mwuqeoej) · [BoE Market Participants Survey, Nov 2026](https://www.bankofengland.co.uk/markets/market-intelligence/survey-results/2026/market-participants-survey-results-november-2026) · [InstaForex GBP/USD 27 Nov](https://www.instaforex.com/forex_analysis/464955)\n\n**2. SAP reportedly weighs at least 10,000 job cuts as it retools for AI** · MEDIUM (R3 S3 T4 I3 = 3.25) · Metrics: win rate, pricing power, competitive landscape\nBloomberg reported on 26 Nov, citing unnamed sources, that SAP is drawing up plans to cut at least 10,000 roles (about 9% of its global workforce, per Euronews), with product development, engineering and sales in focus as it changes how it builds and sells software for the AI era. SAP said \"no decisions have been made\" and that it does not comment on speculation. Shares were down about 0.5% at €193.18 on Friday morning. SAP's Q3 2026 cloud revenue rose 26% to €6.67bn. Context: Oracle's workforce fell by about 21,000 in the year to May, and Microsoft offered voluntary buyouts to about 60,000 staff in October.\n*Why it matters (opinion):* Big platform vendors are reallocating spend from people to AI to protect margins. This is unconfirmed, so caveats apply. Expect shorter-term disruption in SAP's sales and partner coverage, but a sharper, more AI-bundled asset-management pitch over 12–18 months, and more pressure on seat-based pricing across enterprise software.\n- **Base:** No near-term change in competitive dynamics; SAP's EAM/APM bundling message gets louder in 2027.\n- **Best:** Sales disruption at SAP opens a window in utility deals where SAP is the incumbent ERP but its asset-planning offer is thin.\n- **Worst:** SAP uses the savings to bundle AI-driven asset planning aggressively into ERP renewals, pressuring price points for specialists (illustrative).\n*What to watch:* Any SAP confirmation or works-council talks; SAP's Q4 results in late January.\nSources: [Euronews (relaying Bloomberg)](https://euronews.com/2026/11/27/german-sofware-giant-sap-weighs-at-least-10000-job-cuts-amid-ai-shift-reports-say)\n\n**3. UK grid: fourth straight margin notice; 11 this year, with network constraints the main cause** · MEDIUM (R3 S4 T5 I3 = 3.75; single secondary source on totals) · Metrics: pipeline timing, win rate\nOn Friday 27 Nov NESO issued an Electricity Margin Notice for the fourth day running, with expected shortfalls of about 2.5GW (7–10am) and 2.4GW (2–8pm), per GSM Global. The report says roughly 6GW of generation was not counted towards the buffer because of \"network maintenance and transmission constraints\", and that this is the 11th notice of 2026, more than the previous five years combined. NESO said: \"This is not a warning of power cuts, there is no risk to customer electricity supplies.\"\n*Why it matters (opinion):* Building and maintaining the network now cuts into the system's safety margin, so planning *when* each outage happens matters almost as much as *what* gets built. Expect Ofgem and NESO to pay more attention to how well transmission and distribution owners coordinate outages in RIIO-3 delivery and ED3 plans.\n- **Base:** Reliability becomes a standing theme in UK network planning; no immediate change to approved capex.\n- **Best:** Network companies prioritise tools that optimise investment and outage timing together, which pulls forward UK opportunities.\n- **Worst:** A real supply event triggers a political backlash that delays or reshapes work programmes, and buying decisions stall (illustrative).\n*What to watch:* Further notices in December cold spells; any Ofgem or NESO review of outage coordination.\nSources: [GSM Global, 27 Nov](https://gsmglobalnews.com/article/d20261127-ukgrid1.html)\n\n**4. Thanksgiving storm: ~940,000 outages, and WSSC Water's third supply alert of 2026 exposes a funding gap** · HIGH (R4 S3 T4 I3 = 3.5) · Metrics: pipeline timing, deal size (water)\nThe nor'easter cut power to nearly 940,000 customer accounts at Thursday's peak, with 600,000–700,000 still out on Friday morning; BGE said repairs could run through the weekend. WSSC Water lifted its \"Essential Water Use Only\" request for 1.9 million customers at 8:30am Friday, after power disruptions hit its Potomac plant while Patuxent was offline for planned maintenance. It was the third such alert this year (January cold snap; 29 Sept electrical failure at Potomac). ByteWire reports $4.5M of electrical upgrades at Potomac this fiscal year, $6M proposed next year, a $15.9M five-year substation replacement under way, and a remaining funding gap.\n*Why it matters (opinion):* The failure was a planning one: maintenance at one plant left the other with no backup when the power dropped. This is the kind of risk an asset-planning tool is built to show up. Expect board and regulator questions on how much resilience can be bought with redundant feeds and backup generation, and on how maintenance windows are scheduled. This adds to the case for risk-based planning in US water.\n- **Base:** Resilience capex moves up the agenda in mid-Atlantic water and power budgets for FY27–28.\n- **Best:** Repeated incidents push US water utilities to formalise risk-based capital planning, which widens the water pipeline.\n- **Worst:** Affordability pressure caps rate increases and the money goes into emergency fixes rather than planning tools (illustrative).\n*What to watch:* WSSC budget proposals for next fiscal year; Maryland PSC or county scrutiny; BGE/PPL restoration reviews.\nSources: [WSSC Water update](https://www.wsscwater.com/news/2026/november/update-600-pm-thursday-november-26-2026-out-abundance-caution-essential-water) · [WSSC final update](https://www.wsscwater.com/news/2026/november/final-update-830-am-friday-november-27-2026-essential-water-use-only-request) · [ByteWire](https://bytewire.news/wssc-water-lifts-essential-water-use-alert-as-storm-power-issues-ease/) · [Newsweek](https://www.newsweek.com/nearly-2-million-told-to-limit-water-use-on-thanksgiving-12772061) · [The National Desk](https://thenationaldesk.com/news/americas-news-now/nearly-1-million-lose-power-as-thanksgiving-storm-batters-east-coast)\n\n**5. PJM's \"Fast Energization\" filing: one 12-month queue for generators and big loads** · MEDIUM (R4 S3 T2 I3 = 3.0) · Metrics: pipeline timing (US transmission)\nOn 16 Nov PJM filed at FERC (ER27-531) to study generator interconnections and large loads of 50MW or more together in a single 12-month cluster, with a transmission-owner companion filing (ER27-520). PJM asked for a 60-day comment period and an order within 120 days (about 16 March 2027); the first application window would open in late 2027.\n*Why it matters (opinion):* If data-centre load is connected faster, transmission owners will have to reprioritise their capital plans faster too, which is a portfolio-optimisation problem.\n- **Base:** Approved broadly as filed in Q1 2027; PJM transmission owners revise their capex plans through 2027.\n- **Best:** Faster load connections accelerate transmission capex and demand for planning tools across PJM's footprint.\n- **Worst:** Contested cost allocation delays the order and the plans freeze (illustrative).\n*What to watch:* Comment deadline around mid-January; FERC order around 16 March 2027.\nSources: [The Duck Curve](https://theduckcurve.com/posts/pjm-fast-energization-ferc-filing)\n\n## Macro & SaaS pulse\n- Fed: 97.4% odds of a 25bp hike on 8–9 Dec; 10-year Treasury 4.94% (+9bp Friday). [CappNotes](https://cappnotes.substack.com/p/closing-look-friday-november-27-2026)\n- BoE: ~80% priced for a 17 Dec hike; survey median 10-year gilt 5.25% end-Dec, GBP/USD one-year median 1.34. [BoE survey](https://www.bankofengland.co.uk/markets/market-intelligence/survey-results/2026/market-participants-survey-results-november-2026)\n- Canada: several reports say economists expect a Bank of Canada hike to 2.75% on 9 Dec (not verified against a primary source). [FXStreet headline](https://www.fxstreet.com/news/canadian-dollar-draws-support-from-boc-rate-hike-bets-jobs-data-in-focus-202611271810)\n- Equities: S&P 500 +1.6% Friday to 7,297, +5.6% on the week (best since April 2025); Nasdaq +2.3%. Risk appetite is strong despite the hikes being priced. [CappNotes](https://cappnotes.substack.com/p/closing-look-friday-november-27-2026)\n- Big-vendor efficiency: SAP (reported), Oracle and Microsoft are all cutting headcount while growing cloud. Investors are rewarding AI-funded margin expansion. [Euronews](https://euronews.com/2026/11/27/german-sofware-giant-sap-weighs-at-least-10000-job-cuts-amid-ai-shift-reports-say)\n\n## 3 things to raise with the CFO\n1. **Run a rates-sensitivity overlay on the forecast.** With the Fed and BoE both likely to hike in December, ask for a scenario in which new-logo utility deals that need fresh capital approval slip by one quarter, and compare it with the base forecast.\n2. **Refresh FX assumptions for FY27 planning.** The dollar is supported by Fed bets and GBP/USD sits around 1.30–1.31, against a 1.34 one-year survey median. Agree the planning rate and the hedge or sensitivity range now, before budgets lock.\n3. **Tag the pipeline by resilience trigger.** Grid margin notices, storm outages and water supply alerts are piling up. Ask RevOps to flag deals where an outage or regulatory resilience push is the buying trigger, so marketing spend and win-rate tracking follow the theme.\n\n## Sources\n- https://cappnotes.substack.com/p/closing-look-friday-november-27-2026\n- https://finance.yahoo.com/economy/policy/articles/bank-england-greene-says-uk-141720581.html\n- https://www.bloomberg.com/news/articles/2026-11-24/boe-behind-the-curve-unless-war-miraculously-ends-greene-says-mwuqeoej\n- https://www.bankofengland.co.uk/markets/market-intelligence/survey-results/2026/market-participants-survey-results-november-2026\n- https://www.instaforex.com/forex_analysis/464955\n- https://euronews.com/2026/11/27/german-sofware-giant-sap-weighs-at-least-10000-job-cuts-amid-ai-shift-reports-say\n- https://gsmglobalnews.com/article/d20261127-ukgrid1.html\n- https://www.wsscwater.com/news/2026/november/update-600-pm-thursday-november-26-2026-out-abundance-caution-essential-water\n- https://bytewire.news/wssc-water-lifts-essential-water-use-alert-as-storm-power-issues-ease/\n- https://www.newsweek.com/nearly-2-million-told-to-limit-water-use-on-thanksgiving-12772061\n- https://thenationaldesk.com/news/americas-news-now/nearly-1-million-lose-power-as-thanksgiving-storm-batters-east-coast\n- https://theduckcurve.com/posts/pjm-fast-energization-ferc-filing\n\n*Hosts and guests are AI-generated characters.*",
+ "dialogue": [
+  {
+   "speaker": "ANCHOR",
+   "text": "Morning, and welcome to the A I P Morning Brief for Saturday the twenty-eighth of November. I'm Maya."
+  },
+  {
+   "speaker": "STRATEGIST",
+   "text": "And I'm Jordan. Coffee's on, the markets have had a long weekend, and the bond market has made up its mind."
+  },
+  {
+   "speaker": "ANCHOR",
+   "text": "It has. Traders now see a Federal Reserve rate hike in under two weeks as close to certain, and the Bank of England looks likely to follow a week later. For anyone planning utility capital, that changes the maths."
+  },
+  {
+   "speaker": "STRATEGIST",
+   "text": "It does, and it doesn't all go one way, which is what makes it interesting."
+  },
+  {
+   "speaker": "ANCHOR",
+   "text": "Later we'll have Marcus, our capital markets specialist, on rates, and Sofia, our enterprise software analyst, on reports of big job cuts at S A P. Plus the UK grid, a storm that tested an American water utility, and a filing that could speed up data centre connections."
+  },
+  {
+   "speaker": "ANCHOR",
+   "text": "So, the numbers first. On Friday's short post-Thanksgiving session, the C M E FedWatch tool put the odds of a quarter-point Fed hike on the eighth and ninth of December at ninety-seven point four percent."
+  },
+  {
+   "speaker": "STRATEGIST",
+   "text": "Which is about as close to done as markets ever get."
+  },
+  {
+   "speaker": "ANCHOR",
+   "text": "The ten-year Treasury yield rose nine basis points to four point nine four percent. And on this side of the Atlantic, Megan Greene, a member of the Bank of England's Monetary Policy Committee, said on Tuesday that the Bank is, in her words, a little bit behind the curve."
+  },
+  {
+   "speaker": "STRATEGIST",
+   "text": "She went further than that, didn't she?"
+  },
+  {
+   "speaker": "ANCHOR",
+   "text": "She did. She backed more tightening unless there's what she called a miraculous turnaround in the data or in the Middle East war. Markets were pricing roughly an eighty percent chance of another quarter-point hike on the seventeenth of December, after November's hike, the first in three years."
+  },
+  {
+   "speaker": "ANCHOR",
+   "text": "To take us through it, joining us is Marcus, our capital markets specialist. Morning, Marcus."
+  },
+  {
+   "speaker": "GUEST_MARKETS",
+   "text": "Morning both. Good to be here on a quiet Saturday, even if the bond market isn't quiet."
+  },
+  {
+   "speaker": "ANCHOR",
+   "text": "Start with the basics. Why are both central banks moving at once?"
+  },
+  {
+   "speaker": "GUEST_MARKETS",
+   "text": "It's the same shock hitting both. Energy prices from the Middle East conflict are feeding into inflation, Brent settled at about ninety-five dollars on Friday, and in the UK the household price cap goes up twenty-six percent in January. Central banks are trying to stop that becoming a wage-price spiral, and Greene's point is that the Bank waited too long last time."
+  },
+  {
+   "speaker": "STRATEGIST",
+   "text": "And the market isn't arguing with them."
+  },
+  {
+   "speaker": "GUEST_MARKETS",
+   "text": "Not really. The Bank's own survey of market participants, done in October before the November hike, already had the median ten-year gilt yield at five and a quarter percent by the end of December. That's the benchmark a lot of UK infrastructure debt is priced off."
+  },
+  {
+   "speaker": "ANCHOR",
+   "text": "So walk me through how that reaches a utility's capital plan."
+  },
+  {
+   "speaker": "GUEST_MARKETS",
+   "text": "A regulated utility earns an allowed return on its asset base, and that return is set at a rate case or price control and then fixed for a period. Its actual cost of new debt moves every day. When yields jump, the gap between what it's allowed to earn and what it pays to borrow narrows, or even goes negative, on the new money."
+  },
+  {
+   "speaker": "STRATEGIST",
+   "text": "And they can't just reprice. They're stuck until the next filing."
+  },
+  {
+   "speaker": "GUEST_MARKETS",
+   "text": "Exactly. Some US frameworks have partial true-ups, and the UK's R I I O controls index the cost of debt, but there's always a lag. In the meantime, the treasurer is asking which projects really need to happen this year."
+  },
+  {
+   "speaker": "STRATEGIST",
+   "text": "Here's where I'd put my stake in the ground. I'd call this high confidence, and I think the first-order effect is mildly negative for software timing. When capital gets tight, utilities protect the mandated, safety-critical spend first. Anything that looks discretionary, and a new planning system can look that way to a procurement team, gets pushed a quarter."
+  },
+  {
+   "speaker": "ANCHOR",
+   "text": "Hang on, though. Haven't we been saying all week that tighter money makes prioritisation software more valuable, not less?"
+  },
+  {
+   "speaker": "STRATEGIST",
+   "text": "We have, and both are true. That's the tension. Over a year, a squeeze like this strengthens the case for tools that prove which projects come first. Over the next quarter, the people who sign the purchase order are told to hold anything new."
+  },
+  {
+   "speaker": "GUEST_MARKETS",
+   "text": "I'd push back a little on that, Jordan. In my experience, the utilities that go into a rate case in a high-rate environment are the ones most desperate for evidence. Regulators are trimming revenue requests, we've seen that across Illinois and elsewhere this month, so a utility that can't show a defensible, risk-ranked plan gets cut harder. That pulls demand forward for some buyers."
+  },
+  {
+   "speaker": "STRATEGIST",
+   "text": "Fair point. So the split is by where the buyer sits in its regulatory cycle."
+  },
+  {
+   "speaker": "GUEST_MARKETS",
+   "text": "That's how I'd frame it. A utility filing in the first half of twenty twenty-seven buys now. One that's just had a settlement can afford to wait."
+  },
+  {
+   "speaker": "ANCHOR",
+   "text": "Let's get the scenarios on the table, then."
+  },
+  {
+   "speaker": "STRATEGIST",
+   "text": "Base case: some new-logo deals that need fresh capital approval slip by about a quarter, while renewals and expansions tied to upcoming filings hold up. Best case: utilities with filings next year buy sooner to defend their plans, and win rates improve where the pitch is framed around cost of capital. Worst case, and this is illustrative, a handful of large investor-owned utilities freeze procurement and several big deals drift into the second half of next year, with more pressure on discounts."
+  },
+  {
+   "speaker": "ANCHOR",
+   "text": "And Marcus, what about the currency side? A lot of software in this space is sold in dollars and reported elsewhere."
+  },
+  {
+   "speaker": "GUEST_MARKETS",
+   "text": "Sterling's been trading around one point three zero to one point three one against the dollar, with the dollar index at about one hundred and four. Fed hike bets are supporting the dollar, while the Bank's hawkishness is holding the pound up. The same survey had a one-year median of one point three four, so there's a real range to plan around."
+  },
+  {
+   "speaker": "STRATEGIST",
+   "text": "So for a budget being set now, the FX assumption is a live choice, not a formality."
+  },
+  {
+   "speaker": "GUEST_MARKETS",
+   "text": "Very much. And one more thing on valuations. Higher discount rates usually hit long-duration growth stocks, which includes most of software. But the S and P five hundred just had its best week since April last year, up five point six percent, even with hikes priced. Investors are paying for cash flow and AI-driven efficiency, not growth at any cost."
+  },
+  {
+   "speaker": "ANCHOR",
+   "text": "What should people watch?"
+  },
+  {
+   "speaker": "GUEST_MARKETS",
+   "text": "The Fed on the ninth, the Bank of Canada the same day, where several reports say economists expect a hike, and the Bank of England on the seventeenth. And watch the ten-year gilt relative to that five and a quarter percent level. A break above it would be a signal."
+  },
+  {
+   "speaker": "ANCHOR",
+   "text": "Marcus, thank you. Very clear."
+  },
+  {
+   "speaker": "GUEST_MARKETS",
+   "text": "Pleasure. Enjoy the weekend."
+  },
+  {
+   "speaker": "ANCHOR",
+   "text": "Next, a story about one of the biggest names in enterprise software. On Thursday, Bloomberg reported, citing unnamed sources, that S A P is drawing up plans to cut at least ten thousand jobs."
+  },
+  {
+   "speaker": "STRATEGIST",
+   "text": "That's a big one."
+  },
+  {
+   "speaker": "ANCHOR",
+   "text": "Euronews puts that at roughly nine percent of the global workforce. The focus is product development, engineering and sales, as S A P changes how it builds and sells software for the AI era. S A P said no decisions have been made and it doesn't comment on speculation. Shares were down about half a percent on Friday morning, at around a hundred and ninety-three euros."
+  },
+  {
+   "speaker": "ANCHOR",
+   "text": "Joining us now is Sofia, our enterprise software and AI analyst. Morning, Sofia."
+  },
+  {
+   "speaker": "GUEST_TECH",
+   "text": "Morning. And I'd underline the caveat first: this is a report, not an announcement, and the number could change after talks with employee representatives."
+  },
+  {
+   "speaker": "STRATEGIST",
+   "text": "Noted. So I'd hold this at medium confidence."
+  },
+  {
+   "speaker": "ANCHOR",
+   "text": "So why would a company growing its cloud business at twenty-six percent cut that many people?"
+  },
+  {
+   "speaker": "GUEST_TECH",
+   "text": "Because the growth is in cloud, and the cost base was built for the old model. Its third-quarter cloud revenue was six point six seven billion euros. Management wants that growth to turn into margin, and AI gives it a reason and a tool to do it. If AI agents write more code, handle more support and qualify more leads, you need fewer people in exactly the functions named."
+  },
+  {
+   "speaker": "STRATEGIST",
+   "text": "And it's not just S A P. Oracle's workforce reportedly fell by about twenty-one thousand in the year to May, and Microsoft offered voluntary buyouts to around sixty thousand staff in October."
+  },
+  {
+   "speaker": "GUEST_TECH",
+   "text": "Right. It's a pattern. The big platforms are moving money from salaries to compute."
+  },
+  {
+   "speaker": "ANCHOR",
+   "text": "What does it mean for asset management software specifically?"
+  },
+  {
+   "speaker": "GUEST_TECH",
+   "text": "Two things, on different time scales. In the short term, a restructuring of that size usually disrupts sales coverage and partner relationships. Account teams get reshuffled and deals lose their sponsor. Over twelve to eighteen months, though, I'd expect a leaner, more AI-bundled pitch, where asset management and planning features get folded into the core E R P renewal."
+  },
+  {
+   "speaker": "STRATEGIST",
+   "text": "That's the bit I'd worry about. Bundling is the oldest weapon in enterprise software. If the asset-planning capability comes free with the renewal, specialists have to argue on depth, not price."
+  },
+  {
+   "speaker": "GUEST_TECH",
+   "text": "I'd disagree slightly. Bundled modules in this area have historically been thinner. Utility capital planning is a specialist problem: multi-year portfolios, risk models, regulatory constraints. Being bundled doesn't make a module good at it."
+  },
+  {
+   "speaker": "STRATEGIST",
+   "text": "Maybe. But procurement teams don't always buy the best tool. Sometimes they buy the one that's already paid for."
+  },
+  {
+   "speaker": "GUEST_TECH",
+   "text": "Fair. That's why the evidence of value matters more than ever."
+  },
+  {
+   "speaker": "ANCHOR",
+   "text": "There's also a pricing angle here, isn't there?"
+  },
+  {
+   "speaker": "GUEST_TECH",
+   "text": "There is. If the vendors themselves need fewer people because of AI, their customers will ask the same question. Per-seat pricing gets harder to defend when the number of human users shrinks. Expect more talk of outcome-based or asset-based pricing across the industry next year."
+  },
+  {
+   "speaker": "STRATEGIST",
+   "text": "Scenarios, then. Base: no near-term change in competitive dynamics, but a louder bundling message from S A P in twenty twenty-seven. Best: sales disruption opens a window in utility deals where S A P is the incumbent E R P but its planning offer is thin. Worst, illustrative: the savings fund aggressive AI bundling into renewals, and specialists face price pressure."
+  },
+  {
+   "speaker": "ANCHOR",
+   "text": "And what to watch?"
+  },
+  {
+   "speaker": "GUEST_TECH",
+   "text": "Any formal confirmation, works council talks in Germany, and S A P's fourth-quarter results in late January, where they'll likely talk about restructuring costs and cloud backlog."
+  },
+  {
+   "speaker": "ANCHOR",
+   "text": "Sofia, thank you."
+  },
+  {
+   "speaker": "GUEST_TECH",
+   "text": "Thanks both."
+  },
+  {
+   "speaker": "ANCHOR",
+   "text": "Back to the UK grid, where we were yesterday. On Friday the National Energy System Operator, NESO, issued an electricity margin notice for the fourth day in a row."
+  },
+  {
+   "speaker": "STRATEGIST",
+   "text": "The run continues."
+  },
+  {
+   "speaker": "ANCHOR",
+   "text": "According to one trade report, the expected shortfalls were about two and a half gigawatts in the morning and two point four in the afternoon. The same report says it's the eleventh notice this year, more than the previous five years combined, and that about six gigawatts of generation wasn't counted towards the safety buffer because of network maintenance and transmission constraints."
+  },
+  {
+   "speaker": "STRATEGIST",
+   "text": "And NESO's line was?"
+  },
+  {
+   "speaker": "ANCHOR",
+   "text": "That this is not a warning of power cuts and there's no risk to supplies."
+  },
+  {
+   "speaker": "STRATEGIST",
+   "text": "Which is true, and the notices are a routine tool. But the detail matters. The tight margins aren't mainly about a lack of power stations. A big chunk is the network being worked on. That's the build-out, the R I I O three transmission investment, taking capacity offline while it's upgraded."
+  },
+  {
+   "speaker": "ANCHOR",
+   "text": "So the cure is temporarily making the patient sicker."
+  },
+  {
+   "speaker": "STRATEGIST",
+   "text": "Pretty much. And the commercial insight is that when you schedule a project matters as much as which project you pick. Planning outage windows alongside the investment plan is exactly where optimisation software earns its keep."
+  },
+  {
+   "speaker": "ANCHOR",
+   "text": "How sure are you?"
+  },
+  {
+   "speaker": "STRATEGIST",
+   "text": "Medium confidence, mainly because the totals come from a single secondary source. Base case: reliability becomes a standing theme in UK network planning, with no immediate change to approved spending. Best case: network companies prioritise tools that plan investment and outages together. Worst case, illustrative: a real supply event creates political pressure that reshapes work programmes and stalls decisions."
+  },
+  {
+   "speaker": "ANCHOR",
+   "text": "Watch for more notices in December cold spells, and any review by Ofgem or NESO of how outages are coordinated."
+  },
+  {
+   "speaker": "ANCHOR",
+   "text": "Across the Atlantic, the Thanksgiving nor'easter cut power to nearly nine hundred and forty thousand customer accounts at Thursday's peak. Six to seven hundred thousand were still out on Friday morning, mostly in Pennsylvania and New Jersey, and Baltimore Gas and Electric said repairs could run through the weekend."
+  },
+  {
+   "speaker": "STRATEGIST",
+   "text": "And the water story was the striking one."
+  },
+  {
+   "speaker": "ANCHOR",
+   "text": "It was. W S S C Water, which serves one point nine million people in Maryland, asked customers to use water for essential purposes only on Thanksgiving afternoon. It lifted that at eight thirty on Friday morning. The water was safe throughout."
+  },
+  {
+   "speaker": "STRATEGIST",
+   "text": "What actually went wrong?"
+  },
+  {
+   "speaker": "ANCHOR",
+   "text": "Its Patuxent plant was offline for planned maintenance. Then storm-related power disruptions hit the Potomac plant, and a fallen tree brought down a line feeding it. With one plant down for maintenance, there was no usual backup. It's the third alert this year, after a January cold snap and an electrical failure at Potomac in late September."
+  },
+  {
+   "speaker": "STRATEGIST",
+   "text": "Here's why that matters. That's not bad luck, it's a planning gap. Maintenance at one site took away the redundancy at the other just as the risk went up."
+  },
+  {
+   "speaker": "ANCHOR",
+   "text": "And the money?"
+  },
+  {
+   "speaker": "STRATEGIST",
+   "text": "Reports say four and a half million dollars of electrical upgrades at Potomac this year, six million proposed for next year, and a fifteen point nine million dollar substation replacement over five years. One outlet says a funding gap remains. Those are small numbers next to the consequences of a city running short of water."
+  },
+  {
+   "speaker": "ANCHOR",
+   "text": "So what do you expect?"
+  },
+  {
+   "speaker": "STRATEGIST",
+   "text": "I'd put this at high confidence for direction. Base case: resilience spending moves up the agenda for mid-Atlantic water and power budgets. Best case: repeated incidents push US water utilities to formalise risk-based capital planning, which widens the water opportunity. Worst case, illustrative: affordability pressure caps rates and the money goes on emergency fixes instead of better planning."
+  },
+  {
+   "speaker": "ANCHOR",
+   "text": "Watch W S S C's next budget proposals, and any scrutiny from county councils or the Maryland regulator."
+  },
+  {
+   "speaker": "ANCHOR",
+   "text": "One last story, briefly. PJM, the largest grid operator in the US, filed what it calls a Fast Energization Process with the Federal Energy Regulatory Commission, FERC, on the sixteenth of November."
+  },
+  {
+   "speaker": "STRATEGIST",
+   "text": "This one's flown under the radar."
+  },
+  {
+   "speaker": "ANCHOR",
+   "text": "It would study new generators and large loads of fifty megawatts or more, think data centres, together in one twelve-month cluster. PJM asked for a sixty-day comment period and an order within a hundred and twenty days, which lands around the sixteenth of March."
+  },
+  {
+   "speaker": "STRATEGIST",
+   "text": "It's slower-burning, so medium confidence. But if large loads get connected faster, the transmission owners will have to reprioritise their capital plans faster too. Base case, approval broadly as filed early next year, with revised capex plans through twenty twenty-seven. Worst case, cost allocation fights delay it and plans freeze. Watch the comment deadline in mid-January."
+  },
+  {
+   "speaker": "ANCHOR",
+   "text": "Quick macro and software pulse. Fed hike odds ninety-seven percent, ten-year Treasuries at four point nine four. Bank of England roughly eighty percent priced for the seventeenth. The Bank of Canada meets on the ninth, with economists reportedly expecting a hike."
+  },
+  {
+   "speaker": "STRATEGIST",
+   "text": "And US equities had a strong week anyway, the S and P up five point six percent. In software, the big platforms, S A P reportedly, Oracle and Microsoft, are cutting headcount while growing cloud, and investors are rewarding it. The message is efficiency."
+  },
+  {
+   "speaker": "ANCHOR",
+   "text": "Which brings us to the three things to raise with the CFO. Jordan?"
+  },
+  {
+   "speaker": "STRATEGIST",
+   "text": "One: run a rates-sensitivity overlay on the forecast. With both the Fed and the Bank of England likely to hike in December, model a case where new-logo utility deals that need fresh capital approval slip by one quarter, and put it next to the base case."
+  },
+  {
+   "speaker": "ANCHOR",
+   "text": "And make it specific: which deals are tied to a filing date, and which aren't."
+  },
+  {
+   "speaker": "STRATEGIST",
+   "text": "Exactly. Two: refresh the FX assumption for next year's plan. Sterling's around one point three zero to one point three one against a survey median of one point three four. Agree the planning rate and the sensitivity range before budgets lock."
+  },
+  {
+   "speaker": "ANCHOR",
+   "text": "So the CFO isn't surprised by a translation swing in the first quarter."
+  },
+  {
+   "speaker": "STRATEGIST",
+   "text": "Right. Three: tag the pipeline by resilience trigger. Grid margin notices, storm outages, water supply alerts. Ask the revenue operations team to flag deals where an outage or a regulator's resilience push is the buying trigger, so we can see whether that theme actually converts, and fund marketing accordingly."
+  },
+  {
+   "speaker": "ANCHOR",
+   "text": "Good list. That's the brief for Saturday. Thanks to Marcus and Sofia, and thanks for listening."
+  },
+  {
+   "speaker": "STRATEGIST",
+   "text": "Have a good weekend. And if you're in the UK, maybe keep the kettle use modest at teatime."
+  },
+  {
+   "speaker": "ANCHOR",
+   "text": "We'll be back on Monday. Take care."
+  }
+ ]
+}
